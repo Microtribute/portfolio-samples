@@ -1,0 +1,1335 @@
+<!DOCTYPE html>
+<html lang="en" class="demo-loading no-js">
+<head>
+<meta charset="utf-8">
+<meta name="language" content="English" />
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.
+
+apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '23fbb2e0572145bebfc07d4261b8990b');
+qp('track', 'ViewContent');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/23fbb2e0572145bebfc07d4261b8990b/pixel?tag=ViewContent&noscript=1"/>
+</noscript>
+<!-- End of Quora Pixel Code -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5067063"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script> 
+<!--create url for ie9,10 redirection on 404 not found-->
+<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+<base href="/www.valuecoders.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Cross Platform Mobile App Development Company | Hybrid App Development</title>
+<meta name="description" content="ValueCoders is a leading cross platform application development company offering cross platform app development services at affordable prices utilizing hybrid app development tools. We have 13+ years of experience & our crossplatform app development teams are well versed with the latest techs."/>
+<meta name="keywords" content="" />
+<!-- Open Graph -->
+<meta property="og:title" content="Cross Platform Mobile App Development Company | Hybrid App Development"/>
+<meta property="og:image" content="common/images/dsd.jpg"/>
+<meta property="og:site_name" content="Valuecoders"/>
+<meta property="og:url" content="cross-platform-app-development-services"/>
+<meta property="og:type" content="Home Page"/>
+<meta property="og:description" content="ValueCoders is a leading cross platform application development company offering cross platform app development services at affordable prices utilizing hybrid app development tools. We have 13+ years of experience & our crossplatform app development teams are well versed with the latest techs."/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="Expert Remote Teams For Your Software development Needs">
+<meta name="twitter:site" content="@valuecoders">
+<meta name="twitter:creator" content="@valuecoders">
+<meta name="twitter:url" content="cross-platform-app-development-services">
+<meta name="twitter:title" content="Cross Platform Mobile App Development Company | Hybrid App Development">
+<meta name="twitter:description" content="ValueCoders is a leading cross platform application development company offering cross platform app development services at affordable prices utilizing hybrid app development tools. We have 13+ years of experience & our crossplatform app development teams are well versed with the latest techs.">
+<meta name="twitter:image" content="common/images/dsd.jpg">
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.valuecoders.com\/","name":"ValueCoders.com : IT Outsourcing Company - Outsource Software Development Services India","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.valuecoders.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.valuecoders.com\/","sameAs":["https:\/\/www.facebook.com\/ValueCoders","https:\/\/in.linkedin.com\/company\/valuecoders","https:\/\/twitter.com\/valuecoders"],"@id":"#organization","name":"ValueCoders.com","logo":"https:\/\/www.valuecoders.com\/blog\/wp-content\/themes\/valuecoders\/images\/logo.png"}</script>
+<link rel="stylesheet" type="text/css" href="common/css/cmnCss.css"/>
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">-->
+<link rel="stylesheet" type="text/css" href="common/fonts/font.css" />
+<!--<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>-->
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic,300italic,100italic,100' rel='stylesheet' type='text/css'>
+<!--<link rel="stylesheet" type="text/css" href="common/css/jquery.rateyo.min.css" />
+<link rel="stylesheet" type="text/css" href="common/css/rating.css" />
+<link rel="stylesheet" type="text/css" href="common/css/mytab.css" />-->
+<script type="text/javascript" src="common/js/jsLib.min.js"></script>
+<script>
+
+
+
+
+$(function () { 
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 500) { 
+            $('.logo img').attr('src','common/images/VC-Log-1.png');
+        }
+        if ($(this).scrollTop() < 500) { 
+            $('.logo img').attr('src','common/images/logo.svg');
+        }
+	});});
+
+</script>
+<style>
+/* This only works with JavaScript, 
+               if it's not present, don't show loader */
+            /*#loader { display: none;  }*/
+.js #loader {
+	display: block;
+	position: absolute;
+	left: 100px;
+	top: 0;
+}
+
+
+.fixed a.logo img {
+	width: 240px;
+	height: auto; 
+}
+</style>
+
+
+
+
+
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>-->
+<!--<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>-->
+<script>
+            // Wait for window load
+//		$(window).load(function() {
+//			// Animate loader off screen
+////			$("#loader").animate({
+////				top: -200
+////			}, 1500);
+//
+//                        $("#loader").hide();
+//		});
+        </script>
+
+<!--<link rel="stylesheet" type="text/css" href="common/css/datepicker.css"/> -->
+
+<link rel="shortcut icon" href="/common/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/common/images/favicon.ico" type="image/x-icon">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2095923350635817');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2095923350635817&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 798743845 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-798743845"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-798743845');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 1013624786 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1013624786"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1013624786');
+</script>
+
+
+
+
+<link rel="canonical" href="cross-platform-app-development-services" />
+</head><body>
+<script>fbq('track', 'Lead');</script>
+<div class="outer_layout">
+<div class="outer_wrapper_new">
+
+<!-- <div class="christmas_banner"><img src="common/images/Christmas-Banner-VC.gif" alt="Hire Dedicated Developers - Logo" /></div>-->
+
+<header class="header_new" role="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-3 col-lg-2 col-md-2"> <a href="" class="logo" title="ValueCoders"><img src="common/images/logo.svg" alt="Hire Dedicated Developers - Logo" /></a> <span class="mob_icon2"></span> </div>
+      <div class="col-xs-12 col-sm-9 col-lg-10 col-md-10">
+        <ul class="menu_new">
+          <li class="menu_arrow"><a href="javascript:void(0)" id="mob_main_service_manu" title="Services">Services</a>
+            <div class=" sub_menu_new srv-list">
+              <ul class="sub-menu-list services">
+                <li class="first"><a href="application-development" title="Application Development" class="app-dvl">Application Development</a></li>
+                <li class="first"><a href="outsource-software-product-development-services" title="Software Product Development" class="software-product-dvl"> Software Product Development </a></li>
+                <li class="first"><a href="it-strategy-consulting-firms" title="It Strategy & Consulting" class="it-strategy"> IT Strategy & Consulting </a></li>
+                <li><a href="application-maintenance" title="Application Maintenance" class="app-mnt">Application Maintenance</a></li>
+                <li><a href="application-modernization" title="Application Modernization" class="app-modz">Application Modernization</a></li>
+                <li><a href="testing-qa" title="Testing & QA" class="testing-qa">Testing &amp; QA</a></li>
+                <li><a href="co-development" title="Co-Development" class="co-devlpmt">Co-Development</a></li>
+                <li class="last"><a href="dedicated-development-teams" title="Dedicated Development" class="ded-devlpmt">Dedicated Development Teams</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire"> <a href="hire-developers" id="mob_main_hire_manu" title="Hire Developers">Hire Developers</a>
+            <div class="sub_menu_new hire_dvl_list">
+              <ul class="sub-menu-list hire_devl">
+                <li><a class="php" title="php" href="hire-developers/hire-php-developers">Hire PHP Developers</a></li>
+                <li><a class="xamarin" href="hire-developers/hire-xamarin-developers">Hire Xamarin Developers</a></li>
+                <li><a class="java" title="java" href="hire-developers/hire-java-developers">Hire Java Developers</a></li>
+                <li><a class="dotnet" title=".Net" href="hire-developers/hire-dotnet-developers">Hire .NET Developers</a></li>
+                <li><a class="rectnative" title="SharePoint" href="hire-developers/hire-react-native-developers">Hire React Native Developers</a></li>
+                <li><a class="android" title="Android" href="hire-developers/hire-android-developers">Hire Android Developers</a></li>
+                <li><a class="nodejs" href="hire-developers/hire-nodejs-developers" title="Node JS">Hire Node.JS Developers</a></li>
+                <li><a class="ios" href="hire-developers/hire-ios-developers" title="IOS">Hire iOS Developers</a></li>
+                <li><a class="angularjs" href="hire-developers/hire-angularjs-developers" title="Angular JS">Hire AngularJS Developers</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="laravel" href="hire-developers/hire-laravel-developers">Hire Laravel Developers</a></li>
+                <li><a class="block_chain" href="hire-developers/hire-blockchain-developers"> Hire Blockchain Developers </a></li>
+                <li><a class="augmented_ar" href="hire-developers/hire-augmented-reality-developers">Hire Augmented Reality Developers</a></li>
+                  <li><a class="rorr" href="hire-developers/hire-ror-developers">Hire RoR Developers </a></li>
+                <li><a class="vue" href="hire-developers/hire-vuejs-developers">Hire VueJS Developers</a></li>
+                <li><a class="phython" href="hire-developers/hire-python-developers"> Hire Python Developers </a></li>
+                <li><a class="reactjs" href="hire-developers/hire-reactjs-developers">Hire ReactJS Developers</a></li>
+                
+                
+              </ul>
+              <div class="mgt-top text-center"> <a class="btn btn-box" href="hire-developers">View All</a> </div>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire sub_menu_inds"> <a href="javascript:void(0)" id="mob_main_hire_manu" title="Industries">Industries</a>
+            <div class="sub_menu_new indri_list">
+              <ul class="sub-menu-list indri">
+                <li><a class="isvs" title="isvs & Product Companies" href="industries/isv-software-development-services">ISVs & Product Companies</a></li>
+                <li><a class="digital" title="Digital & Marketing Agencies"href="industries/agencies-software-development-services">Digital & Marketing Agencies</a></li>
+                <li><a class="banking" title="Banking & Finance" href="industries/banking-financial-services">Banking & Finance</a></li>
+                <li><a class="retail" title="Retail & eCommerce" href="industries/retail-ecommerce-software-development">Retail & eCommerce</a></li>
+                <li><a class="health" title="Healthcare" href="industries/healthcare-software-development-services">Healthcare</a></li>
+                <li><a class="edu" title="Education & E-Learning" href="industries/education-elearning-software-development">Education & E-Learning</a></li>
+                <li><a class="manufacturing" href="industries/manufacturing" title="manufacturing">Manufacturing</a></li>
+                <li><a class="logistics" href="industries/logistics-transportation-software-development" title="logistics-transportation-software-development">Logistics & Transportation</a></li>
+                <li><a class="publishing" href="industries/publishing" title="Publishing">Publishing</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="media_1" title="Media & Entertainment" href="industries/media-software-development-services"> Media & Entertainment</a></li>
+                <li><a class="atomative" title="Automotive" href="industries/automotive-companies-software-development-services">Automotive</a></li>
+                <li><a class="travel" title="Travel & Tourism" href="industries/travel-tourism-software-development-services">Travel & Tourism</a></li>
+              </ul>
+              <!--<div class="mgt-top text-center">
+                                            <a class="btn btn-box" href="hire-developers">View All</a>
+                                        </div>--> 
+            </div>
+          </li>
+          <li class="no-arrow"><a title="Case Studies" href="case-studies/"> Portfolio</a></li>
+          <li class="menu_arrow"><a href="#" id="mob_main_about_manu" title="Company">Company</a>
+            <div class="sub_menu_new company-outer">
+              <ul class="sub-menu-list company">
+                <li class="first"><a title="About US" href="about"> <img class="cmpny_iconh" alt="About Us" src="common/images/about_us.png" /> <img class="cmpny_icon" src="common/images/about_us_hover.png" alt="Outsourcing"  /> About US</a></li>
+                <!--<li><a title="How It Works" href="process">
+                                            <img class="cmpny_iconh" alt="How It Works" src="common/images/how_it_worksM.svg" />
+                                            <img class="cmpny_icon" src="common/images/how_it_works.svg" alt="24" >
+                                            How It Works</a></li>-->
+                
+                <li><a title="Blog" href="blog/" target="_blank"> <img class="cmpny_iconh" alt="Blog" src="common/images/blog.png" /> <img class="cmpny_icon" src="common/images/blog_hover.png" alt="BLOG" /> Blog</a></li>
+                <li><a class="faq-menu" title="FAQ's" href="faq"> <img class="cmpny_iconh" alt="FAQ" src="common/images/FAQ.png" /> <img class="cmpny_icon" src="common/images/FAQ_hover.png" alt="FAQ" /> FAQ</a></li>
+                <li><a class="testml-menu" title="CLIENT TESTIMONIALSs" href="testimonials"> <img class="cmpny_iconh" alt="CLIENT TESTIMONIALSs" src="common/images/testimonial-icon.png" /> <img class="cmpny_icon" src="common/images/testimonial_hover.png" alt="CLIENT TESTIMONIALSs" /> CLIENT TESTIMONIALS</a></li>
+                <!--<li><a class="cases-menu" title="Case Studies" href="case-studies/"> <img class="cmpny_iconh" alt="Case Studies" src="common/images/case_study.png" /> <img class="cmpny_icon" src="common/images/case_study_hover.png" alt="Case Studies" /> Case Studies</a></li>-->
+                <li class="last"><a class="approach-menu" title="approach" href="our-approach"> <img class="cmpny_iconh" alt="approach" src="common/images/approach.png" /> <img class="cmpny_icon" src="common/images/approach_hover.png" alt="approach" /> Approach</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="contact_us"><a href="contact" title="Contact" class="contact_last">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+    <section class="cross_plt_pg iso_pgN">
+      <section class="web_appl_dvl_newPG">
+        <div class="cross-platform_bnner_sec_outr">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                <div class="web_appl_dvl_bnner_sec">
+                  <h3> Save 40% <span> Mobile App Development Cost </span> </h3>
+                  <h1 class="wow fadeIn animated" data-wow-delay=".2s"> With Our Cross-Platform Application Development Services </h1>
+                  <p class="wow fadeIn animated" data-wow-delay=".3s"> With the exponential growth of smartphone industry, businesses are in need of technologies that offer “one-code-fits-all” facility. Cross-platform application development for mobile is often a good way to fulfil this requirement. That’s why at ValueCoders, we develop mobile applications that’s immediately available on all major platforms such as iOS, Android, Windows and save your time & cost. </p>
+                  <ul class="wow fadeIn animated" data-wow-delay=".6s">
+                    <li class="web-icon1">Agile Development</li>
+                    <li class="web-icon2">Higher Productivity</li>
+                    <li class="web-icon3">Lower Time To Market</li>
+                    <li class="web-icon4">Robust Applications</li>
+                  </ul>
+                  <div class="Web_dvl_button wow fadeInDown animated" data-wow-delay=".3s"> <a href="contact.php" title="Discuss Your Requirements With Us" >Discuss Your Requirements With Us</a> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="valucoder_advt_sec">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="valucoder_advt_sec">
+                <h4><span class="workus_before"></span>Advantages of Cross-Platform <span> <br>
+                  Application Development</span><span class="workus_after"></span></h4>
+                <ul>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt1"></span>
+                    <p class="advt_sec_hd">Greater User Base</p>
+                    <p class="advt_sec_desc"> Whether you want to build an app with a Native design or single environment design, cross platform mobile development will help your app to run on any mobile device. As a result, you get a larger user base. </p>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt2"></span>
+                    <p class="advt_sec_hd"> Ready-to-market Cross-Platform Apps </p>
+                    <p class="advt_sec_desc"> We build cross-platform mobile apps that are ready-to-market, qualified and all tested for quality. That means when we are done with the hybrid mobile app development, it is ready to go to the app stores. </p>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt3"></span>
+                    <p class="advt_sec_hd"> Save Upto 50% Cost & Time</p>
+                    <p class="advt_sec_desc"> The ease of creating and maintaining an app that can run on all platforms is both cost effective and less time consuming. You no longer have to worry about hiring those hard to get developers for each platform. </p>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt4"></span>
+                    <p class="advt_sec_hd"> High Performance Across Devices </p>
+                    <p class="advt_sec_desc"> Across all platforms and devices, the app will deliver high performance & fast response time. Moreover, The UI that's build through the cross-platform tools, can be easily replicated on to other OS. </p>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt5"> </span>
+                    <p class="advt_sec_hd"> Fast Development & Easy Integration </p>
+                    <p class="advt_sec_desc"> Cross platform mobile application development enables easy integration with cloud environments. For example, it is coded on cross platform environment and can execute on multiple mobile platforms. </p>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt6"></span>
+                    <p class="advt_sec_hd"> Native Alike Search Engine Friendly Apps </p>
+                    <p class="advt_sec_desc"> The apps generated by other cross platform mobile application development tools can be crawled and indexed by search engines easily which makes it accessible to users also they work alike a native apps. </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 text-center"> <a class="btn btn-discuss-reqr wow fadeInDown animated" data-wow-delay=".1s" href="contact">START A PROJECT</a> </div>
+          </div>
+        </div>
+      </section>
+      <section class="customized_cross_platform">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="customized_cross_inner">
+                <h4><span class="workus_before"></span>Customized Cross-Platform App Development <span> <br>
+                  to accomplish your business needs </span><span class="workus_after"></span></h4>
+                <p>With the existence of multiple mobile devices and multiple smartphone platforms, we’ve gained expertise in creating 
+                  multi-platform app development solutions for both Android and iOS devices in the price of one codebase and 
+                  using the same IDE, language and APIs. The various cross-platform services we provide are:</p>
+                <ul>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt1"></span>
+                    <h5>Calendar Apps</h5>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt2"></span>
+                    <h5>Classified Apps</h5>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt3"></span>
+                    <h5>Enterprise Apps</h5>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt4"></span>
+                    <h5>E-commerce Apps</h5>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt5"> </span>
+                    <h5>Social Network 
+                      Apps</h5>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt6"></span>
+                    <h5>Business 
+                      Applications</h5>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt7"></span>
+                    <h5>Cross-Platform 
+                      Desktop Apps</h5>
+                  </li>
+                  <li class="wow zoomIn animated" data-wow-delay=".1s"> <span class="vcadvt8"></span>
+                    <h5>Geo-based 
+                      Applications</h5>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 text-center"> <a class="btn btn-discuss-reqr wow fadeInDown   animated" data-wow-delay=".1s" href="contact" style="visibility: visible; animation-delay: 0.1s;">TALK TO OUR EXPERTS</a> </div>
+          </div>
+        </div>
+      </section>
+      <div class="mobile_service_sec">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="mobile_inner">
+                <h4><span class="workus_before"></span>Our Cross-Platform<span> <br>
+                  Mobile Development Services</span><span class="workus_after"></span></h4>
+                <ul>
+                  <li> <a href="hire-developers/hire-xamarin-developers">
+                    <figure> <img src="common/images/cross_p_m_1.png" alt="Mobile app development services"> </figure>
+                    <h5>Xamarin</h5>
+                    </a> </li>
+                  <li> <a href="hire-developers/hire-phonegap-developers">
+                    <figure> <img src="common/images/cross_p_m_2.png" alt="hybrid mobile app development"> </figure>
+                    <h5>PhoneGap</h5>
+                    </a> </li>
+                  <li> <a href="hire-developers/hire-ionic-developers">
+                    <figure> <img src="common/images/cross_p_m_3.png" alt="cross platform mobile app development"> </figure>
+                    <h5>Ionic</h5>
+                    </a> </li>
+                  <li> <a href="hire-developers/hire-react-native-developers">
+                    <figure> <img src="common/images/cross_p_m_4.png" alt="hybrid mobile application development"> </figure>
+                    <h5>React Native</h5>
+                    </a> </li>
+                  <li> <a href="hire-developers/hire-unity-3d-developers">
+                    <figure> <img src="common/images/cross_p_m_5.png" alt="mobile application development services"> </figure>
+                    <h5>Unity 3D</h5>
+                    </a> </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section class="client_foucus_sec">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="client_focus_inner">
+                <h2 class="wow fadeIn animated" data-wow-delay=".2s"> </h2>
+                <h4><span class="workus_before"></span>Client<span> Focus</span><span class="workus_after"></span></h4>
+                <p class="wow fadeIn animated" data-wow-delay=".3s">We deliver Custom Application Development Services for Startups, SMBs and Agencies since 2004.</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+              <div class="client_box wow rotateInDownLeft animated" data-wow-delay=".1s">
+                <div class="client_box_hd">Startup Businesses</div>
+                <ul>
+                  <li>Fixed price estimates</li>
+                  <li>Iterative prototyping services for fast delivery of a fully verified MVP</li>
+                  <li>Dedicated scrum masters and advanced Agile delivery practices</li>
+                  <li>Capacity to rapidly grow the web &amp; mobile app development teams</li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+              <div class="client_box wow rotateInDownLeft animated" data-wow-delay=".1s">
+                <div class="client_box_hd">Digital Agencies &amp; ISVs </div>
+                <ul>
+                  <li>Tested and Proven environment optimization techniques</li>
+                  <li>Flexible engagement models for varying delivery risks</li>
+                  <li>Capacity to support an ongoing stream of projects</li>
+                  <li>Hands-on project delivery experience with value-added services</li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+              <div class="client_box wow rotateInDownLeft animated" data-wow-delay=".1s">
+                <div class="client_box_hd">Enterprises &amp; Governments</div>
+                <ul>
+                  <li>Professional consulting and assistance for large agencies</li>
+                  <li>Process transparency and contracting engagements</li>
+                  <li>Adherence to standards and regulations for government projects</li>
+                  <li>Enabling effective cross-enterprise orchestration of existing IT investments</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      
+   <section class="application_development_sec">
+    <div class="top_sec">
+      <h3> Our Software Migration & Modernization Work Samples </h3>
+      <p> Top businesses rely on ValueCoders for their joint application development needs. Here are a few cases of companies whose success has been supported by us
+ </p>
+    </div>
+    <section class="samples-dev">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-6">
+            <div class="col-12">
+              <div class="box box1">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4>medical journal</h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <div class="cross-icon"> <a href="javascript:void(0);">x</a> </div>
+                    <h3>medical journal</h3>
+                    <p>Medical Journal App for iOS Mobile Operating System: Here we are going to talk about the medical journal app for iOS operating system which gives all the details related to medicines and drugs given by the doctor to their patients.</p>
+                    <div class="button-full"> <a href="case-studies/medical-journal-app">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="col-3">
+              <div class="box box2">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4>Story Book</h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3>Story Book</h3>
+                    <p>Story Book App: The main requirement of our client was to develop an app with the good quality and high performance. The design and creative inputs were given by him looking his background was shared by him. His expectation from ValueCoders was ensuring that the app was of great quality, animated and user friendly .The stories had to be written in two languages i.e English and Spanish.</p>
+                    <div class="button-full"> <a href="case-studies/story-book-app-ipad" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+              <div class="box box3">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4>Interactive Augmented Reality</h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3>Interactive Augmented Reality</h3>
+                    <p>Interactive Augmented Reality App: An app that will allow for infinite number of stories each time so that every time the character pops up, it has something different to offer to the kids.</p>
+                    <div class="button-full"> <a href="case-studies/interactive-augmented-reality-app" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-3">
+              <div class="box box4">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4>Real Estate</h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3>Real Estate</h3>
+                    <p>Real Estate Mobile App: The business requirement was to develop a smooth running, user friendly application through which the users can easily navigate. The client wanted to have an "available rental estates" application that will simplify the task of acquiring the information about the rental estates in a particular region of Norway. They wanted to have an application through which they can gather the details of the property of their interest (if available in the list of available rental estates).</p>
+                    <div class="button-full"> <a href="case-studies/real-estate-mobile-app" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+              <div class="box box5">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4>Shopping Network</h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3>Shopping Network</h3>
+                    <p>Shopping Network App:Our clients, a very known content management and advertising services and they required a shopping-network mobile app for empowering potential buyers. This app enables potential buyers to browse shops, categories, and products by using their mobile devices and download discount coupons offered by various shop owners. Moreover, this feature-rich app was developed in intention to reach a cross platform target audience of mobile users spread across popular mobile operating systems like Android and iOS.</p>
+                    <div class="button-full"> <a href="case-studies/shopping-network-app-android-and-ios" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    </section>
+    
+   
+    <section class="client_testimonila_sec">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+            <div class="testmonilas_innr">
+              <h3>CLIENT TESTIMONIALS </h3>
+              <p>Still not convinced? See what our customers are saying..</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="testimonial_slide1 owl-carousel owl-theme col-lg-5 col-md-12 col-sm-12 col-xs-12">
+            <div class="item">
+              <div class="development_services_inner"> <span> “
+                
+               In my opinion ValueCoders is a stress buster. I have had the most peaceful time with ValueCoders by my side taking care of all my complicated website development. All I did was to wait for their prompt email updates in my inbox.
+                
+                ” </span>
+                <h4>-  Cathy Wise </h4>
+              </div>
+            </div>
+            <div class="item">
+              <div class="development_services_inner"> <span>“
+                
+               Understanding the needs of customers is the key to any successful business. They perfectly understand these needs and know how to make them applicable. They are world-class experts in this field and they are more eager than us to get the project done! They are exceptionally reliable and highly efficient.
+                
+                ” </span>
+                <h4> - Krystal Norris </h4>
+              </div>
+            </div>
+            
+            
+          </div>
+          <div style="visibility: visible; animation-delay: 0.1s;" data-wow-delay=".1s" class="col-lg-2 col-md-12 col-sm-12 col-xs-12 wow rotateInDownLeft   animated animated animated animated animated">
+            <div class="development_services_inner">
+              <div class="img_box"><img src="common/images/ios_testomonila131217.png"/></div>
+            </div>
+          </div>
+          <div class="testimonial_slide2 col-lg-5 col-md-12 col-sm-12 col-xs-12">
+            <div class="item">
+              <div class="development_services_inner "> <span>“
+                
+               With ValueCoders I have experienced a lot of 'firsts'. I noticed that they never shied away from innovating especially with technologies that were a bit old. Their belief in the power of combination and permutation is astounding as they took the best of all.
+                
+                ” </span>
+                <h4>-  - Daisy Banks  </h4>
+              </div>
+            </div>
+            <div class="item">
+              <div class="development_services_inner "> <span>“
+                
+             I am looking forward to work with ValueCoders in the near future. ValueCoders, through their exceptional service culture, has found a place in our provider list despite them being new to us. They took the least time to impress.
+                
+                ” </span>
+                <h4>-  Eddie May </h4>
+              </div>
+            </div>
+            
+            
+          </div>
+        </div>
+      </div>
+    </section>
+      
+      
+       <footer class="footeFormr">
+      
+
+<script type="text/javascript" src="common/js/scriptcontact.js"></script>
+    <link rel="stylesheet" type="text/css" href="common/css/style_ios.css"/>
+    <script>
+        function showShareURL() {
+            $("#share_url").show();
+            $("#label_share_url").hide();
+        }
+    </script>
+    <style>
+        .input-group .err {
+            position: absolute;
+            right: 10px;
+            top: 0;
+            color: #ff1d1d;
+            font: 12px/48px aller_lightregular;
+            z-index: 10;
+        }
+ .footerInner .chain {
+	display: inline-block;
+	float: left;
+	margin-right: 195px;
+	margin-top:10px;
+	width: 30%;
+}
+
+
+chain::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: pink;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: pink;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: pink;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: pink;
+}
+
+
+.chain > span {
+  display: inline-block;
+  padding-top: 14px; color:#625959 !important;
+}
+
+
+
+.drop{
+border: 1.5px dashed  hsl(0, 0%, 24%);
+    color: hsl(0, 0%, 38%);
+    display: inline-block;
+    font: 400 16px/26px Lato;
+    margin: 0 75px;
+    padding: 3px 12px;
+    position: relative;
+    text-decoration: none;
+}
+
+@media only screen and (max-width:1199px) {
+	.drop {
+  border: 1px solid hsl(0, 0%, 24%);
+  color: hsl(0, 0%, 38%);
+  display: inline-block;
+  font: 400 16px/26px Lato;
+  margin: 0 15px;
+  padding: 3px 12px;
+  position: relative;
+  text-decoration: none;
+}
+
+.footerInner .chain {
+  display: inline-block;
+  float: right;
+  margin-right: 145px;
+  margin-top: 12px;
+  width: 30%;
+}
+	
+	
+	
+	}
+
+
+
+
+@media only screen and (max-width:991px) {
+	
+	.drop {
+  border: 1px solid hsl(0, 0%, 24%);
+  color: hsl(0, 0%, 38%);
+  display: inline-block;
+  font: 400 16px/26px Lato;
+  margin: 0;
+  padding: 3px 12px;
+  position: relative;
+  text-decoration: none;
+}
+
+
+
+.footerInner .chain {
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 28px;
+  width: 40%;
+}
+
+	.rating_outer .social-btn {
+	margin-top: 20px !important;
+}	
+	
+	}
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+	.footerInner .chain {
+  display: inline-block;
+  float: right;
+  margin-right: 0;
+  margin-top:0px;
+  padding: 0 20px; margin-bottom:5px;
+  width: 100%;
+}
+
+
+.footerInner .btn {
+  margin-top: 6px;
+  padding: 12px 20px;
+  text-transform: uppercase;
+}
+	
+	
+	}
+
+@media only screen and (max-width:479px) {
+	
+	.footerInner .btn {
+  background-color: hsl(91, 100%, 35%);
+  font: 400 17px/30px Lato;
+  margin-bottom: 20px;
+  margin-top: 11px;
+  padding: 12px 20px;
+  text-transform: uppercase;
+}
+	
+	
+	
+	}
+
+
+
+
+
+    </style>
+
+
+
+<div class="container">
+        <div class="footerInner">
+          <div class="footerHeadder text-center">
+            <h2 class="secssion_heading">Get in touch</h2>
+            <p>Request a free consultation and get a no obligation quote for your project within 8 hours</p>
+          </div>
+          <div class="footerFormBody">
+            <form name="contact-frm" id="contact-frm" action="sendmail1.php" class="form-outer" method="post" enctype="multipart/form-data">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-user"></i> </span>
+                    <input type="text" class="form-control" placeholder="Your Name *" name="user-name" id="user-name" />
+                    <span id="user-name-err1" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-envelope"></i> </span>
+                    <input type="text" class="form-control" placeholder="Email ID *" name="user-email" id="user-email" />
+                    <span id="user-email-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-phone"></i> </span>
+                    <input type="text" class="form-control" placeholder="Phone" name="user-phone" id="user-phone" />
+                    <span id="user-phone-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group budujt" style="width:100%;"> <span class="input-group-addon"> <i class="fa fa-usd"></i> </span>
+                    <select class="citySelectze form-control" style="width:100%;" name="user-budget">
+                      <option>What is your alloted budget?</option>
+                      <option value="$1000"><$1000</option>
+                      <option value="$1000-$5000">$1000-$5000</option>
+                      <option value="$5000-$10000">$5000-$10000</option>
+                      <option value="$10000 or more">>$10000 </option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="input-group"> <span class="input-group-addon" style="vertical-align:top;"> <i class="fa fa-server"></i> </span>
+                    <textarea type="text" class="form-control" placeholder="Your Requirements" name="user-req" id="user-req"></textarea>
+                    <span id="user-message-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ">
+                    <div id="uploadcontact">
+                    <div id="dropcontact">
+                        <label for="file-3">
+                            <span class="fileUload" style="color: #616161;display: inline-block;position: relative;font: 400 16px/26px Lato;text-decoration: none;padding: 12px 20px 0 0;margin-bottom: 20px;"><i class="fa fa-file-text-o"></i> &nbsp;Upload your file.</span>
+                            <span class="drop"><i class="fa fa-dropbox"></i> &nbsp;Drop files here</span>
+                            
+                            
+                                
+                        </label>	
+                        <input type="file" name="upl" id="file-3" class="inputfile inputfile-3" />
+                    </div>
+                    <ul></ul>
+                    </div>
+                    <div class="file-format">
+                        <span id="filetext" style="display:none;"></span> 
+                        <label> </label>
+                    </div>
+                </div>
+                <div class="chain">
+                    <span onclick="showShareURL();" id="label_share_url"><i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url</span>
+                    <div class="input-group" id="share_url" style="display:none;"> <span class="input-group-addon"> <i class="fa fa-link"></i> </span>
+                        <input type="text" class="form-control" placeholder="Share Dropbox or Other Url" name="customUrllink" id="user-url" maxlength="100" />
+                    </div>
+                </div>
+                <!--<div class="col-sm-12"> <a href="javascript:void(0);" class="fileUload" onclick="document.getElementById('footerFormFile').click();"> <i class="fa fa-file-text-o"></i> &nbsp;Upload your file.</a> 
+                 <a href="#" class="drop"> <i class="fa fa-dropbox"></i> &nbsp;Drop files here </a>
+                <a href="#" class="chain"> <i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url </a>
+                
+                  <input type="file" id="footerFormFile" />
+                  <span id="filetext" style="display:none;"></span> <br>
+                  <label> Accepted file Formats: <span> .PSD, .JPG, .JPEG, .GIF, .PNG, .AI, .ZIP, 
+                    .RAR, .PDF, .DOC, .DOCX, .XLS, .XLSX, .PPT. </span> If file size is greater than
+                    20MB, 
+                    Please share using Dropbox or similar. </label>
+                </div>-->
+                           <div class="btn_main">
+                <div class="formfooter text-center">
+                  <button class="btn btn-success" id="submitFrm">Send your request</button>
+                  <p class="privacy"> <i class="fa fa-lock"></i> Your privacy is guaranteed. We hate spam as much as you do! </p>
+                </div>
+                </div>
+              </div>
+                <input type="hidden" name="frmOrderFileUploadedfilename" id="frmOrderFileUploadedfilename" value="" />
+                <input type="hidden" name="_frmOrder" value="frmOrder" />
+                <input type="hidden" name="type" value="contact-frm" />
+             <input type="hidden" name="frmqueryString" id="frmqueryString" value="utm_source=blog&utm_medium=headerbanner&utm_campaign=home&amp;PageName=&amp;xForwordFor=&amp;deviceID=computer" />
+            </form>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>    </footer>
+      
+      <script type="text/javascript">
+
+    equalheight = function(container){
+		var currentTallest = 0,
+		     currentRowStart = 0,
+		     rowDivs = new Array(),
+		     $el,
+		     topPosition = 0;
+		 $(container).each(function() {
+		   $el = $(this);
+		   $($el).height('auto')
+		   topPostion = $el.position().top;
+
+		   if (currentRowStart != topPostion) {
+		     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+		       rowDivs[currentDiv].height(currentTallest);
+		     }
+		     rowDivs.length = 0; // empty the array
+		     currentRowStart = topPostion;
+		     currentTallest = $el.height();
+		     rowDivs.push($el);
+		   } else {
+		     rowDivs.push($el);
+		     currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+		  }
+		   for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+		     rowDivs[currentDiv].height(currentTallest);
+		   }
+		 });
+}
+$(window).load(function() {
+  equalheight('.eql_height');
+  equalheight('.eql_height2');
+  equalheight('.eql_height3');
+  equalheight('.eql_height4');
+  equalheight('.eql_height5');
+  equalheight('.eql_height6');
+  equalheight('.eql_height7');
+  equalheight('.eql_height1');
+  
+});
+$(window).resize(function(){
+  equalheight('.eql_height');  
+  equalheight('.eql_height2');
+  equalheight('.eql_height3');
+  equalheight('.eql_height4');
+  equalheight('.eql_height5');
+  equalheight('.eql_height6');
+  equalheight('.eql_height7');
+  equalheight('.eql_height1');
+});
+
+
+   $(".hire_dev_sec .hire_dev_sec-right ul li").addClass("eql1_height");
+
+ if ($(window).width() < 768){
+   $(".hire_dev_sec .hire_dev_sec-right .hire_dev_right-inner").removeClass("eql_height");
+}
+
+else {
+   
+}
+
+
+</script>
+
+      <script type="text/javascript">
+$(document).ready(function() {
+    $("#contact_pdf_request").submit(function() {  
+	    var proceed = true;
+        //simple validation at client's end
+        //loop through each field and we simply change border color to red for invalid fields		
+		$("#contact_form input[required=true]").each(function(){
+			$(this).css('border-color',''); 
+			if(!$.trim($(this).val())){ //if this field is empty 
+				$(this).css({'border':'1px solid #FF0000', 'box-shadow':'0 0 5px red'}); //change border color to red   
+				proceed = false; //set do not proceed flag
+			}
+			//check invalid email
+			var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/; 
+			if($(this).attr("type")=="email" && !email_reg.test($.trim($(this).val()))){
+				$(this).css({'border':'1px solid #FF0000', 'box-shadow':'0 0 5px red'}); //change border color to red   
+				proceed = false; //set do not proceed flag				
+			}	
+		});
+       
+        if(proceed) //everything looks good! proceed...
+        {
+
+           //data to be sent to server         
+            var m_data = new FormData();    
+            m_data.append( 'user_name', $('#contact_form input[name=name]').val());
+            m_data.append( 'user_email', $('#contact_form input[name=email]').val());
+            m_data.append( 'company_name', $('#contact_form input[name=company_name]').val());
+            
+            if($('#subscribe').is(':checked')) m_data.append( 'subscribe', 'Yes');
+            else m_data.append( 'subscribe', 'No');
+			 
+            //instead of $.post() we are using $.ajax()
+            //that's because $.ajax() has more options and flexibly.
+  			$.ajax({
+              url: 'common/inc/contact_me.php',
+              data: m_data,
+              processData: false,
+              contentType: false,
+              type: 'POST',
+              dataType:'json',
+              success: function(response){
+				$('#contact_form input[name=name]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#contact_form input[name=email]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#contact_form input[name=company_name]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#subscribe').prop('checked', false);
+				 
+                //load json data from server and output message     
+ 				if(response.type == 'error'){ //load json data from server and output message     
+					output = '<div class="error">'+response.text+'</div>';
+				}else{
+				    $('.contact-description').addClass('hide-me').hide();
+				    $('#contact_body').addClass('hide-me').hide();
+				    output = '<div class="success">'+response.text+'</div>';
+				}
+				$("#contact_form #contact_results").hide().html(output).slideDown();
+              }
+            });
+			
+
+        }
+    });
+    
+    //reset previously set border colors and hide all message on .keyup()
+    $("#contact_form  input[required=true]").keyup(function() { 
+        $(this).removeAttr("style");
+        //$(".success, .error").slideUp();
+    });
+});
+</script>
+
+<div class="pop-up-box">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<p>ValueCoders goes much beyond the regular hiring of offshore teams. The clients are insured that their projects will never slow down. The stability of teams provided by ValueCoders is unmatched as we provide free immediate replacement of teams in case of any dissatisfaction whatsoever.</p>
+				<ul>
+					<li>Minimum optimum productivity guaranteed </li>
+					<li>Get billed only if the performance is up to the mark </li>
+					<li>Hire and review first and then move forward </li>
+				</ul>
+			</div>
+			<div class="pop-up-right">
+				<img src="common/images/popup_img1.png" alt="Billing Gaurantee- Logo - 1" />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box1">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<p>At ValueCoders we provide people who are passionate about their work. ValueCoders ensures you 100% satisfaction guarantee every single time. The professional are chosen on the basis of their ability to outperform their tasks.  We make sure, each of the personnel go through rigorous tests before coming on-board.</p>
+				<ul>
+					<li>Highly productive and qualified teams</li>
+					<li>On-time project deliveries</li>
+					<li>A collaborative and happy work culture </li>
+				</ul>
+			</div>
+			<div class="pop-up-right">
+				<img src="common/images/popup_img2.png" alt="Satisfaction Gaurantee- Logo - 2" />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box2">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<ul>
+					<li>
+						<span class="popup_icon popup_icon1">
+						
+						</span>
+						Take a free trial of your development work, for a period of 2 weeks
+					</li>
+					<li>
+						<span class="popup_icon popup_icon2">
+						
+						</span>
+						Billing will be done after you are satisfied and decide to continue
+					</li>
+					<li>
+						<span class="popup_icon popup_icon3">
+						
+						</span>
+						No bill will be raised if you do-not wish to continue
+					</li>
+				</ul>
+			</div>
+			<div class="get-touch">
+				<a href="request-free-trial" title="Get In Touch" >Request a free Trial</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box3">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-right">
+				<img src="common/images/popup3_img.jpg" alt="Outsource - Logo - 2" />
+			</div>
+			<div class="pop-up-left">
+				<p class="contact-description">The cost advantages of outsourcing can be huge if it is executed with a long term plan in mind. Short term tactical hiring of remote teams may not bring fruitful results for the outsourcing customer. This E-book details out the challenges, solutions and strategies to better outsourcing.</p>
+				<div class="form-style" id="contact_form">
+					<div id="contact_results"></div>
+					<div id="contact_body">
+						<form name="contact_pdf_request" id="contact_pdf_request" method="post" onSubmit="return false;">
+							<input type="text" placeholder="Contact Name" name="name" id="name" required="required" class="input-field"/>
+							<input type="email" placeholder="Email" name="email" required="required" class="input-field"/>
+							<input type="text" placeholder="Company Name" name="company_name" class="input-field"/>
+							<label class="contct_checkbox" for="subscribe">
+								<input type="checkbox" id="subscribe" name="subscribe" class="input-field input-checkbox" value='1' />
+								<span class="label-text">&nbsp;&nbsp;Subscribe to our Newsletters, Updates &amp; Offers</span>
+							</label>
+							<input type="submit" id="submit_btn" value="Get Download Link" data-style="slide-left" />
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+      <footer class="footer" role="contentinfo">
+    
+   <div class="awd_outer">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <ul class="awd_sec">
+                  <li><img src="common/images/awd_sprite_2209.jpg" alt="Deloitte"/></li>
+                  <!--<li><img src="common/images/awrd2.png" alt="Deloitte"/></li>
+                     <li><img src="common/images/awrd3.png" alt="Emerge"/></li>
+                     <li><img src="common/images/awrd4.png" alt="Asia Red"/></li>
+                     <li><img src="common/images/awrd5.png" alt="Eretail"/></li>
+                     <li><img src="common/images/awrd6.png" alt="Iso"/></li>
+                     <li><img src="common/images/awrd7.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd8.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd9.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd10.png" alt="Magento"/></li>-->
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+      <div class="rating_outer">
+      <div class="container">
+         <div class="row rating_bx">
+            <div class="snippet col-md-8 col-sm-12 col-xs-12">
+               <div class="rating-section">
+                  <div class="rating-view">
+                     <div class="rateit-wrap">
+                        <div id="rateYo1" class="jq-ry-container" readonly="readonly" style="width: 73px;"></div>
+                        <div class="initail-rate">
+                                                      <span class="rate-btn enable"> Rate us</span>
+                                                      <!-- <span class="rate-btn rateYo2 edited already_rated">Already Rated</span> -->
+                        </div>
+                     </div>
+                     <div class="overall"><span itemscope="" itemtype="http://data-vocabulary.org/Review-aggregate">
+                        <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+                        <input type="hidden" name="post_id" id="rating_post_id">
+                        <input type="hidden" name="currentrate" id="currentrate" value="1201">
+                        <strong itemprop="average" id="ratingValue">4.9 </strong>
+                        out of <strong itemprop="best">5.0 </strong>
+                        </span>&nbsp; for &nbsp;
+                                                <span itemprop="itemreviewed">Software Development Services </span>   
+                                
+                        &nbsp; by &nbsp;<span class="client-project" style="display:block !important;"><span itemprop="votes" id="totalClient">1201 </span>clients on over 3800+ projects</span></span>
+                        <input type="hidden" name="rating_page_url" value="cross-platform.php" id="rating_page_url">
+                     </div>
+                  </div>
+                  <script type="text/javascript">
+                     var allreadyRated = '1';
+                     var ratingValue = '4.7';   
+                  </script>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+               <div class="social-btn pull-right">
+                  <div id="fb-root"></div>
+                  <div class="fb-like" data-href="https://www.facebook.com/ValueCoders" data-send="false" data-layout="button_count" data-width="350" data-show-faces="true"></div>
+                  <!-- Place this render call where appropriate -->
+                  <a href="https://twitter.com/share" class="twitter-share-button" data-url="">Tweet</a>
+                  <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+                  <script type="IN/Share" data-url="https://www.valuecoders.com" data-counter="right"></script>
+                  <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/103716832322080901612"></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="footer_bottom">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+               <ul class="footer_menu">
+                  <!--                        <li><a href="application-maintenance" title="Application Maintenance">Application Maintenance</a><span>|</span></li>
+                     <li><a href="application-modernization" title="Application Modernization">Application Modernization</a><span>|</span></li>
+                     <li><a href="application-development" title="Application Development">Application Development</a><span>|</span></li>-->
+                  <!--<li><a href="communication-channels" title="Communication Channels">Communication Channels</a><span>|</span></li>-->
+                  <!--<li><a href="testing-qa" title="Testing & QA">Testing & QA</a><span>|</span></li>-->
+                  <li><a href="faq" title="FAQ">FAQ</a><span>|</span></li>
+                  <li><a href="disclaimer" title="Disclaimer">Disclaimer</a><span>|</span></li>
+                  <li><a href="privacy-policy" title="Privacy Policy">Privacy Policy</a><span>|</span></li>
+                  <li><a href="terms-of-service" title="Terms of Service">Terms of Service</a><span>|</span></li>
+                  <li><a title="Why India?" href="why-india">Why India?</a><span>|</span> </li>
+                  <li><a title="In Media" href="in-media">In Media & Partners</a><span>|</span></li>
+                  <li><a title="How It Works" href="process">How It Works</a></li>
+               </ul>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+               <ul class="social_sec">
+                  <li>
+                     <a href="https://twitter.com/ValueCoders" title="Twitter" target="_blank">
+                     <i class="fa fa-twitter-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.facebook.com/ValueCoders" title="Facebook" target="_blank">
+                     <i class="fa fa-facebook-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://plus.google.com/103716832322080901612/posts" title="Google +" target="_blank">
+                     <i class="fa fa-google-plus-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.linkedin.com/company/valuecoders" title="Linkedin" target="_blank">
+                     <i class="fa fa-linkedin-square"></i>
+                     </a>
+                  </li>
+                  <li> <a href="https://www.youtube.com/valuecoders/" title="youtube" target="_blank"> <i class="fa fa-youtube-square" aria-hidden="true"></i>
+                     </i> </a> 
+                  </li>
+                  <li> <a href="https://www.instagram.com/valuecoder/" title="instagram" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i>
+                     </i>
+                     </i> </a> 
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <p>Copyright &copy; 2004 - 2019. All Rights Reserved. ValueCoders.com</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+</section>
+</div>
+</div>
+<script type="text/javascript" src="common/js/cmnJs.min.js"></script>
+<!--<script type="text/javascript" src="common/js/jquery.rateyo.min.js"></script>-->
+<script>
+   var $ratevalue = $("#rateYo1").rateYo({ 
+           onSet: function (rating, rateYoInstance) {
+               rate_url = $("#rating_page_url").val();
+               currentrate = $("#currentrate").val();
+               $.ajax({
+                   type: "POST",
+                   url: "./ajax_act.php?t=" + Math.floor((Math.random() * 1000000) + 1),
+                   dataType: "html",
+                   data: {
+                       rating: rating,
+                       rate_url:rate_url,
+                       ratingPoints:currentrate,
+                       action: "userRating"
+                   },
+                   success: function (response) {
+                       var obj = JSON.parse(response)
+                       var totalClient = obj.totalClient;
+                       var totalRating = obj.totalRating;
+                       $("#ratingValue").html(totalRating);
+                       $("#totalClient").html(totalClient);
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').addClass('edited');
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').text('Rated');
+                       $("#rateYo1").rateYo("option", "readOnly", true);
+                   }
+               });
+           },
+           rating: ratingValue,
+           halfStar: true,
+           starWidth: "13px",
+           ratedFill: "#fdc532",
+           normalFill: "#ffffff",
+           spacing: "2px",
+           readOnly: true
+       });
+   
+       $("#rateYo1 svg").click(function (e) {
+   
+          
+           if ($('#rateYo1').hasClass('rateYo2') && !$('#totalClient').hasClass('mark')) {
+              
+               /* get rating */            
+               $("#totalClient").addClass("mark");
+               $(this).addClass('sucess');
+               
+               setTimeout(function () {
+                   $('.rate-submit').fadeOut(500);
+               }, 1000);
+           } else if ($('#rateYo1').hasClass('rateYo2') && $('#totalClient').hasClass('mark')) {
+               $('.rate-btn.rateYo2').text('Already Rated');
+               $('.rate-btn.rateYo2').addClass('already_rated');
+   
+           } else {
+               e.preventDefault();
+               return false;
+           }
+   
+       });
+       $('.rate-btn').on('click', function (e) {
+           if ($('.edited').length > 0) {
+               e.preventDefault();
+               return false;                         
+           }
+           else {
+               $("#rateYo1").rateYo("option", "readOnly", false);
+               $(".rate-submit").addClass("full-show");
+               $("#rateYo1").addClass("rateYo2");
+               $(this).addClass("rateYo2");
+               $(this).removeClass("enable");
+               $(this).text("Click to rate");
+           }
+       });
+</script>
+<!--linkedin conversion tracking code-->
+<script type="text/javascript">
+   _linkedin_data_partner_id = "36540";
+</script><script type="text/javascript">
+   (function(){var s = document.getElementsByTagName("script")[0];
+   var b = document.createElement("script");
+   b.type = "text/javascript";b.async = true;
+   b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+   s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=36540&fmt=gif" /> </noscript>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27094506-1"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments)};
+   gtag('js', new Date());
+   
+   gtag('config', 'UA-27094506-1');
+</script> 
+<script>
+   setTimeout(function() {  
+   !function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0], c = /^http:/.test(e.location) ? "http" : "https";
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = c + "://platform.twitter.com/widgets.js", s.parentNode.insertBefore(a, s))
+   }(document, "script", "twitter-wjs"), function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0];
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = "//connect.facebook.net/en_US/all.js#xfbml=1", s.parentNode.insertBefore(a, s))
+   }(document, "script", "facebook-jssdk"), function() {
+      var e = document.createElement("script");
+      e.type = "text/javascript", e.async = !0, e.src = "https://apis.google.com/js/plusone.js";
+      var t = document.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(e, t)
+   }();
+   }, 6000);
+</script>
+<!-- Addroll Code Ends -->
+</body>
+</html>

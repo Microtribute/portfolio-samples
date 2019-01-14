@@ -1,0 +1,100 @@
+ul.tabs {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 75px;
+	border-bottom: 1px solid #f1f1f1;
+	width: 100%;
+}
+
+ul.tabs li {
+	float: left;
+	margin: 0;
+	cursor: pointer;
+	padding: 0px 21px;
+	height: 75px;
+	line-height: 75px;
+	border-top: 1px solid #c1c1c1;
+	border-left: 1px solid #c1c1c1;
+	border-bottom: 1px solid #c1c1c1;
+	background-color: #f1f1f1;
+	color: #3c3c3c;
+	overflow: hidden;
+	position: relative;
+	width: 33.33%;
+	text-transform: uppercase;
+	font-size: 20px;
+
+}
+
+.tab_last { border-right: 1px solid #c1c1c1; }
+
+ul.tabs li:hover {
+	/*background-color: #ccc;
+	color: #333;*/
+}
+
+ul.tabs li.active {
+	background-color: #094978;
+	color: #fff;
+	border-bottom: 1px solid #094978;
+	display: block;
+}
+
+.tab_container {
+	border: 1px solid #c1c1c1;
+	border-top: none;
+	clear: both;
+	float: left;
+	width: 100%;
+	background: #fff;
+	overflow: auto;
+}
+
+.tab_content {
+	padding: 20px;
+	display: none;
+}
+.tab_container .list-main button.active {
+    color: #fff;
+    background: #29abe1;
+}
+.accordian { display: none; }
+
+
+
+@media screen and (max-width: 480px) {
+	.tabs {
+		display: none;
+	}
+	.accordian {
+		background-color: #ccc;
+		color: #fff;
+		border-top: 1px solid #333;
+		margin: 0;
+		padding: 5px 20px;
+		display: block;
+		cursor: pointer;
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	}
+	.accord_active {
+		background-color: #666;
+		color: #fff;
+	}
+}
+.tab_container .list-main button {
+    display: inline-block;
+    font-family: 'Lato-Semibold';
+    border: none;
+    font-size: 14px;
+    color: #000000;
+    background: #e7e7e7;
+    padding: 4px 15px;
+    margin: 0 3px 9px 0;
+}

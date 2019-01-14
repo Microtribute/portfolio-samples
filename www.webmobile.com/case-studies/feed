@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Client Case Studies</title>
+	<atom:link href="case-studies/feed" rel="self" type="application/rss+xml" />
+	<link>case-studies</link>
+	<description>Success Stories</description>
+	<lastBuildDate>Fri, 16 Nov 2018 07:19:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>HR MANAGEMENT PORTAL</title>
+		<link>case-studies/hr-management-portal</link>
+		<comments>case-studies/hr-management-portal#respond</comments>
+		<pubDate>Mon, 12 Nov 2018 09:10:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Angular]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[Banking & Financial Services]]></category>
+		<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[Digital & Marketing Agencies]]></category>
+		<category><![CDATA[Education & eLearning]]></category>
+		<category><![CDATA[HealthCare]]></category>
+		<category><![CDATA[HTML5 & Bootstrap]]></category>
+		<category><![CDATA[ISVs & Software Product Companies]]></category>
+		<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[Logistics & Transportation]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Publishing & Advertising]]></category>
+		<category><![CDATA[Retail & eCommerce]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Travel & Hospitality]]></category>
+		<category><![CDATA[Angular 4]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Material]]></category>
+		<category><![CDATA[SCSS]]></category>
+		<category><![CDATA[SOCKET.IO]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1256</guid>
+		<description><![CDATA[It is an online HR management portal which makes it simple for you and your employees to access the HR information that you need to make informed decisions at any time.There are mainly four main modules naming Super Admin, Company Admin, Manager, Employee in the portal based on access rights. You can easily manage your &#8230; <p class="link-more"><a href="case-studies/hr-management-portal" class="more-link">Continue reading<span class="screen-reader-text"> "HR MANAGEMENT PORTAL"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>It is an online HR management portal which makes it simple for you and your employees to access the HR information that you need to make informed decisions at any time.There are mainly four main modules naming Super Admin, Company Admin, Manager, Employee in the portal based on access rights. You can easily manage your HR effectively and efficiently with this.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/hr-management-portal/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Windows-based Tablet Survey App</title>
+		<link>case-studies/windows-based-tablet-survey-app</link>
+		<comments>case-studies/windows-based-tablet-survey-app#respond</comments>
+		<pubDate>Wed, 08 Aug 2018 07:29:24 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[.NET]]></category>
+		<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[ISVs & Software Product Companies]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Migration & Modernisation]]></category>
+		<category><![CDATA[Mobile Application Development]]></category>
+		<category><![CDATA[Mobile Development]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Xamarin]]></category>
+		<category><![CDATA[ASP.Net]]></category>
+		<category><![CDATA[MSSQL]]></category>
+		<category><![CDATA[Rest API]]></category>
+		<category><![CDATA[Windows Tablet]]></category>
+		<category><![CDATA[Xamarin Forms]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1171</guid>
+		<description><![CDATA[This web portal is developed to design and develop a survey application in order to record data from remote users. Engineers will use the Windows-based tablet application on the ground while recording the data. Engineers will log in to the application and can fill out different surveys. On the other hand, the administrator can see &#8230; <p class="link-more"><a href="case-studies/windows-based-tablet-survey-app" class="more-link">Continue reading<span class="screen-reader-text"> "Windows-based Tablet Survey App"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>This web portal is developed to design and develop a survey application in order to record data from remote users. Engineers will use the Windows-based tablet application on the ground while recording the data. Engineers will log in to the application and can fill out different surveys. On the other hand, the administrator can see the data and reports collected from the surveys in an easy-to-use view. </p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/windows-based-tablet-survey-app/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Best Parenting Solution</title>
+		<link>case-studies/best-parenting-solution</link>
+		<comments>case-studies/best-parenting-solution#respond</comments>
+		<pubDate>Tue, 07 Aug 2018 09:16:09 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[.NET]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[HealthCare]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Mobile Application Development]]></category>
+		<category><![CDATA[Mobile Development]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Xamarin]]></category>
+		<category><![CDATA[ASP.NET 5]]></category>
+		<category><![CDATA[c#]]></category>
+		<category><![CDATA[Dot Net]]></category>
+		<category><![CDATA[IOS]]></category>
+		<category><![CDATA[MSSQL 2016]]></category>
+		<category><![CDATA[MVC 6]]></category>
+		<category><![CDATA[Web API 2]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1162</guid>
+		<description><![CDATA[This application was developed to design and develop a website and mobile service application (for iOS and Android) which connects parents and nannies or helpers to solve parenting problems for parents. Using this app, parents will arrive at the platform and can search for assistants according to the location or selecting a category or subcategory.]]></description>
+				<content:encoded><![CDATA[<p>This application was developed to design and develop a website and mobile service application (for iOS and Android) which connects parents and nannies or helpers to solve parenting problems for parents. Using this app, parents will arrive at the platform and can search for assistants according to the location or selecting a category or subcategory.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/best-parenting-solution/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Renting Solution</title>
+		<link>case-studies/renting-solution</link>
+		<comments>case-studies/renting-solution#respond</comments>
+		<pubDate>Fri, 06 Jul 2018 07:21:29 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[Angular]]></category>
+		<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[HTML5 & Bootstrap]]></category>
+		<category><![CDATA[ISVs & Software Product Companies]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Logistics & Transportation]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Retail & eCommerce]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Angular 4]]></category>
+		<category><![CDATA[Angularjs]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Jasmine framework]]></category>
+		<category><![CDATA[Karma framework]]></category>
+		<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[SASS]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1143</guid>
+		<description><![CDATA[It is an online portal to buy appliances for companies on a contract basis. With this, you get the technology that your business needs to grow further. It is a renting platform provide more than online rental services as this help in exploring a world of possibilities. With their assured quality and prompt services, you &#8230; <p class="link-more"><a href="case-studies/renting-solution" class="more-link">Continue reading<span class="screen-reader-text"> "Renting Solution"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>It is an online portal to buy appliances for companies on a contract basis. With this, you get the technology that your business needs to grow further. It is a renting platform provide more than online rental services as this help in exploring a world of possibilities. With their assured quality and prompt services, you can say goodbye to all the hassles that come with buying and say hello to convenience.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/renting-solution/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bioplant Traceability System</title>
+		<link>case-studies/bioplant-traceability-system</link>
+		<comments>case-studies/bioplant-traceability-system#respond</comments>
+		<pubDate>Thu, 05 Jul 2018 13:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[Angular]]></category>
+		<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[HealthCare]]></category>
+		<category><![CDATA[HTML5 & Bootstrap]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Manufacturing]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Angular 2]]></category>
+		<category><![CDATA[Angularjs]]></category>
+		<category><![CDATA[ChartJS]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1135</guid>
+		<description><![CDATA[It&#8217;s a traceability system to maintain the status of a plant. We can create rooms for new plant and then shift for inventory etc. It is a comprehensive product suite increases transparency and accountability by monitoring key data points during cultivation, harvest, extraction, packaging, transport, and dispensing.]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s a traceability system to maintain the status of a plant. We can create rooms for new plant and then shift for inventory etc. It is a comprehensive product suite increases transparency and accountability by monitoring key data points during cultivation, harvest, extraction, packaging, transport, and dispensing.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/bioplant-traceability-system/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Happy Together</title>
+		<link>case-studies/happy-together</link>
+		<comments>case-studies/happy-together#respond</comments>
+		<pubDate>Thu, 05 Jul 2018 11:11:18 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Heidelpay payment gateway]]></category>
+		<category><![CDATA[JAVA]]></category>
+		<category><![CDATA[SPRING]]></category>
+		<category><![CDATA[Vaadin framework]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1127</guid>
+		<description><![CDATA[It is an alternative acquaintance platform with currently around 16500 members for the search for a partner. It allows users to register and interact with like-minded people via private messaging. It also supports 3rd party integration like payment gateways. It is a scalable solution, using Spring and Vaadin frameworks to manage the user website and &#8230; <p class="link-more"><a href="case-studies/happy-together" class="more-link">Continue reading<span class="screen-reader-text"> "Happy Together"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>It is an alternative acquaintance platform with currently around 16500 members for the search for a partner. It allows users to register and interact with like-minded people via private messaging. It also supports 3rd party integration like payment gateways. It is a scalable solution, using Spring and Vaadin frameworks to manage the user website and an administration application.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/happy-together/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sales Competency Analysis</title>
+		<link>case-studies/sales-competency-analysis</link>
+		<comments>case-studies/sales-competency-analysis#respond</comments>
+		<pubDate>Thu, 05 Jul 2018 09:39:31 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[.NET]]></category>
+		<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[Digital & Marketing Agencies]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Migration & Modernisation]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[ASP.NET Web Forms]]></category>
+		<category><![CDATA[MVC 5]]></category>
+		<category><![CDATA[Visual Basic]]></category>
+		<category><![CDATA[Web Api]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1116</guid>
+		<description><![CDATA[This web solution is developed to access the general sales competency. It measures the overall sales expertise in relation to a reference group which consists of a group of successful salespeople. This scientifically developed analysis of the potential of salespeople is compared with the average in the reference group. This is based on a reference &#8230; <p class="link-more"><a href="case-studies/sales-competency-analysis" class="more-link">Continue reading<span class="screen-reader-text"> "Sales Competency Analysis"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>This web solution is developed to access the general sales competency. It measures the overall sales expertise in relation to a reference group which consists of a group of successful salespeople. This scientifically developed analysis of the potential of salespeople is compared with the average in the reference group. This is based on a reference group of 2500 salespeople. Moreover, the sales skills represented by Z-scores.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/sales-competency-analysis/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>VPN Protection App</title>
+		<link>case-studies/vpn-protection-app</link>
+		<comments>case-studies/vpn-protection-app#respond</comments>
+		<pubDate>Sun, 01 Jul 2018 11:57:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Application Development]]></category>
+		<category><![CDATA[Digital & Marketing Agencies]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Mobile Application Development]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Testing & QA]]></category>
+		<category><![CDATA[API Implementation]]></category>
+		<category><![CDATA[Server connection]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=816</guid>
+		<description><![CDATA[VPN protection app is created in order to make all your internet communications private all the time and is very simple to use by its users which requires no passwords and usernames to remember. It is developed using Android technology which comes with a minimalist interface and secures all your internet communications by making it &#8230; <p class="link-more"><a href="case-studies/vpn-protection-app" class="more-link">Continue reading<span class="screen-reader-text"> "VPN Protection App"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>VPN protection app is created in order to make all your internet communications private all the time and is very simple to use by its users which requires no passwords and usernames to remember. It is developed using Android technology which comes with a minimalist interface and secures all your internet communications by making it private all the time. It also discards most of the app mistakes which then makes it difficult for hackers to take advantage of it.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/vpn-protection-app/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Database Searching Web App</title>
+		<link>case-studies/database-searching-web-app</link>
+		<comments>case-studies/database-searching-web-app#respond</comments>
+		<pubDate>Wed, 13 Jun 2018 07:42:18 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[ISVs & Software Product Companies]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[ReactJS]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Fixed-data-Table]]></category>
+		<category><![CDATA[Reactjs]]></category>
+		<category><![CDATA[Redux]]></category>
+		<category><![CDATA[Thunk]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1048</guid>
+		<description><![CDATA[This web app is created for &#8220;Database searching&#8221;. This is used for searching the data in the Database and display it in the table. Also, edit &#038; update can be done on the records. It represents the data are in the table &#038; only consists of search functionality.]]></description>
+				<content:encoded><![CDATA[<p>This web app is created for &#8220;Database searching&#8221;. This is used for searching the data in the Database and display it in the table. Also, edit &#038; update can be done on the records. It represents the data are in the table &#038; only consists of search functionality.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/database-searching-web-app/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Android-based Social Event app</title>
+		<link>case-studies/android-based-social-event-app</link>
+		<comments>case-studies/android-based-social-event-app#respond</comments>
+		<pubDate>Wed, 13 Jun 2018 07:18:54 +0000</pubDate>
+		<dc:creator><![CDATA[Alka]]></dc:creator>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[Case Study]]></category>
+		<category><![CDATA[IT Consulting & Strategy]]></category>
+		<category><![CDATA[Maintenance & Support]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Product Engineering]]></category>
+		<category><![CDATA[Software Development]]></category>
+		<category><![CDATA[Team Extension]]></category>
+		<category><![CDATA[Android SDK]]></category>
+		<category><![CDATA[Android Studio]]></category>
+		<category><![CDATA[Butter-knife]]></category>
+		<category><![CDATA[FCM Notifications]]></category>
+		<category><![CDATA[Glide]]></category>
+		<category><![CDATA[Google Place API]]></category>
+		<category><![CDATA[JAVA]]></category>
+		<category><![CDATA[MONGO]]></category>
+		<category><![CDATA[Retrofit]]></category>
+		<category><![CDATA[XML]]></category>
+
+		<guid isPermaLink="false">case-studies/?p=1039</guid>
+		<description><![CDATA[This app allows users to find the information of the event and the users who are promoting this event in the nearby location/region. Users will come to the application &#038; they can create their account. Once they create their account, they will be landing on the home screen where they can view what people have &#8230; <p class="link-more"><a href="case-studies/android-based-social-event-app" class="more-link">Continue reading<span class="screen-reader-text"> "Android-based Social Event app"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>This app allows users to find the information of the event and the users who are promoting this event in the nearby location/region. Users will come to the application &#038; they can create their account. Once they create their account, they will be landing on the home screen where they can view what people have promoted in their region.</p>
+]]></content:encoded>
+			<wfw:commentRss>case-studies/android-based-social-event-app/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

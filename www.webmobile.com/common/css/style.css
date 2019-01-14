@@ -1,0 +1,278 @@
+/*-------------------------
+    Simple reset
+--------------------------*/
+
+
+#upload,#uploads{
+    font-family:'Droid Sans';
+    width:400px;
+}
+
+#drop,#droporder,#dropcontact{
+    padding:12px 10px;
+   
+    border: 20px solid rgba(0, 0, 0, 0);
+    border-radius: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:16px;
+    font-weight:bold;
+    color:#fff;
+    width:auto;
+    float:left;
+    font-family: 'Droid Sans';
+    border:1px solid #fff;
+}
+#dropcontact label{text-align:left;margin:0;text-transform: none;font-size:15px;}
+#dropcontact label img{cursor: pointer;
+    padding: 0 10px 0 0;}
+#dropcontact label .drop_here {
+    border: 1px dotted #ccc;
+    margin: 0 5px;
+    padding: 4px 10px;cursor:pointer;
+}
+#dropcontact label .brose_here {cursor:pointer;}
+#drop a,#droporder a,#dropcontact a{
+    background-color:#007a96;
+    padding:12px 26px;
+    color:#fff;
+    font-size:14px;
+    border-radius:2px;
+    cursor:pointer;
+    display:inline-block;
+    margin-top:12px;
+    line-height:1;
+	font-family: 'Droid Sans';
+}
+
+#drop a:hover,#droporder a:hover,#dropcontact a:hover{
+    background-color:#0986a3;
+}
+
+#drop input,#droporder input,#dropcontact input{
+    /*display:none;*/
+	visibility: hidden;
+}
+
+#upload ul,#uploadcontact ul{
+    list-style:none;
+    width:100%;
+    float:left;
+	max-height:80px;
+	overflow-y:auto;
+	margin-top:10px;
+}
+
+#upload ul li,#uploadcontact ul li{
+
+    background:#656464;
+    border-bottom:1px solid #3d4043;    
+    padding:15px;
+    height: 52px;
+
+    position: relative;
+}
+
+#upload ul li input,#uploadcontact ul li input{
+    display: none;
+}
+
+#upload ul li p,#uploadcontact ul li p{
+    width: 278px;
+    overflow: hidden;
+    white-space: nowrap;
+	font-family:'Droid Sans';
+    color: #EEE;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    top: 7px;
+    left: 100px;
+}
+
+#upload ul li i,#uploadcontact ul li i{
+    font-weight: normal;
+    font-style:normal;
+    display:block;
+}
+
+#upload ul li canvas,#uploadcontact ul li canvas{
+    top: 15px;
+    left: 32px;
+    position: absolute;
+}
+
+
+.showicon{
+    width: 15px;
+    height: 12px;
+    background: url("../img/icons.png") no-repeat scroll 0 -14px rgba(0, 0, 0, 0);
+    position: absolute;
+    top: 21px;
+    right: 33px;
+    cursor:pointer;
+}
+
+#upload ul li.working span,#uploadcontact ul li.working span{
+    height: 16px;
+    background-position: 0 -12px;
+}
+
+#upload ul li.error p,#uploadcontact ul li.error p{
+    color:red;
+}
+
+/* new */
+
+#uploadorder{
+    font-family:'Droid Sans';
+    width:400px;
+}
+
+
+#uploadorder ul{
+    list-style:none;
+}
+
+#uploadorder ul li{
+
+    background:#656464;
+    border-bottom:1px solid #3d4043;    
+    padding:15px;
+    height: 52px;
+
+    position: relative;
+}
+
+#uploadorder ul li input{
+    display: none;
+}
+
+#uploadorder ul li p{
+    width: 278px;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #EEE;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    top: -18px;
+    left: 100px;
+}
+
+#uploadorder ul li i{
+    font-weight: normal;
+    font-style:normal;
+    display:block;
+}
+
+#uploadorder ul li canvas{
+    top: 15px;
+    left: 32px;
+    position: absolute;
+}
+
+
+#uploadorder ul li.working span{
+    height: 16px;
+    background-position: 0 -12px;
+}
+
+#uploadorder ul li.error p{
+    color:red;
+}
+
+
+
+
+
+#tzine-download{
+    opacity:0.9;
+    background-color:#257691;
+    font-size:11px;
+    text-align:center;
+    text-transform:uppercase;
+    width:150px;
+    height:28px;
+    line-height:28px;
+    text-decoration:none !important;
+
+    display: inline-block;
+    border-radius: 2px;
+    color: #fff !Important;
+    font-weight: bold;
+    box-shadow: 0 -1px 2px #1e5e74 inset;
+
+    border-top:1px solid #26849c;
+
+    text-shadow:1px 1px 1px #1e6176;
+    margin-top:6px;
+}
+
+#tzine-download:hover{
+    opacity:1;
+}
+
+#tzine-actions{
+    position:absolute;
+    top:0;
+    width:500px;
+    right:50%;
+    margin-right:-420px;
+    text-align:right;
+}
+
+#tzine-actions iframe{
+    display: inline-block;
+    height: 21px;
+    width: 95px;
+    position: relative;
+    float: left;
+    margin-top: 11px;
+}
+.mCSB_container p{width:100%;float:left;}
+
+.scrollcontent{
+	overflow: auto;
+	position: relative;
+	//padding: 20px;
+	//background: #333;
+	//margin: 10px;
+	width: 100%;
+	max-width: 100%;
+	height: 50px;
+	//margin-bottom:15px;
+	-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+}
+
+.scrollcontent span {
+     font-family: 'Droid Sans' !important;
+    font-size: 13px !important;
+}
+
+@media only screen and (max-width: 767px) {
+.brws_file,.contact_left .brws_file{width: 230px;padding: 0}
+#drop,#droporder,#dropcontact,.contact_left #drop{padding:10px;}
+#upload,#uploadorder,#uploadcontact,.contact_left #upload{width: 100%;float: left;}
+#drop a,#dropcontact a,#droporder a{padding: 12px 45px;float:none}
+
+.attachment_outer ul li p{left:50px!important; width: 142px!important;font-size:14px!important;}
+.attachment_outer ul li canvas{left:5px!important;top:11px!important;}
+.showicon{right:10px;}
+.contact1_page .chk-brw{margin-bottom:25px!important;}
+}
+@media only screen and (max-width: 479px) {
+#dropcontact label{font-size:13px;}
+}
+
+
+.upload-disable{
+    background:#AAA;
+}
+
+.upload-disable:hover{
+    background:#AAA;
+}
+
+.order-list li{border-bottom: 1px solid #a9a9a9;}
+.order-list li:last-child{border-bottom:none;}

@@ -1,0 +1,125 @@
+/** Reset css **/
+* {  margin: 0;  padding: 0;  outline: 0;  box-sizing: border-box;  -moz-box-sizing: border-box;  -ms-box-sizing: border-box;  -o-box-sizing: border-box;  -webkit-box-sizing: border-box;}
+body { -webkit-text-size-adjust: none; margin: 0;  padding: 0;font-size:17px;line-height:26px;color:#2b2b2b;}
+a{text-decoration:none; }
+
+
+/***********CSS Start**************/
+
+
+
+
+.popup-main{position: fixed;	top: 0;	left: 0;	height: 100%;	width: 100%;	float: left;
+	background: rgba(0,0,0,0.8);	overflow-y: auto;
+	-webkit-box-shadow: 0px 0px 74px -8px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 74px -8px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 74px -8px rgba(0,0,0,0.75);
+	z-index:99999999;
+}
+.popup-main .popup-main-inner {  height: 100%;    width: 100%;    float: left;    position: relative;}
+.popup-main .popup-main-box {	
+	width: 770px;	
+	top: 50%;	
+	left: 50%;
+	transform: translate(-50%,-50%);
+	-webkit-transform: translate(-50%,-50%);
+	-moz-transform: translate(-50%,-50%);
+	-o-transform: translate(-50%,-50%);
+	-ms-transform: translate(-50%,-50%);
+	position: absolute;	background: #fff;
+	    border: 1px solid #a9a9a9;
+    border-radius: 5px;
+	
+}
+.popup-main  .popup-main-box .top-row{width: 100%;float: left; }
+.popup-main  .popup-main-box .top-row .left{width: 50%;float: left; }
+.popup-main  .popup-main-box .top-row .right{width: 50%;float: right;    text-align: right; }
+
+.popup-main  .popup-main-box h3{font-family: inherit;	color: #0bbc6b;	font-size: 28px;	text-transform: uppercase;	line-height: 32px; }
+.popup-main .close_pop{	position: absolute;	top: -10px;	right: -15px;    height: 24px;width: 25px;}
+
+.popup-box-inner{width: 100%;float: left;    padding: 30px;    
+	background: url('images/popBG.png');
+    background-repeat: no-repeat;
+    background-position: top right;}
+.monthly-sec{width: 100%;float: left;    padding: 0px;background-color: #009df3;    text-align: center;}
+.monthly-sec p{        font-size: 22px;
+    color: #fff;
+    line-height: 48px;
+    position: relative;
+    padding-left: 35px;
+    display: inline-block;}
+.monthly-sec p img{     position: absolute;
+    top: 10px;
+    left: 0;}
+
+.popup-main .likewhat-sec{width: 100%;float: left;    padding: 40px 0;}
+.popup-main .likewhat-sec .left{width: 50%;float: left;}
+.popup-main .likewhat-sec .left h3{color: #009df3;font-family: inherit;font-size: 32px; line-height: 38px;}
+.popup-main .likewhat-sec .left p{color: #303030;font-family: inherit;font-size: 22px; line-height: 30px;
+    padding-top: 15px;}
+.popup-main .likewhat-sec .right{width: 50%;float: right;}
+.popup-main .likewhat-sec .right .newsltr{text-align: center;}
+.popup-main .buttonL{width: 100%;float: left;opacity: 1;visibility: visible;}
+.popup-main .buttonL a{color:#fff; font-size: 20px; width: 48%;padding: 20px 0; border-radius: 5px; display: inline-block;text-align: center;text-transform: uppercase;}
+.popup-main .buttonL a span{display: block;text-transform: none;font-size: 14px;}
+.popup-main .buttonL a.greyB{background:#c7ced9;float: right;}
+.popup-main .buttonL a.greenB{background:#28c47c;}
+
+.popup-main form{ width: 100%;float: left;}
+
+.subscription-box{width: 100%;float: left;    padding: 25px 0;}
+.submitB{width: 100%;float: left;text-align: center;    margin: 0 !important;}
+.submitB .hello{    display: inline-block;
+    background: #28c47c;
+    padding: 10px 40px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.input-row{width: 100%;float: left;margin-bottom: 15px;}
+.input-row input{width: 100%;float: left;border: none;border: 1px solid #a9a9a9;padding: 10px;height: 45px;}
+
+.input-row input {   color: #989797;font-size: 16px;font-style: normal;    padding:10px;}
+.input-row input::-webkit-input-placeholder {   color: #989797;font-size: 16px;font-style: normal;}
+.input-row input::-moz-placeholder {   color: #989797;font-size: 16px;font-style: normal;}
+.input-row input:-ms-input-placeholder {  color: #989797;font-size: 16px;font-style: normal;}
+.input-row input:-moz-placeholder {   color: #989797;font-size: 16px;font-style: normal;}
+
+
+.popup-main{
+	transition: all 2s cubic-bezier(0.200, 0.200, 0.000, 1.005);
+	-webkit-transition: all 2s cubic-bezier(0.200, 0.200, 0.000, 1.005);
+	-moz-transition: all 2s cubic-bezier(0.200, 0.200, 0.000, 1.005);
+	-o-transition: all 2s cubic-bezier(0.200, 0.200, 0.000, 1.005);
+	-ms-transition: all 2s cubic-bezier(0.200, 0.200, 0.000, 1.005);
+}
+
+.popup-main1{opacity: 1;	visibility: visible;	width: 100%;	height: 100%;	top: 0;}
+.popup-main1{ opacity: 0;	visibility: hidden;	width: 100%;	height: 100%;	top: -100%;}
+
+.popup-main1.active{opacity: 1;	visibility: visible;width: 100%;top: 0;}
+
+.subscription-box{ display: none;}
+.subscription-box.active{opacity: 1;	visibility: visible;}
+.popup-main .buttonL.none{opacity: 0;visibility: hidden;}
+.popup-main .buttonL{width: 100%;float: left;}
+
+
+
+@media only screen and (max-width:991px) {
+
+	.popup-main .popup-main-box {    width: 690px;}
+	.popup-main .likewhat-sec .left h3 {    font-size: 26px;    line-height: 32px;}
+
+}
+
+
+@media only screen and (max-width:767px) {  
+
+	.popup-main1{display: none;}
+	
+
+}

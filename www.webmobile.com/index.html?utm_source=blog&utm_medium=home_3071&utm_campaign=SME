@@ -1,0 +1,1493 @@
+<!DOCTYPE html>
+<html lang="en" class="demo-loading no-js">
+<head>
+<meta charset="utf-8">
+<meta name="language" content="English" />
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.
+
+apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '23fbb2e0572145bebfc07d4261b8990b');
+qp('track', 'ViewContent');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/23fbb2e0572145bebfc07d4261b8990b/pixel?tag=ViewContent&noscript=1"/>
+</noscript>
+<!-- End of Quora Pixel Code -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5067063"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script> 
+<!--create url for ie9,10 redirection on 404 not found-->
+<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+<base href="/www.valuecoders.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>IT Outsourcing Company - Outsource Software Development Services India</title>
+<meta name="description" content="ValueCoders is one of the leading Offshore IT outsourcing companies in India offering Custom Software development services. Reduce your cost up to 50% by outsourcing us. Software development company with 14+ years of experience , 100% money back gurantee and quick time to market. CONTACT US NOW!"/>
+<meta name="keywords" content="" />
+<!-- Open Graph -->
+<meta property="og:title" content="IT Outsourcing Company - Outsource Software Development Services India"/>
+<meta property="og:image" content="common/images/dsd.jpg"/>
+<meta property="og:site_name" content="Valuecoders"/>
+<meta property="og:url" content="?utm_source=blog&utm_medium=home_3071&utm_campaign=SME"/>
+<meta property="og:type" content="Home Page"/>
+<meta property="og:description" content="ValueCoders is one of the leading Offshore IT outsourcing companies in India offering Custom Software development services. Reduce your cost up to 50% by outsourcing us. Software development company with 14+ years of experience , 100% money back gurantee and quick time to market. CONTACT US NOW!"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="Expert Remote Teams For Your Software development Needs">
+<meta name="twitter:site" content="@valuecoders">
+<meta name="twitter:creator" content="@valuecoders">
+<meta name="twitter:url" content="?utm_source=blog&utm_medium=home_3071&utm_campaign=SME">
+<meta name="twitter:title" content="IT Outsourcing Company - Outsource Software Development Services India">
+<meta name="twitter:description" content="ValueCoders is one of the leading Offshore IT outsourcing companies in India offering Custom Software development services. Reduce your cost up to 50% by outsourcing us. Software development company with 14+ years of experience , 100% money back gurantee and quick time to market. CONTACT US NOW!">
+<meta name="twitter:image" content="common/images/dsd.jpg">
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.valuecoders.com\/","name":"ValueCoders.com : IT Outsourcing Company - Outsource Software Development Services India","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.valuecoders.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.valuecoders.com\/","sameAs":["https:\/\/www.facebook.com\/ValueCoders","https:\/\/in.linkedin.com\/company\/valuecoders","https:\/\/twitter.com\/valuecoders"],"@id":"#organization","name":"ValueCoders.com","logo":"https:\/\/www.valuecoders.com\/blog\/wp-content\/themes\/valuecoders\/images\/logo.png"}</script>
+<link rel="stylesheet" type="text/css" href="common/css/cmnCss.css"/>
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">-->
+<link rel="stylesheet" type="text/css" href="common/fonts/font.css" />
+<!--<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>-->
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic,300italic,100italic,100' rel='stylesheet' type='text/css'>
+<!--<link rel="stylesheet" type="text/css" href="common/css/jquery.rateyo.min.css" />
+<link rel="stylesheet" type="text/css" href="common/css/rating.css" />
+<link rel="stylesheet" type="text/css" href="common/css/mytab.css" />-->
+<script type="text/javascript" src="common/js/jsLib.min.js"></script>
+<script>
+
+
+
+
+$(function () { 
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 500) { 
+            $('.logo img').attr('src','common/images/VC-Log-1.png');
+        }
+        if ($(this).scrollTop() < 500) { 
+            $('.logo img').attr('src','common/images/logo.svg');
+        }
+	});});
+
+</script>
+<style>
+/* This only works with JavaScript, 
+               if it's not present, don't show loader */
+            /*#loader { display: none;  }*/
+.js #loader {
+	display: block;
+	position: absolute;
+	left: 100px;
+	top: 0;
+}
+
+
+.fixed a.logo img {
+	width: 240px;
+	height: auto; 
+}
+</style>
+
+
+
+
+
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>-->
+<!--<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>-->
+<script>
+            // Wait for window load
+//		$(window).load(function() {
+//			// Animate loader off screen
+////			$("#loader").animate({
+////				top: -200
+////			}, 1500);
+//
+//                        $("#loader").hide();
+//		});
+        </script>
+
+<!--<link rel="stylesheet" type="text/css" href="common/css/datepicker.css"/> -->
+
+<link rel="shortcut icon" href="/common/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/common/images/favicon.ico" type="image/x-icon">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2095923350635817');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2095923350635817&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 798743845 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-798743845"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-798743845');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 1013624786 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1013624786"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1013624786');
+</script>
+
+
+
+
+<link rel="canonical" href="" />
+</head><body>
+<script>fbq('track', 'Lead');</script>
+<div class="outer_layout">
+<div class="outer_wrapper_new">
+
+<!-- <div class="christmas_banner"><img src="common/images/Christmas-Banner-VC.gif" alt="Hire Dedicated Developers - Logo" /></div>-->
+
+<header class="header_new" role="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-3 col-lg-2 col-md-2"> <a href="" class="logo" title="ValueCoders"><img src="common/images/logo.svg" alt="Hire Dedicated Developers - Logo" /></a> <span class="mob_icon2"></span> </div>
+      <div class="col-xs-12 col-sm-9 col-lg-10 col-md-10">
+        <ul class="menu_new">
+          <li class="menu_arrow"><a href="javascript:void(0)" id="mob_main_service_manu" title="Services">Services</a>
+            <div class=" sub_menu_new srv-list">
+              <ul class="sub-menu-list services">
+                <li class="first"><a href="application-development" title="Application Development" class="app-dvl">Application Development</a></li>
+                <li class="first"><a href="outsource-software-product-development-services" title="Software Product Development" class="software-product-dvl"> Software Product Development </a></li>
+                <li class="first"><a href="it-strategy-consulting-firms" title="It Strategy & Consulting" class="it-strategy"> IT Strategy & Consulting </a></li>
+                <li><a href="application-maintenance" title="Application Maintenance" class="app-mnt">Application Maintenance</a></li>
+                <li><a href="application-modernization" title="Application Modernization" class="app-modz">Application Modernization</a></li>
+                <li><a href="testing-qa" title="Testing & QA" class="testing-qa">Testing &amp; QA</a></li>
+                <li><a href="co-development" title="Co-Development" class="co-devlpmt">Co-Development</a></li>
+                <li class="last"><a href="dedicated-development-teams" title="Dedicated Development" class="ded-devlpmt">Dedicated Development Teams</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire"> <a href="hire-developers" id="mob_main_hire_manu" title="Hire Developers">Hire Developers</a>
+            <div class="sub_menu_new hire_dvl_list">
+              <ul class="sub-menu-list hire_devl">
+                <li><a class="php" title="php" href="hire-developers/hire-php-developers">Hire PHP Developers</a></li>
+                <li><a class="xamarin" href="hire-developers/hire-xamarin-developers">Hire Xamarin Developers</a></li>
+                <li><a class="java" title="java" href="hire-developers/hire-java-developers">Hire Java Developers</a></li>
+                <li><a class="dotnet" title=".Net" href="hire-developers/hire-dotnet-developers">Hire .NET Developers</a></li>
+                <li><a class="rectnative" title="SharePoint" href="hire-developers/hire-react-native-developers">Hire React Native Developers</a></li>
+                <li><a class="android" title="Android" href="hire-developers/hire-android-developers">Hire Android Developers</a></li>
+                <li><a class="nodejs" href="hire-developers/hire-nodejs-developers" title="Node JS">Hire Node.JS Developers</a></li>
+                <li><a class="ios" href="hire-developers/hire-ios-developers" title="IOS">Hire iOS Developers</a></li>
+                <li><a class="angularjs" href="hire-developers/hire-angularjs-developers" title="Angular JS">Hire AngularJS Developers</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="laravel" href="hire-developers/hire-laravel-developers">Hire Laravel Developers</a></li>
+                <li><a class="block_chain" href="hire-developers/hire-blockchain-developers"> Hire Blockchain Developers </a></li>
+                <li><a class="augmented_ar" href="hire-developers/hire-augmented-reality-developers">Hire Augmented Reality Developers</a></li>
+                  <li><a class="rorr" href="hire-developers/hire-ror-developers">Hire RoR Developers </a></li>
+                <li><a class="vue" href="hire-developers/hire-vuejs-developers">Hire VueJS Developers</a></li>
+                <li><a class="phython" href="hire-developers/hire-python-developers"> Hire Python Developers </a></li>
+                <li><a class="reactjs" href="hire-developers/hire-reactjs-developers">Hire ReactJS Developers</a></li>
+                
+                
+              </ul>
+              <div class="mgt-top text-center"> <a class="btn btn-box" href="hire-developers">View All</a> </div>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire sub_menu_inds"> <a href="javascript:void(0)" id="mob_main_hire_manu" title="Industries">Industries</a>
+            <div class="sub_menu_new indri_list">
+              <ul class="sub-menu-list indri">
+                <li><a class="isvs" title="isvs & Product Companies" href="industries/isv-software-development-services">ISVs & Product Companies</a></li>
+                <li><a class="digital" title="Digital & Marketing Agencies"href="industries/agencies-software-development-services">Digital & Marketing Agencies</a></li>
+                <li><a class="banking" title="Banking & Finance" href="industries/banking-financial-services">Banking & Finance</a></li>
+                <li><a class="retail" title="Retail & eCommerce" href="industries/retail-ecommerce-software-development">Retail & eCommerce</a></li>
+                <li><a class="health" title="Healthcare" href="industries/healthcare-software-development-services">Healthcare</a></li>
+                <li><a class="edu" title="Education & E-Learning" href="industries/education-elearning-software-development">Education & E-Learning</a></li>
+                <li><a class="manufacturing" href="industries/manufacturing" title="manufacturing">Manufacturing</a></li>
+                <li><a class="logistics" href="industries/logistics-transportation-software-development" title="logistics-transportation-software-development">Logistics & Transportation</a></li>
+                <li><a class="publishing" href="industries/publishing" title="Publishing">Publishing</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="media_1" title="Media & Entertainment" href="industries/media-software-development-services"> Media & Entertainment</a></li>
+                <li><a class="atomative" title="Automotive" href="industries/automotive-companies-software-development-services">Automotive</a></li>
+                <li><a class="travel" title="Travel & Tourism" href="industries/travel-tourism-software-development-services">Travel & Tourism</a></li>
+              </ul>
+              <!--<div class="mgt-top text-center">
+                                            <a class="btn btn-box" href="hire-developers">View All</a>
+                                        </div>--> 
+            </div>
+          </li>
+          <li class="no-arrow"><a title="Case Studies" href="case-studies/"> Portfolio</a></li>
+          <li class="menu_arrow"><a href="#" id="mob_main_about_manu" title="Company">Company</a>
+            <div class="sub_menu_new company-outer">
+              <ul class="sub-menu-list company">
+                <li class="first"><a title="About US" href="about"> <img class="cmpny_iconh" alt="About Us" src="common/images/about_us.png" /> <img class="cmpny_icon" src="common/images/about_us_hover.png" alt="Outsourcing"  /> About US</a></li>
+                <!--<li><a title="How It Works" href="process">
+                                            <img class="cmpny_iconh" alt="How It Works" src="common/images/how_it_worksM.svg" />
+                                            <img class="cmpny_icon" src="common/images/how_it_works.svg" alt="24" >
+                                            How It Works</a></li>-->
+                
+                <li><a title="Blog" href="blog/" target="_blank"> <img class="cmpny_iconh" alt="Blog" src="common/images/blog.png" /> <img class="cmpny_icon" src="common/images/blog_hover.png" alt="BLOG" /> Blog</a></li>
+                <li><a class="faq-menu" title="FAQ's" href="faq"> <img class="cmpny_iconh" alt="FAQ" src="common/images/FAQ.png" /> <img class="cmpny_icon" src="common/images/FAQ_hover.png" alt="FAQ" /> FAQ</a></li>
+                <li><a class="testml-menu" title="CLIENT TESTIMONIALSs" href="testimonials"> <img class="cmpny_iconh" alt="CLIENT TESTIMONIALSs" src="common/images/testimonial-icon.png" /> <img class="cmpny_icon" src="common/images/testimonial_hover.png" alt="CLIENT TESTIMONIALSs" /> CLIENT TESTIMONIALS</a></li>
+                <!--<li><a class="cases-menu" title="Case Studies" href="case-studies/"> <img class="cmpny_iconh" alt="Case Studies" src="common/images/case_study.png" /> <img class="cmpny_icon" src="common/images/case_study_hover.png" alt="Case Studies" /> Case Studies</a></li>-->
+                <li class="last"><a class="approach-menu" title="approach" href="our-approach"> <img class="cmpny_iconh" alt="approach" src="common/images/approach.png" /> <img class="cmpny_icon" src="common/images/approach_hover.png" alt="approach" /> Approach</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="contact_us"><a href="contact" title="Contact" class="contact_last">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+<section class="index_latest_pg">
+
+
+  <section class="val_index_page index_new_latest">   
+    <div class="banner_index">
+      <div class="container"> 
+        <div class="row">
+          <div class="col-sm-12 col-xs-12"> 
+            <div class="bnr-hdr">
+              <h1 class=""><small>Indian IT Outsourcing Company For</small> <span>Offshore Software Development Services </span></h1>
+              <p class="wow fadeIn animated" data-wow-delay=".3s">We’re an Indian software development company focused on just one thing - offshore software development services. <span style="font-weight:bold;"> 13+ </span>years in business &amp; <span style="font-weight:bold;">450+</span> developers strong, we have worked with startups, software product development companies, digital agencies and enterprises to help simplify their IT outsourcing experience and reduce costs/time-to-market. </p>
+              <p class="second-p"><span> Planning to outsource software development services?</span> Or would you like to hire an offshore software development team (1-25 members)?</p>
+            </div> 
+          </div>
+        </div>
+        <a class="btn btn-discuss-reqr" data-wow-delay=".1s" href="contact"> Contact Us Now </a> </div>
+    </div>
+  </section>
+  
+  
+  
+  <section class="dvl-services dvl_services_new">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2 class="dvl-srv-hd wow fadeIn animated" data-wow-delay=".2s"> our services </h2>
+          <p class="dvl-srv-desc wow fadeIn animated" data-wow-delay=".1s"> Our offshore software development services are geared to deliver results that you expect from outsourcing IT services to India. <span style="color:#ff8c00;">Truthfulness, transparency</span> and <span style="color:#ff8c00;">collaborative approach</span> is a start! 
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 col-xs-12">
+          <div class="dvl-src-panel-new wow fadeIn animated" data-wow-delay=".1s"> <a target="_blank" href="application-development"> <span class="box_icon1"></span> <strong>
+            <p class="box_heading"> WEB / MOBILE </p>
+            <p class="box_descp"> We deliver build high quality software development services for both web & mobile leveraging the best platform capabilities and offering premium user-experience. </p>
+            </strong> </a> </div>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="dvl-src-panel-new wow fadeIn animated" data-wow-delay=".1s"> <a target="_blank" href="application-maintenance"> <span class="box_icon2"></span> <strong>
+            <p class="box_heading">Application Maintenance</p>
+            <p class="box_descp"> Sustain your existing software applications & reduce maintenance costs. We help you focus on your business and leave the headache of ongoing maintenance to us. </p>
+            </strong> </a> </div>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="dvl-src-panel-new wow fadeIn animated" data-wow-delay=".1s"> <a target="_blank" href="application-modernization"> <span class="box_icon3"></span> <strong>
+            <p class="box_heading">app modernization</p>
+            <p class="box_descp">Transform legacy applications to state of art technologies and modern architecture to stay relevant and deliver greatest business value</p>
+            </strong> </a> </div>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="dvl-src-panel-new wow fadeIn animated" data-wow-delay=".1s"> <a target="_blank" href="dedicated-development-teams"> <span class="box_icon4"></span> <strong>
+            <p class="box_heading"> DEVELOPMENT TEAMS </p>
+            <p class="box_descp"> As an IT outsourcing company, we provide reliably dedicated software development teams who have vast experience in latest web and mobile development technologies. </p>
+            </strong> </a> </div>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="dvl-src-panel-new wow fadeIn " data-wow-delay=".1s"> <a target="_blank" href="co-development"> <span class="box_icon5_new"></span> <strong>
+            <p class="box_heading"> CO-DEVELOPMENT </p>
+            <p class="box_descp"> Build quality software & accelerate time-to-market with our professional software developers who are dedicated to meet your specific requirements of the on-going development projects. </p>
+            </strong> </a> </div>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <div class="dvl-src-panel-new wow fadeIn " data-wow-delay=".1s"> <a target="_blank" href="testing-qa.php"> <span class="box_icon6_new"></span> <strong>
+            <p class="box_heading">testing & qa</p>
+            <p class="box_descp">ValueCoders provides hassle free and precise testing services catering to diverse business requirements. Our testers are experienced and skilled to meet your specific requirements on diverse technologies </p>
+            </strong> </a> </div>
+        </div>
+        <div class="col-sm-6 col-xs-12"></div>
+      </div>
+    </div>
+  </section>
+  <div class="banner_secabout_latest_index">
+    <div class="banner_sectop">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center wow fadeIn animated">
+            <div class="banner_secaboutinner">
+              <h2> Trusted it vendor since 2004 </h2>
+              <p> From past 13 years, we have been delivering IT Outsourcing services worldwide. Our business domain knowledge, proven methodologies, and technology expertise of skilled software professionals yield high quality solutions that add value to businesses. From Startups to Enterprises, Products Companies to Digital Agencies and SMEs to Governments, we cater to them all for their diverse technology requirements. Our cost-effective, professional and proactive service delivery makes us one of the most sought after software development companies in India. </p>
+              <ul>
+                <li> <b>2500+</b> <span>CUSTOMERS</span> </li>
+                <li> <b>2000+</b> <br>
+                  <span>Man years experience</span> </li>
+                <li> <b>4200+</b><br>
+                  <span>projects done</span> </li>
+                <li> <b>13+</b><br>
+                  <span>Years</span> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <ul class="awd_sec">
+              <li><img src="common/images/awrd_icon160518.jpg" alt="Deloitte"/></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="our_infrastructure_latest_index">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center wow fadeIn animated">
+          <div class="our_infrastructureinner_l_index">
+            <h3> ValueCoders for Software Development Services </h3>
+            <h4> Outsourcing software development to ValueCoders means peace of mind.</span> <span style="text-decoration:underline;">Competent team,</span> <span style="text-decoration:underline">honesty,</span> <span style="text-decoration:underline">trustworthiness,</span> <span style="text-decoration:underline">transparency</span></span> and <span style="text-decoration:underline;">refined processes</span> are are some of the reasons why clients continue to prefer us as their IT outsourcing partner. </h4>
+            <div class="heading">Here are some other reasons that make us one of the top software development companies in India. </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index">
+            <p class=""> <span class="infra_icon1"></span>Guaranteed SLAs </p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index right">
+            <p class="right"> <span class="infra_icon2"></span>Improved quality</p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index">
+            <p class=""> <span class="infra_icon3"></span>Zero-Billing Guarantee </p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index right">
+            <p class="right"> <span class="infra_icon4"></span>Transparent Billing </p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index">
+            <p class=""> <span class="infra_icon5"></span>Shorter Time To Market</p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index right">
+            <p class="right"> <span class="infra_icon6"></span>CISO 9001:2008 Processes</p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index">
+            <p class=""> <span class="infra_icon7"></span>Monthly Rolling Contracts </p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+          <div class="our_infrastructureinner_l_index right">
+            <p class="right"> <span class="infra_icon8"></span>Ability to improvise ongoing changes</p>
+          </div>
+        </div>
+      </div>
+      <div class="our_infrastructureinner_l_index">
+        <h5>We've earned trust of hundreds of customers as an IT outsourcing company. What are you waiting for?</h5>
+      </div>
+      <div class="our_infrastructureinner_l_index">
+        <div class="contct_us"> <a href="contact">contact us now</a> </div>
+      </div>
+    </div>
+  </div>
+  <section class="development_project_outer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12 text-center wow fadeIn animated">
+          <div class="development_project_innr">
+            <h3> 4200+ Software Development  Projects </h3>
+            <p>We are one of the most preferred IT outsourcing companies from India. We offer a complete bouquet of software development services to help businesses address their key technology challenges, enhance productivity and control costs.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12 text-center wow fadeIn animated"> <a href="case-studies/parents-monitoring-app">
+          <div class="amoajon_sec">
+            <div class="img_box"><img src="common/images/parent-Monitoring.jpg" alt="it outsourcing companies" title="outsourcing software development"></div>
+            <div class="content_box">
+              <h4> Parents Monitoring App </h4>
+              <p> It is designed for parents to keep track of the smartphone activities of their kids. Parents use this app to monitor the smartphone activity of their tweens... </p>
+              <div class="view"><a href="case-studies/parents-monitoring-app">View More..</a></div>
+            </div>
+          </div>
+          </a> <a href="case-studies/best-places-in-the-city">
+          <div class="amoajon_sec">
+            <div class="img_box"><img src="common/images/best-place-in-the-city.jpg" alt="software outsourcing development" title="software outsourcing"></div>
+            <div class="content_box">
+              <h4>Best Places In The City</h4>
+              <p> This app allows users to check the best places in the city and get their food, goods delivered to their doorstep and book tickets online. It helps people order their food .. </p>
+              <div class="view"><a href="case-studies/best-places-in-the-city">View More..</a></div>
+            </div>
+          </div>
+          </a> </div>
+        <div class="col-md-4 col-sm-6 col-xs-12 text-center wow fadeIn animated"> <a href=" case-studies/bioplant-traceability-system">
+          <div class="amoajon_sec">
+            <div class="img_box img_box1"><img src="common/images/main-img-2.png" alt="Bioplant Traceability System" title="Bioplant Traceability System"></div>
+            <div class="content_box content_box1 content_box2">
+              <h4> Bioplant Traceability System </h4>
+              <p> It’s a traceability system to maintain the status of a plant. We can create rooms for new plant and then shift for inventory etc. It is a comprehensive product suite increases ...</p>
+              <div class="view"><a href="case-studies/bioplant-traceability-system">View More..</a></div>
+            </div>
+          </div>
+          </a> </div>
+      </div>
+    <div class="row">
+      <div class="col-md-12 col-sm-12 col-xs-12 text-center wow fadeIn animated"> <a href="case-studies/directory-portal-app">
+        <div class="amoajon_sec">
+          <div class="inner_1">
+            <div class="content_box content_box1">
+              <h4 class="text_right"> Directory Portal App </h4>
+              <p class="text_right"> Directory Portal app is designed to take the advantage of all the latest offers from various church bulletin advertisers. This app offers a meticulously designed experience to make your life more efficient and make smart choices about where you spend your money. </p>
+              <div class="view"><a href="case-studies/directory-portal-app">View More..</a></div>
+            </div>
+          </div>
+          <div class="inner_2">
+            <div class="img_box img_box1"><img src="common/images/Directory-Portal-App.jpg" alt="best software outsourcing companies" title="best software outsourcing companies"></div>
+          </div>
+        </div>
+        </a></div>
+    </div>
+    <div class="row">
+      <div class="contct_us">
+        <p>Looking for specific work samples for your industry vertical?</p>
+        <a href="case-studies"> View All case studies </a> </div>
+    </div>
+    </div>
+  </section>
+  <section class="global_industries_outer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 col-sm-12 col-xs-12 text-center wow fadeIn animated">
+          <div class="development_project_innr">
+            <h3> OUR SOFTWARE DEVELOPMENT EXPERTISE </h3>
+            <p> We provide software development services for various industries along with result-driven project management and seamless communication. Our solutions yield benefit in Internet-facing, corporate and hybrid environments with a focus on optimization and expansion no matter the industry they operate in. </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center wow fadeIn animated"> <a href="industries/banking-financial-services">
+          <div class="global_box">
+            <div class="p_box">
+              <p>Banking & Finance</p>
+            </div>
+            <div class="green_box"> <small class="Dservices_icon1"></small> </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center wow fadeIn animated"> <a href="industries/healthcare-software-development-services">
+          <div class="global_box">
+            <div class="p_box">
+              <p> Healthcare </p>
+            </div>
+            <div class="green_box"> <small class="Dservices_icon2"></small> </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center wow fadeIn animated"> <a href="industries/retail-ecommerce-software-development">
+          <div class="global_box">
+            <div class="p_box">
+              <p>Retail & 
+                Commerce</p>
+            </div>
+            <div class="green_box"> <small class="Dservices_icon3"></small> </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center"> <a href="industries/publishing">
+          <div class="global_box">
+            <div class="p_box">
+              <p> Publishing </p>
+            </div>
+            <div class="green_box"> <small class="Dservices_icon4"></small> </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center"> <a href="industries/agencies-software-development-services">
+          <div class="global_box">
+            <div class="p_box">
+              <p>Digital & 
+                Marketing 
+                Agencies</p>
+            </div>
+            <div class="green_box"> <small class="Dservices_icon5"></small> </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center wow fadeIn animated"> <a href="industries/logistics-transportation-software-development">
+          <div class="global_box margin">
+            <div class="p_box">
+              <p>Logistics & 
+                Transportation</p>
+            </div>
+            <div class="green_box"> <small class="Dservices_icon6"></small> </div>
+          </div>
+          </a> </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center"> <a href="industries/automotive-companies-software-development-services">
+          <div class="global_box margin_top">
+            <div class="green_box"> <small class="Dservices_icon7"></small> </div>
+            <div class="p_box1">
+              <p>Automotive</p>
+            </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center wow fadeIn animated"> <a href="industries/travel-tourism-software-development-services">
+          <div class="global_box margin_top">
+            <div class="green_box"> <small class="Dservices_icon8"></small> </div>
+            <div class="p_box1">
+              <p>Travel & 
+                Tourism</p>
+            </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-cente wow fadeIn animatedr"> <a href="industries/education-elearning-software-development">
+          <div class="global_box margin_top">
+            <div class="green_box"> <small class="Dservices_icon9"></small> </div>
+            <div class="p_box1">
+              <p>Education & 
+                E-learning</p>
+            </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center"> <a href="industries/isv-software-development-services">
+          <div class="global_box margin_top">
+            <div class="green_box"> <small class="Dservices_icon10"></small> </div>
+            <div class="p_box1">
+              <p> ISV & Product 
+                Companies </p>
+            </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center"> <a href="industries/manufacturing">
+          <div class="global_box margin_top">
+            <div class="green_box"> <small class="Dservices_icon11"></small> </div>
+            <div class="p_box1">
+              <p>Manufacturing</p>
+            </div>
+          </div>
+          </a> </div>
+        <div class="col-md-2 col-sm-4 col-xs-12 text-center"> <a href="industries/media-software-development-services">
+          <div class="global_box margin margin_top">
+            <div class="green_box"> <small class="Dservices_icon12"></small> </div>
+            <div class="p_box1">
+              <p>Media & 
+                Entertainment</p>
+            </div>
+          </div>
+          </a> </div>
+      </div>
+    </div>
+  </section>
+  <section class="modern_technologies">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 wow fadeIn animated">
+          <div class="inner_new">
+            <h2> IT Outsourcing Services: Technologies </h2>
+            <p>As an Indian software development company, we offer development teams which are adept with all the latest technologies. Our developers have core knowledge of various new and established platforms and build secure, scalable and cost effective software using them. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="slider_sec_main">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 wow fadeIn animated"> <a href="javascript:void(0);" class="mobile_click contActive">
+            <div class="tech_box ">
+              <div class="img_box active_click"><img src="common/images/mobile_newt.png" alt="Mobile development services"> </div>
+              <p>Mobile</p>
+            </div>
+            </a> </div>
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 wow fadeIn animated"> <a href="javascript:void(0);" class="php_click contActive">
+            <div class="tech_box ">
+              <div class="img_box"><img src="common/images/php_new.png" alt="php development services"></div>
+              <p>php</p>
+            </div>
+            </a> </div>
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 wow fadeIn animated"> <a href="javascript:void(0);" class="ecommerce_click contActive">
+            <div class="tech_box ">
+              <div class="img_box"><img src="common/images/eco_cms.png" alt="Cms development services"></div>
+              <p>Ecommerce & CMS</p>
+            </div>
+            </a> </div>
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"> <a href="javascript:void(0);" class="jawa_click contActive">
+            <div class="tech_box ">
+              <div class="img_box"><img src="common/images/js_new.png" alt="java script development services"></div>
+              <p>Javascript</p>
+            </div>
+            </a> </div>
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" wow fadeIn animated> <a href="javascript:void(0);" class="micro_click contActive">
+            <div class="tech_box ">
+              <div class="img_box"><img src="common/images/microsoft.png" alt="software development services"></div>
+              <p>Microsoft</p>
+            </div>
+            </a> </div>
+          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 wow fadeIn animated"> <a href="javascript:void(0);" class="others_click contActive">
+            <div class="tech_box ">
+              <div class="img_box"><img src="common/images/others_new.png" alt="software development Company"></div>
+              <p>Others</p>
+            </div>
+            </a> </div>
+        </div>
+      </div>
+      <div class="slider_sec">
+        <div class="inner_sec micro_click_cont">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <p>Build secure and scalable web & mobile applications on Microsoft technologies including Microsoft ASP.Net, Sharepoint, and Xamarin. <br>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row wow fadeIn animated">
+              <div class="col-md-12">
+                <div class="col-md-4"></div>
+                <div class="col-md-4">
+                  <div class="micro_slider owl-carousel owl-theme col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="item"><a href="hire-developers/hire-dotnet-developers"><img src="common/images/.net.png" alt=".Net development services"></a>
+                      <p class="icon_title">.NET</p>
+                    </div>
+                    <div class="item"><a href="hire-developers/hire-sharepoint-developers"><img src="common/images/sharepoint.png" alt="Sharepoint development services"></a>
+                      <p class="icon_title">SharePoint </p>
+                    </div>
+                    <div class="item"><a href="hire-developers/hire-xamarin-developers"><img src="common/images/xamarin.png" alt="Xamarin development services"></a>
+                      <p class="icon_title">Xamarin </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="inner_sec mobile_click_cont">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <p> Hire our mobile app developers on hourly or full time (dedicated monthly) 
+                  basis for native and cross platform apps (iOS, Android, Xamarin & React Native). </p>
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row wow fadeIn animated">
+              <div class="col-md-12">
+                <div class="col-md-1"></div>
+                <div class="col-md-10">
+                  <div class="technology_slider owl-carousel owl-theme col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="item"><a href="hire-developers/hire-android-developers"><img src="common/images/android.png" alt="Android Application development services"></a>
+                      <p class="icon_title">Android </p>
+                    </div>
+                    <div class="item"><a href="hire-developers/hire-augmented-reality-developers"><img src="common/images/ar.png" alt="AR development services"></a>
+                      <p class="icon_title">AR</p>
+                    </div>
+                    <div class="item"><a href="hire-developers/hire-ios-developers"><img src="common/images/hire-ios-developers.png" alt="Ios Application development services"></a>
+                      <p class="icon_title">IOS </p>
+                    </div>
+                    <div class="item"><a href="hire-developers/hire-ionic-developers"><img src="common/images/ionic.png" alt="Ionic Application development services"></a>
+                      <p class="icon_title">Ionic </p>
+                    </div>
+                    <div class="item"><a href="hire-developers/hire-react-native-developers"><img src="common/images/react.png" alt="react js development services"></a>
+                      <p class="icon_title"> React Native </p>
+                    </div>
+                    <div class="item"><a href="hire-developers/hire-swift-developers"><img src="common/images/swift.png" alt="SWift development services"></a>
+                      <p class="icon_title">Swift </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-1"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="inner_sec php_click_cont">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <p> Choose agile development methodologies for PHP frameworks: Laravel, Symfony, CodeIgniter, Yii 2, CakePHP & Zend Framework. </p>
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="technology_slider owl-carousel owl-theme col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                  <div class="item"><a href="hire-developers/hire-cakephp-developers"><img src="common/images/cake-php.png" alt="software development services"></a>
+                    <p class="icon_title"> CakePHP </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-codeigniter-developers"><img src="common/images/codeignitor.png" alt="software development services"></a>
+                    <p class="icon_title"> Codeigniter </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-laravel-developers"><img src="common/images/laravel.png" alt="software development services"></a>
+                    <p class="icon_title"> Laravel </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-php-developers"><img src="common/images/php.png" alt="software development Company"></a>
+                    <p class="icon_title"> Php </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-symfony-developers"><img src="common/images/symfony.png" alt="software development services"></a>
+                    <p class="icon_title"> Symfony </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-yii-developers"><img src="common/images/yii.png" alt="software development services"></a>
+                    <p class="icon_title"> Yii </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-zend-developers"><img src="common/images/zend.png" alt="software development services"></a>
+                    <p class="icon_title"> Zend </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="inner_sec ecommerce_click_cont">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <p>Hire dedicated development team for Drupal, Sitecore, Sitefinity, Umbraco, WordPress, Magento, OpenCart, Prestashop, WooCommerce, & Shopify. </p>
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="technology_slider owl-carousel owl-theme col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                  <div class="item"><a href="hire-developers/hire-ecommerce-developers"><img src="common/images/e-commerce.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> ECommerce </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-magento-developers"><img src="common/images/magento.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> Magento </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-opencart-developers"><img src="common/images/opencart.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> OpenCart </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-wordpress-developers"><img src="common/images/wordpress.png" alt="top software development companies"></a>
+                    <p class="icon_title"> WordPress </p>
+                  </div>
+               
+                  <div class="item"><a href="hire-developers/hire-shopify-developers"><img src="common/images/shpify.png" alt="top it outsourcing company"></a>
+                    <p class="icon_title"> Shopify </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-woocommerce-developers"><img src="common/images/woo.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> WooCommerce </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-cms-developers"><img src="common/images/CMS.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> CMS </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-drupal-developers"><img src="common/images/drupal.png" alt="top software development companies"></a>
+                    <p class="icon_title"> Drupal </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-kentico-developers"><img src="common/images/kentico.png" alt="top software development companies"></a>
+                    <p class="icon_title"> Kentico </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-sitecore-developers"><img src="common/images/sitecore.png" alt="top software development companies"></a>
+                    <p class="icon_title"> Sitecore </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-sitefinity-developers"><img src="common/images/sitefinity.png" alt="top software development companies"></a>
+                    <p class="icon_title"> Sitefinity </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-umbraco-developers"><img src="common/images/umbraco.png" alt="top software development companies"></a>
+                    <p class="icon_title"> Umbraco </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-prestashop-developers"><img src="common/images/prestashop.png" alt="top it outsourcing company"></a>
+                    <p class="icon_title"> Prestashop </p>
+                  </div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="inner_sec jawa_click_cont">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12 wow fadeIn animated">
+                <p> Embrace future with the power of emerging JavaScript technologies like AngularJS, 
+                  Node.js, Vue.js, MEAN Stack, Meteor & ReactJS. </p>
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="technology_slider owl-carousel owl-theme col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                  <div class="item"><a href="hire-developers/hire-angularjs-developers"><img src="common/images/angular.png" alt="it outsourcing company "></a>
+                    <p class="icon_title"> Angular </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-nodejs-developers"><img src="common/images/js.png" alt="it outsourcing company "></a>
+                    <p class="icon_title"> Node </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-mean-stack-developers"><img src="common/images/mean-stack.png" alt="it outsourcing company "> </a>
+                    <p class="icon_title"> MEAN Stack </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-meteorjs-developers"><img src="common/images/meteor.png" alt="it outsourcing company "></a>
+                    <p class="icon_title"> Meteor </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-reactjs-developers"><img src="common/images/react.png" alt="it outsourcing company "></a>
+                    <p class="icon_title"> React </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-vuejs-developers"><img src="common/images/vue.png" alt="it outsourcing company "></a>
+                    <p class="icon_title"> Vue </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="inner_sec others_click_cont">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <p> Providing developers for C/C++, Hadoop, HTML5, Java, Python, RoR as well as Frontend developers,
+                  Software developers and API developers. <br>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="technology_slider owl-carousel owl-theme col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                  <div class="item"><a href="hire-developers/hire-blockchain-developers"><img src="common/images/blockchain.png" alt="best blockchain development company 
+"></a>
+                    <p class="icon_title"> Blockchain </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-java-developers"><img src="common/images/jawa.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> Java </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-chatbot-developers"><img src="common/images/chatboat_new.png" alt="best API development company 
+"></a>
+                    <p class="icon_title"> Chatbot  </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-machine-learning-experts"><img src="common/images/machine-learning_new.png" alt="best API development company 
+"></a>
+                    <p class="icon_title"> Machine Learning </p>
+                  </div>
+                  
+                  <div class="item"><a href="hire-developers/hire-ethereum-developer"><img src="common/images/ethereum.png" alt="best ethereum development company 
+"></a>
+                    <p class="icon_title"> Ethereum  </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-ror-developers"><img src="common/images/ror.png" alt="top RoR outsourcing company  "></a>
+                    <p class="icon_title"> RoR </p>
+                  </div>
+                  
+                  
+                  <div class="item"><a href="hire-developers/hire-api-developers"><img src="common/images/API-new.png" alt="best API development company 
+"></a>
+                    <p class="icon_title"> APi </p>
+                  </div>
+                  
+                  <div class="item"><a href="hire-developers/hire-python-developers"><img src="common/images/python.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> Python </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-software-developers-india"><img src="common/images/softwere-developers.png" alt="top it outsourcing company  "></a>
+                    <p class="icon_title"> Software </p>
+                  </div>
+                  <div class="item"><a href="hire-developers/hire-web-app-developers"><img src="common/images/web-developers.png" alt="it outsourcing company "></a>
+                    <p class="icon_title"> Web </p>
+                  </div>
+                  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tech_button"><a href="contact"> Contact Us Now </a></div>
+        </div>
+        
+      </div>
+    </div>
+    
+    <!--<div class="container">
+    
+      <div class="row">
+       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+       <div class="tech_button"><a href="#">BUTTON TITLE</a></div>
+         
+       
+       </div>
+      
+      
+      </div>
+    
+    
+    
+    </div>--> 
+    
+  </section>
+  <section class="testimonial-client ">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h4 class="client-hd wow fadeIn animated" data-wow-delay=".2s">See why our clients love to work with us</h4>
+        </div>
+      </div>
+      <div class="carousel slide" id="myCarousel">
+        <div class="carousel-inner">
+             <!-- /Slide1 -->
+             <div class="item  active">
+            <div class="row">
+              <div class="col-sm-12 col-xs-12">
+                <div class="clint-img"> <img src="common/images/about_icon1.png" alt="user" /> </div>
+                <div class="client-text">
+                  <p class="client_speak">ValueCoders is the strong development partner that we were looking so far. The mobile team at Valuecoders served the job excellently and knows very well how to build amazing apps within time. They know how to maintain good relations via effective communication. Their quick response to each query is highly appreciable. The final app delivered to us is of high-quality and developed strictly for our project's requirements. We are thankful for developing such an app and would be glad to work with them again. </p>
+                  <div class="test-dp"><img src="common/images/rg-logo.png" alt="Testimonials" title="Testimonials"></div>
+                  <p class="client_name">- Joshua Shields <br><small style="font-size:12px; color:#000;">Executive Director and Founding Partner Risklogic</small> </p>
+                  
+                  <span>user</span> </div>
+                <div class="view-testimonial"> <a href="testimonials">VIEW All TESTIMONIALS</a> </div>
+              </div>
+            </div>
+          </div>
+              <!-- /Slide1 -->
+              <div class="item">
+            <div class="row">
+              <div class="col-sm-12 col-xs-12">
+                <div class="clint-img"> <img src="common/images/about_icon1.png" alt="user" /> </div>
+                <div class="client-text">
+                  <p class="client_speak">A great team of problem solvers. At ValueCoders, they have a great culture. We worked as a team, not as a client and developers. They stay connected and report on a regular basis. In the end all culminated in an awesome product.</p>
+                  <div class="test-dp"><img src="common/images/cmp-logo.png" alt="Testimonials" title="Testimonials"></div>
+                  <p class="client_name">- Benoît D'heygere <br><small style="font-size:12px; color:#000;">Founder at Refuge</small> </p>
+                  
+                  <span>user</span> </div>
+                <div class="view-testimonial"> <a href="testimonials">VIEW All TESTIMONIALS</a> </div>
+              </div>
+            </div>
+          </div>
+              <!-- /Slide1 -->
+              <div class="item">
+            <div class="row">
+              <div class="col-sm-12 col-xs-12">
+                <div class="clint-img"> <img src="common/images/about_icon1.png" alt="user" /> </div>
+                <div class="client-text">
+                  <p class="client_speak">ValueCoders is a remarkable software outsourcing company with highly skilled developers. They have provided me expected outcomes for every project they undertook. I highly recommend ValueCoders to others when they seek for a seasoned software development company. </p>
+                  <div class="test-dp"><img src="common/images/candor-logo.png" alt="Testimonials" title="Testimonials"></div>
+                  <p class="client_name">- Antonio Santos  <br><small style="font-size:12px; color:#000;">Head of Web Technolgy at Candor Renting SA </small> </p>
+                  
+                  <span>user</span> </div>
+                <div class="view-testimonial"> <a href="testimonials">VIEW All TESTIMONIALS</a> </div>
+              </div>
+            </div>
+          </div>
+          <!-- /Slide1 -->
+          <!--
+          <div class="item">
+            <div class="row">
+              <div class="col-sm-12 col-xs-12">
+                <div class="clint-img"> <img src="common/images/about_icon1.png" alt="user" /> </div>
+                <div class="client-text">
+                  <p class="client_speak">Working with the ValueCoders' software development team has been an outstanding experience. They were great communicators at every stage of development unlike my previous software outsourcing company. The delivery made was beyond expectation. We are glad to have worked with such a software development company and hope to work together on future projects. </p>
+                  <p class="client_name">- Gary Wolff </p>
+                  <span>SENIOR OF SOMETHING</span> </div>
+                <div class="view-testimonial"> <a href="testimonials">VIEW TESTIMONIALS</a> </div>
+              </div>
+            </div>
+          </div>-->
+          <!-- /Slide1 -->
+          <!--
+          <div class="item">
+            <div class="row">
+              <div class="col-sm-12 col-xs-12">
+                <div class="clint-img"> <img src="common/images/about_icon1.png" alt="user" /> </div>
+                <div class="client-text">
+                  <p class="client_speak">Utilizing the service of an offshore company is a financial benefit but at the same time is a decision to make. There are many questions running through the mind like- Can we trust them? Will they be able to communicate efficiently? I decided to overcome my fear and decided of giving ValueCoders a chance.They thoroughly met my expectations and I am very pleased with the results. </p>
+                  <p class="client_name">- Percy Rhodes</p>
+                  <span>user</span> </div>
+                <div class="view-testimonial"> <a href="testimonials">VIEW TESTIMONIALS</a> </div>
+              </div>
+            </div>
+          </div>-->
+          <!-- /Slide2 -->
+          <!--
+          <div class="item">
+            <div class="row">
+              <div class="col-sm-12 col-xs-12">
+                <div class="clint-img"> <img src="common/images/about_icon1.png" alt="user" /> </div>
+                <div class="client-text">
+                  <p class="client_speak">In spite of the fact that we never spoke with this team, we have had effective communication via instant messenger. The project has exceeded all my expectations.The ValueCoders team has lived up to their standards and I expect a long, lasting and professional relationship to continue.
+                    I strongly recommend them.</p>
+                  <p class="client_name">- Herbert Rogers</p>
+                  <span>user</span> </div>
+                <div class="view-testimonial"> <a href="testimonials">VIEW TESTIMONIALS</a> </div>
+              </div>
+            </div>
+          </div>-->
+          <!-- /Slide1 -->
+          <!--
+          <div class="item">
+            <div class="row">
+              <div class="col-sm-12 col-xs-12">
+                <div class="clint-img"> <img src="common/images/about_icon1.png" alt="user" /> </div>
+                <div class="client-text">
+                  <p class="client_speak">Utilizing the service of an offshore company is a financial benefit but at the same time is a decision to make. There are many questions running through the mind like- Can we trust them? Will they be able to communicate efficiently? I decided to overcome my fear and decided of giving ValueCoders a chance.They thoroughly met my expectations and I am very pleased with the results. </p>
+                  <p class="client_name">- Percy Rhodes</p>
+                  <span>user</span> </div>
+                <div class="view-testimonial"> <a href="testimonials">VIEW TESTIMONIALS</a> </div>
+              </div>
+            </div>
+          </div>-->
+          <!-- /Slide2 --> 
+          
+        </div>
+        <nav class="carosel-btn">
+          <ul class="control-box">
+            <li> <a data-slide="prev" href="#myCarousel" class=""><i class="fa fa-angle-left" aria-hidden="true"></i> </a> </li>
+            <li> <a data-slide="next" href="#myCarousel" class=""><i class="fa fa-angle-right" aria-hidden="true"></i> </a> </li>
+          </ul>
+        </nav>
+        <!-- /.control-box --> 
+      </div>
+      <!-- /#myCarousel --> 
+    </div>
+  </section>
+  <section class="index_latest_pg">
+  
+<footer class="footeFormr">
+    <div class="container">
+      <div class="footerInner">
+          
+        <h2>Get in touch</h2>
+        <h5> Request a free consultation and get a no obligation quote for your project within 8 hours </h5>
+        <div class="footerFormBody">
+          <form name="contact-frm" id="contact-frm" action="sendmail1.php" class="form-outer" method="post" enctype="multipart/form-data">
+            <div class="row">
+              <div class="col-md-6 col-sm-12">
+                <div class="input-group"> <span class="input-group-addon"> </span>
+                  <input type="text" class="form-control" placeholder="Your Name *" name="user-name" id="user-name" />
+                  <span id="user-name-err1" class="err"></span> </div>
+              </div>
+              <div class="col-md-6 col-sm-12">
+                <div class="input-group"> <span class="input-group-addon"> </span>
+                  <input type="text" class="form-control" placeholder="Email ID *" name="user-email" id="user-email" />
+                  <span id="user-email-err" class="err"></span> </div>
+              </div>
+              <div class="col-md-6 col-sm-12">
+                <div class="input-group"> <span class="input-group-addon"> </span>
+                  <input type="text" class="form-control" placeholder="Phone" name="user-phone" id="user-phone" />
+                  <span id="user-phone-err" class="err"></span> </div>
+              </div>
+              <div class="col-md-6 col-sm-12">
+                <div class="input-group budujt" style="width:100%;"> <span class="input-group-addon"> </span>
+                  <select class="citySelectze form-control " style="width:100%;" name="user-budget">
+                    <option>What is your alloted budget?</option>
+                    <option value="$5000 or less"> &lt;$5000 </option>
+                    <option value="$5000-$10000">$5000-$10000</option>
+                    <option value="$10000-$25000">$10000-$25000</option>
+                    <option value="$25000-$50000">$25000-$50000</option>
+                    <option value="$50000 or more">&gt;$50000 </option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-md-12 ">
+                <div class="input-group"> <span class="input-group-addon" style="vertical-align:top;"> </span>
+                  <textarea type="text" rows='3' class=" textarea_requirment form-control" placeholder="Your Requirements" name="user-req" id="user-req"></textarea>
+                  <span id="user-message-err" class="err"></span> </div>
+              </div>
+              <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+                <div class="drop_box_container"> 
+                    <div id="uploadcontact">
+                    <!--<a href="#">Browse</a> <a href="#">Link </a> <a href="#">DropBox</a>-->
+                    <div id="dropcontact">
+<!--                            <input type="file" name="hireupl" id="hirefile-3" style="width:30%">-->
+                            <input type="file" name="upl" id="file-3" class="inputfile inputfile-3" />
+                            <p><a onclick="Javascript:void(0);">Browse</a> <a onclick="showShareURL();"> URL</a> <a class="dropfile" style="border-right:0px; border: 1px dashed #b1b1b1;padding: 4px 12px; height: 30px;cursor: default;background: #f5f5f5;white-space: nowrap; margin-left:10px;"> Drop Files Here </a></p>
+                    </div>
+                    </div>
+                </div>
+              </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="uplfilelist">
+                            <ul></ul>
+                        </div> 
+                    </div> 
+                </div>
+                
+                <div class="row">
+                <div class="col-md-8 col-xs-12">
+                <div class="input-field" id="share_url" style="display:none;">
+                 <div class="input-group"> <span class="input-group-addon"> </span>
+                  <input type="text" class="form-control" placeholder="Share Url" name="customUrllink" id="user-url">
+                  </div>
+                  <span id="hire-user-email-err" class="err"></span>
+                </div>
+                </div>
+                </div>
+              <!--<div class="chain">
+                <span onclick="showShareURL();" id="label_share_url"><i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url</span>
+                <div class="input-group" id="share_url" style="display:none;"> <span class="input-group-addon"> <i class="fa fa-link"></i> </span>
+                    <input type="text" class="form-control" placeholder="Share Dropbox or Other Url" name="customUrllink" id="user-url" maxlength="100" />
+                </div>
+            </div>--> 
+              <!--<div class="col-sm-12"> <a href="javascript:void(0);" class="fileUload" onclick="document.getElementById('footerFormFile').click();"> <i class="fa fa-file-text-o"></i> &nbsp;Upload your file.</a> 
+             <a href="#" class="drop"> <i class="fa fa-dropbox"></i> &nbsp;Drop files here </a>
+            <a href="#" class="chain"> <i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url </a>
+
+              <input type="file" id="footerFormFile" />
+              <span id="filetext" style="display:none;"></span> <br>
+              <label> Accepted file Formats: <span> .PSD, .JPG, .JPEG, .GIF, .PNG, .AI, .ZIP, 
+                .RAR, .PDF, .DOC, .DOCX, .XLS, .XLSX, .PPT. </span> If file size is greater than
+                20MB, 
+                Please share using Dropbox or similar. </label>
+            </div>-->
+
+              <div class="row">
+                <div class="col-lg1-12 col-md-12 col-sm-12 col-xs-12">
+                  <div class="ft_button"><a href="javascript:void(0);" id="submitFrm">  SEND REQUEST</a></div>
+                </div>
+              </div>
+              
+              
+              <div class="btn_main"> 
+                <!--<div class="formfooter">
+              <button class="btn btn-success" id="submitFrm">Send your request</button>
+              <p class="privacy"> <i class="fa fa-lock"></i> Your privacy is guaranteed. We hate spam as much as you do! </p>
+            </div>--> 
+              </div>
+            </div>
+            
+            <input type="hidden" name="frmOrderFileUploadedfilename" id="frmOrderFileUploadedfilename" value="" />
+            <input type="hidden" name="_frmOrder" value="frmOrder" />
+            <input type="hidden" name="type" value="contact-frm " />
+            <input type="hidden" name="frmqueryString" id="frmqueryString" value="utm_source=blog&utm_medium=headerbanner&utm_campaign=home&amp;PageName=&amp;xForwordFor=&amp;deviceID=computer" />
+          </form>
+        </div>
+        <div class="clear"></div>
+      </div>
+      
+    </div>
+    
+        
+</footer>
+
+<script>
+       function showShareURL() {
+            $("#share_url").show();
+            $("#label_share_url").hide();
+        }
+   </script>
+<style>
+
+
+.err {
+    color: red;
+    position: absolute;
+    right: 30px;
+    top: 31px;
+    width: 400px;
+    text-align: right;
+}
+
+.uplfilelist li {
+  margin-top: 10px;
+}
+
+#hiredropcontact span {
+  padding: 16px 12px;
+}
+.hiredev .dropfile {
+    border: 1px solid hsl(0, 0%, 24%) !important;
+    display: inline-block !important;
+    text-decoration: none !important;
+   }
+   .hiredev .dropcontact {
+       padding: 0px !important;
+       border: none !important;
+   }
+
+.uplfilelist { float: left;    width:465px; margin:10px 0px 0px 18px;}
+   .uplfilelist ul {margin: 0 !important; float: left;width: 100% !important; text-align: left !important;list-style: outside none none; max-height: 80px; overflow-y: auto;background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;}
+   .uplfilelist ul li{ background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important; margin: 0;padding: 0 !important;}
+   .uplfilelist ul li p{ display: inline;
+    font-size: 15px;
+    line-height: 38px;
+    margin: 0;
+    padding-left: 9px;
+    position: relative;
+    top: -9px;}
+   .uplfilelist ul li i{ font-size: 15px;}
+   
+   #dropcontact{position:relative;}
+   #dropcontact > input[type="file"]{ display: block !important;   width: 118px;
+    opacity: 0;
+    height: 72px;
+    position: absolute;
+    top: 0;
+    left: 0;}
+	
+	#share_url {
+	width: 56%;
+	margin-left: 15px;
+	margin-top: 12px !important;
+	line-height: 30px;
+}
+
+#uploadcontact {
+	border: 2px solid #a9a9a9;
+}
+
+
+
+	
+@media screen and (max-width:767px){
+	
+	#share_url {
+	width: 90%;
+	margin-left: 15px;
+	margin-top: 12px !important;
+	line-height: 30px;
+}
+	
+	
+	}
+
+
+
+</style>  </section>
+  <div class="footer_bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+          <ul class="footer_menu">
+            <!--                        <li><a href="application-maintenance" title="Application Maintenance">Application Maintenance</a><span>|</span></li>
+                        <li><a href="application-modernization" title="Application Modernization">Application Modernization</a><span>|</span></li>
+                        <li><a href="application-development" title="Application Development">Application Development</a><span>|</span></li>--> 
+            <!--<li><a href="communication-channels" title="Communication Channels">Communication Channels</a><span>|</span></li>--> 
+            <!--<li><a href="testing-qa" title="Testing & QA">Testing & QA</a><span>|</span></li>-->
+            <li><a href="faq" title="FAQ">FAQ</a><span>|</span></li>
+            <li><a href="disclaimer" title="Disclaimer">Disclaimer</a><span>|</span></li>
+            <li><a href="privacy-policy" title="Privacy Policy">Privacy Policy</a><span>|</span></li>
+            <li><a href="terms-of-service" title="Terms of Service">Terms of Service</a><span>|</span></li>
+            <li><a title="Why India?" href="why-india">Why India?</a><span>|</span> </li>
+            <li><a title="In Media" href="in-media">In Media</a><span>|</span></li>
+            <li><a title="How It Works" href="process">How It Works</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+          <ul class="social_sec">
+            <li> <a href="https://twitter.com/ValueCoders" title="Twitter" target="_blank"> <i class="fa fa-twitter-square"></i> </a> </li>
+            <li> <a href="https://www.facebook.com/ValueCoders" title="Facebook" target="_blank"> <i class="fa fa-facebook-square"></i> </a> </li>
+            <li> <a href="https://plus.google.com/103716832322080901612/posts" title="Google +" target="_blank"> <i class="fa fa-google-plus-square"></i> </a> </li>
+            <li> <a href="https://www.linkedin.com/company/valuecoders" title="Linkedin" target="_blank"> <i class="fa fa-linkedin-square"></i> </a> </li>
+            <li> <a href="https://www.youtube.com/valuecoders/" title="youtube" target="_blank"> <i class="fa fa-youtube-square" aria-hidden="true"></i>
+</i> </a> </li>
+<li> <a href="https://www.instagram.com/valuecoder/" title="instagram" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i>
+</i>
+</i> </a> </li>
+            
+            
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+          <p>Copyright &copy; 2004 - 2019. All Rights Reserved. ValueCoders.com</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  <footer class="footer" role="contentinfo">
+         
+    
+
+              
+                                <div class="rating_outer">
+                                    
+                                    
+                                    
+                                    <div class="container">
+                                        <div class="row rating_bx">
+                                            <div class="snippet col-md-8 col-sm-12 col-xs-12">
+                <div class="rating-section">
+                <div class="rating-view">                       
+                <div class="rateit-wrap">
+                    <div id="rateYo1" class="jq-ry-container" readonly="readonly" style="width: 73px;"></div>
+                    <div class="initail-rate">
+                                                <span class="rate-btn enable"> Rate us</span>
+                                                <!-- <span class="rate-btn rateYo2 edited already_rated">Already Rated</span> -->
+                    </div>
+                </div>
+    <div class="overall"><span itemscope="" itemtype="http://data-vocabulary.org/Review-aggregate">
+        <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+        <input type="hidden" name="post_id" id="rating_post_id">
+        <input type="hidden" name="currentrate" id="currentrate" value="1299">
+        
+        <strong itemprop="average" id="ratingValue">4.9 </strong>
+        out of <strong itemprop="best">5.0 </strong>
+        </span>&nbsp; for &nbsp;
+                                    <span itemprop="itemreviewed">Software Development Services </span>   
+                        
+         &nbsp; by &nbsp;<span class="client-project" style="display:block !important;"><span itemprop="votes" id="totalClient">1299 </span>clients on over + projects</span></span> 
+        <input type="hidden" name="rating_page_url" value="index.php" id="rating_page_url">
+
+    </div>
+    </div>
+    <script type="text/javascript">
+        var allreadyRated = '1';
+        var ratingValue = '4.7';   
+    </script>
+    </div>
+
+    </div>   
+    
+    <!--SOcial login-->
+    
+    <div class="col-md-4 col-sm-12 col-xs-12">
+                                                            <div class="social-btn pull-right">
+                                                                <div id="fb-root"></div>
+                                                                <div class="fb-like" data-href="https://www.facebook.com/ValueCoders" data-send="false" data-layout="button_count" data-width="350" data-show-faces="true"></div>
+                                                                <!-- Place this render call where appropriate -->
+                                                                <a href="https://twitter.com/share" class="twitter-share-button" data-url="">Tweet</a>
+                                                                <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+                                                                <script type="IN/Share" data-url="https://www.valuecoders.com" data-counter="right"></script>
+                                                                <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/103716832322080901612"></div>
+                                                                
+                                                                instagram
+                                                            </div>
+                                            </div>
+
+	    
+                                            
+                                </div>
+                                </div>
+                                </div>
+    
+</footer>
+</section>
+</div>
+</div>
+
+<script type="text/javascript" src="common/js/cmnJs.min.js"></script>
+<!--<script type="text/javascript" src="common/js/jquery.rateyo.min.js"></script>-->
+<script>
+var $ratevalue = $("#rateYo1").rateYo({ 
+        onSet: function (rating, rateYoInstance) {
+            rate_url = $("#rating_page_url").val();
+            currentrate = $("#currentrate").val();
+            $.ajax({
+                type: "POST",
+                url: "./ajax_act.php?t=" + Math.floor((Math.random() * 1000000) + 1),
+                dataType: "html",
+                data: {
+                    rating: rating,
+                    rate_url:rate_url,
+                    ratingPoints:currentrate,
+                    action: "userRating"
+                },
+                success: function (response) {
+                    var obj = JSON.parse(response)
+                    var totalClient = obj.totalClient;
+                    var totalRating = obj.totalRating;
+                    $("#ratingValue").html(totalRating);
+                    $("#totalClient").html(totalClient);
+                    $('.rateit-wrap').find('.rate-btn.rateYo2').addClass('edited');
+                    $('.rateit-wrap').find('.rate-btn.rateYo2').text('Rated');
+                    $("#rateYo1").rateYo("option", "readOnly", true);
+                }
+            });
+        },
+        rating: ratingValue,
+        halfStar: true,
+        starWidth: "13px",
+        ratedFill: "#fdc532",
+        normalFill: "#ffffff",
+        spacing: "2px",
+        readOnly: true
+    });
+
+    $("#rateYo1 svg").click(function (e) {
+
+       
+        if ($('#rateYo1').hasClass('rateYo2') && !$('#totalClient').hasClass('mark')) {
+           
+            /* get rating */            
+            $("#totalClient").addClass("mark");
+            $(this).addClass('sucess');
+            
+            setTimeout(function () {
+                $('.rate-submit').fadeOut(500);
+            }, 1000);
+        } else if ($('#rateYo1').hasClass('rateYo2') && $('#totalClient').hasClass('mark')) {
+            $('.rate-btn.rateYo2').text('Already Rated');
+            $('.rate-btn.rateYo2').addClass('already_rated');
+
+        } else {
+            e.preventDefault();
+            return false;
+        }
+
+    });
+    $('.rate-btn').on('click', function (e) {
+        if ($('.edited').length > 0) {
+            e.preventDefault();
+            return false;                         
+        }
+        else {
+            $("#rateYo1").rateYo("option", "readOnly", false);
+            $(".rate-submit").addClass("full-show");
+            $("#rateYo1").addClass("rateYo2");
+            $(this).addClass("rateYo2");
+            $(this).removeClass("enable");
+            $(this).text("Click to rate");
+        }
+    });
+</script>
+<!--linkedin conversion tracking code-->
+<script type="text/javascript">
+_linkedin_data_partner_id = "36540";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+  <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=36540&fmt=gif" /> </noscript>
+  
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27094506-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-27094506-1');
+</script> 
+<script>
+     setTimeout(function() {  
+     !function(e, t, n) {
+        var a, s = e.getElementsByTagName(t)[0], c = /^http:/.test(e.location) ? "http" : "https";
+        e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = c + "://platform.twitter.com/widgets.js", s.parentNode.insertBefore(a, s))
+    }(document, "script", "twitter-wjs"), function(e, t, n) {
+        var a, s = e.getElementsByTagName(t)[0];
+        e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = "//connect.facebook.net/en_US/all.js#xfbml=1", s.parentNode.insertBefore(a, s))
+    }(document, "script", "facebook-jssdk"), function() {
+        var e = document.createElement("script");
+        e.type = "text/javascript", e.async = !0, e.src = "https://apis.google.com/js/plusone.js";
+        var t = document.getElementsByTagName("script")[0];
+        t.parentNode.insertBefore(e, t)
+    }();
+    }, 6000);
+</script>
+<!-- Addroll Code Starts -->
+<!-- Addroll Code Ends -->
+        </body>
+        </html>
+
+

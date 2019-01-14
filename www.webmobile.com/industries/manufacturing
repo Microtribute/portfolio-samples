@@ -1,0 +1,1399 @@
+<!DOCTYPE html>
+<html lang="en" class="demo-loading no-js">
+<head>
+<meta charset="utf-8">
+<meta name="language" content="English" />
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.
+
+apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '23fbb2e0572145bebfc07d4261b8990b');
+qp('track', 'ViewContent');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/23fbb2e0572145bebfc07d4261b8990b/pixel?tag=ViewContent&noscript=1"/>
+</noscript>
+<!-- End of Quora Pixel Code -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5067063"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script> 
+<!--create url for ie9,10 redirection on 404 not found-->
+<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+<base href="/www.valuecoders.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Manufacturing Software Development Services | Software Solutions</title>
+<meta name="description" content="At ValueCoders, a 13+ years experienced company, we have manufacturing software development teams who are experts in building business solutions like ERP, mobility and IT solutions according to the specific client requirements of manufacturing industries."/>
+<meta name="keywords" content="" />
+<!-- Open Graph -->
+<meta property="og:title" content="Manufacturing Software Development Services | Software Solutions"/>
+<meta property="og:image" content="common/images/dsd.jpg"/>
+<meta property="og:site_name" content="Valuecoders"/>
+<meta property="og:url" content="industries/manufacturing"/>
+<meta property="og:type" content="Home Page"/>
+<meta property="og:description" content="At ValueCoders, a 13+ years experienced company, we have manufacturing software development teams who are experts in building business solutions like ERP, mobility and IT solutions according to the specific client requirements of manufacturing industries."/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="Expert Remote Teams For Your Software development Needs">
+<meta name="twitter:site" content="@valuecoders">
+<meta name="twitter:creator" content="@valuecoders">
+<meta name="twitter:url" content="industries/manufacturing">
+<meta name="twitter:title" content="Manufacturing Software Development Services | Software Solutions">
+<meta name="twitter:description" content="At ValueCoders, a 13+ years experienced company, we have manufacturing software development teams who are experts in building business solutions like ERP, mobility and IT solutions according to the specific client requirements of manufacturing industries.">
+<meta name="twitter:image" content="common/images/dsd.jpg">
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.valuecoders.com\/","name":"ValueCoders.com : IT Outsourcing Company - Outsource Software Development Services India","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.valuecoders.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.valuecoders.com\/","sameAs":["https:\/\/www.facebook.com\/ValueCoders","https:\/\/in.linkedin.com\/company\/valuecoders","https:\/\/twitter.com\/valuecoders"],"@id":"#organization","name":"ValueCoders.com","logo":"https:\/\/www.valuecoders.com\/blog\/wp-content\/themes\/valuecoders\/images\/logo.png"}</script>
+<link rel="stylesheet" type="text/css" href="common/css/cmnCss.css"/>
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">-->
+<link rel="stylesheet" type="text/css" href="common/fonts/font.css" />
+<!--<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>-->
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic,300italic,100italic,100' rel='stylesheet' type='text/css'>
+<!--<link rel="stylesheet" type="text/css" href="common/css/jquery.rateyo.min.css" />
+<link rel="stylesheet" type="text/css" href="common/css/rating.css" />
+<link rel="stylesheet" type="text/css" href="common/css/mytab.css" />-->
+<script type="text/javascript" src="common/js/jsLib.min.js"></script>
+<script>
+
+
+
+
+$(function () { 
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 500) { 
+            $('.logo img').attr('src','common/images/VC-Log-1.png');
+        }
+        if ($(this).scrollTop() < 500) { 
+            $('.logo img').attr('src','common/images/logo.svg');
+        }
+	});});
+
+</script>
+<style>
+/* This only works with JavaScript, 
+               if it's not present, don't show loader */
+            /*#loader { display: none;  }*/
+.js #loader {
+	display: block;
+	position: absolute;
+	left: 100px;
+	top: 0;
+}
+
+
+.fixed a.logo img {
+	width: 240px;
+	height: auto; 
+}
+</style>
+
+
+
+
+
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>-->
+<!--<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>-->
+<script>
+            // Wait for window load
+//		$(window).load(function() {
+//			// Animate loader off screen
+////			$("#loader").animate({
+////				top: -200
+////			}, 1500);
+//
+//                        $("#loader").hide();
+//		});
+        </script>
+
+<!--<link rel="stylesheet" type="text/css" href="common/css/datepicker.css"/> -->
+
+<link rel="shortcut icon" href="/common/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/common/images/favicon.ico" type="image/x-icon">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2095923350635817');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2095923350635817&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 798743845 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-798743845"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-798743845');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 1013624786 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1013624786"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1013624786');
+</script>
+
+
+
+
+<link rel="canonical" href="industries/manufacturing" />
+</head><body>
+<script>fbq('track', 'Lead');</script>
+<div class="outer_layout">
+<div class="outer_wrapper_new">
+
+<!-- <div class="christmas_banner"><img src="common/images/Christmas-Banner-VC.gif" alt="Hire Dedicated Developers - Logo" /></div>-->
+
+<header class="header_new" role="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-3 col-lg-2 col-md-2"> <a href="" class="logo" title="ValueCoders"><img src="common/images/logo.svg" alt="Hire Dedicated Developers - Logo" /></a> <span class="mob_icon2"></span> </div>
+      <div class="col-xs-12 col-sm-9 col-lg-10 col-md-10">
+        <ul class="menu_new">
+          <li class="menu_arrow"><a href="javascript:void(0)" id="mob_main_service_manu" title="Services">Services</a>
+            <div class=" sub_menu_new srv-list">
+              <ul class="sub-menu-list services">
+                <li class="first"><a href="application-development" title="Application Development" class="app-dvl">Application Development</a></li>
+                <li class="first"><a href="outsource-software-product-development-services" title="Software Product Development" class="software-product-dvl"> Software Product Development </a></li>
+                <li class="first"><a href="it-strategy-consulting-firms" title="It Strategy & Consulting" class="it-strategy"> IT Strategy & Consulting </a></li>
+                <li><a href="application-maintenance" title="Application Maintenance" class="app-mnt">Application Maintenance</a></li>
+                <li><a href="application-modernization" title="Application Modernization" class="app-modz">Application Modernization</a></li>
+                <li><a href="testing-qa" title="Testing & QA" class="testing-qa">Testing &amp; QA</a></li>
+                <li><a href="co-development" title="Co-Development" class="co-devlpmt">Co-Development</a></li>
+                <li class="last"><a href="dedicated-development-teams" title="Dedicated Development" class="ded-devlpmt">Dedicated Development Teams</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire"> <a href="hire-developers" id="mob_main_hire_manu" title="Hire Developers">Hire Developers</a>
+            <div class="sub_menu_new hire_dvl_list">
+              <ul class="sub-menu-list hire_devl">
+                <li><a class="php" title="php" href="hire-developers/hire-php-developers">Hire PHP Developers</a></li>
+                <li><a class="xamarin" href="hire-developers/hire-xamarin-developers">Hire Xamarin Developers</a></li>
+                <li><a class="java" title="java" href="hire-developers/hire-java-developers">Hire Java Developers</a></li>
+                <li><a class="dotnet" title=".Net" href="hire-developers/hire-dotnet-developers">Hire .NET Developers</a></li>
+                <li><a class="rectnative" title="SharePoint" href="hire-developers/hire-react-native-developers">Hire React Native Developers</a></li>
+                <li><a class="android" title="Android" href="hire-developers/hire-android-developers">Hire Android Developers</a></li>
+                <li><a class="nodejs" href="hire-developers/hire-nodejs-developers" title="Node JS">Hire Node.JS Developers</a></li>
+                <li><a class="ios" href="hire-developers/hire-ios-developers" title="IOS">Hire iOS Developers</a></li>
+                <li><a class="angularjs" href="hire-developers/hire-angularjs-developers" title="Angular JS">Hire AngularJS Developers</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="laravel" href="hire-developers/hire-laravel-developers">Hire Laravel Developers</a></li>
+                <li><a class="block_chain" href="hire-developers/hire-blockchain-developers"> Hire Blockchain Developers </a></li>
+                <li><a class="augmented_ar" href="hire-developers/hire-augmented-reality-developers">Hire Augmented Reality Developers</a></li>
+                  <li><a class="rorr" href="hire-developers/hire-ror-developers">Hire RoR Developers </a></li>
+                <li><a class="vue" href="hire-developers/hire-vuejs-developers">Hire VueJS Developers</a></li>
+                <li><a class="phython" href="hire-developers/hire-python-developers"> Hire Python Developers </a></li>
+                <li><a class="reactjs" href="hire-developers/hire-reactjs-developers">Hire ReactJS Developers</a></li>
+                
+                
+              </ul>
+              <div class="mgt-top text-center"> <a class="btn btn-box" href="hire-developers">View All</a> </div>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire sub_menu_inds"> <a href="javascript:void(0)" id="mob_main_hire_manu" title="Industries">Industries</a>
+            <div class="sub_menu_new indri_list">
+              <ul class="sub-menu-list indri">
+                <li><a class="isvs" title="isvs & Product Companies" href="industries/isv-software-development-services">ISVs & Product Companies</a></li>
+                <li><a class="digital" title="Digital & Marketing Agencies"href="industries/agencies-software-development-services">Digital & Marketing Agencies</a></li>
+                <li><a class="banking" title="Banking & Finance" href="industries/banking-financial-services">Banking & Finance</a></li>
+                <li><a class="retail" title="Retail & eCommerce" href="industries/retail-ecommerce-software-development">Retail & eCommerce</a></li>
+                <li><a class="health" title="Healthcare" href="industries/healthcare-software-development-services">Healthcare</a></li>
+                <li><a class="edu" title="Education & E-Learning" href="industries/education-elearning-software-development">Education & E-Learning</a></li>
+                <li><a class="manufacturing" href="industries/manufacturing" title="manufacturing">Manufacturing</a></li>
+                <li><a class="logistics" href="industries/logistics-transportation-software-development" title="logistics-transportation-software-development">Logistics & Transportation</a></li>
+                <li><a class="publishing" href="industries/publishing" title="Publishing">Publishing</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="media_1" title="Media & Entertainment" href="industries/media-software-development-services"> Media & Entertainment</a></li>
+                <li><a class="atomative" title="Automotive" href="industries/automotive-companies-software-development-services">Automotive</a></li>
+                <li><a class="travel" title="Travel & Tourism" href="industries/travel-tourism-software-development-services">Travel & Tourism</a></li>
+              </ul>
+              <!--<div class="mgt-top text-center">
+                                            <a class="btn btn-box" href="hire-developers">View All</a>
+                                        </div>--> 
+            </div>
+          </li>
+          <li class="no-arrow"><a title="Case Studies" href="case-studies/"> Portfolio</a></li>
+          <li class="menu_arrow"><a href="#" id="mob_main_about_manu" title="Company">Company</a>
+            <div class="sub_menu_new company-outer">
+              <ul class="sub-menu-list company">
+                <li class="first"><a title="About US" href="about"> <img class="cmpny_iconh" alt="About Us" src="common/images/about_us.png" /> <img class="cmpny_icon" src="common/images/about_us_hover.png" alt="Outsourcing"  /> About US</a></li>
+                <!--<li><a title="How It Works" href="process">
+                                            <img class="cmpny_iconh" alt="How It Works" src="common/images/how_it_worksM.svg" />
+                                            <img class="cmpny_icon" src="common/images/how_it_works.svg" alt="24" >
+                                            How It Works</a></li>-->
+                
+                <li><a title="Blog" href="blog/" target="_blank"> <img class="cmpny_iconh" alt="Blog" src="common/images/blog.png" /> <img class="cmpny_icon" src="common/images/blog_hover.png" alt="BLOG" /> Blog</a></li>
+                <li><a class="faq-menu" title="FAQ's" href="faq"> <img class="cmpny_iconh" alt="FAQ" src="common/images/FAQ.png" /> <img class="cmpny_icon" src="common/images/FAQ_hover.png" alt="FAQ" /> FAQ</a></li>
+                <li><a class="testml-menu" title="CLIENT TESTIMONIALSs" href="testimonials"> <img class="cmpny_iconh" alt="CLIENT TESTIMONIALSs" src="common/images/testimonial-icon.png" /> <img class="cmpny_icon" src="common/images/testimonial_hover.png" alt="CLIENT TESTIMONIALSs" /> CLIENT TESTIMONIALS</a></li>
+                <!--<li><a class="cases-menu" title="Case Studies" href="case-studies/"> <img class="cmpny_iconh" alt="Case Studies" src="common/images/case_study.png" /> <img class="cmpny_icon" src="common/images/case_study_hover.png" alt="Case Studies" /> Case Studies</a></li>-->
+                <li class="last"><a class="approach-menu" title="approach" href="our-approach"> <img class="cmpny_iconh" alt="approach" src="common/images/approach.png" /> <img class="cmpny_icon" src="common/images/approach_hover.png" alt="approach" /> Approach</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="contact_us"><a href="contact" title="Contact" class="contact_last">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+    <section class="banking_finance_pg iso_pgN manufacturing_page">
+      <section class="web_appl_dvl_newPG">
+        <div class="banking_finance_bnner_sec_outr manufacturing_outer">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                <div class="web_appl_dvl_bnner_sec">
+                  <h1 >MANUFACTURING SOFTWARE<span class="mobile_text">DEVELOPMENT Services</span></h1>
+                  <p class=" disply_block wow fadeIn animated" data-wow-delay=".3s"> ValueCoders manufacturing software development services are designed in a way so that they aid businesses to bring down costs and to speed up existing processes for the fulfillment of new opportunities. Our software systems provide enhanced performance and competitiveness to the end-customers of our clients. 
+ </p>
+                  <ul class="wow fadeIn animated" data-wow-delay=".6s">
+                    <li class="web-icon1">100% Money Back Guarantee</li>
+                    <li class="web-icon2">On Time Delivery</li>
+                    <li class="web-icon3">Non-Disclosure Agreement</li>
+                    <li class="web-icon4">Better ROI</li>
+                  </ul>
+                  <div class="Web_dvl_button wow fadeInDown animated" data-wow-delay=".3s"> <a href="contact" title="contact us now" > contact us now </a> </div>
+                </div>
+              </div>
+            </div>
+          </div>   
+        </div>  
+      </section>
+      <section class="why_software_sec">
+        <div class="container">
+          <div class="row">
+            <div class="inner_sec">
+              <h4 class="secssion_heading">Why A Software Development Partner?</h4>
+              <div class="row_1">
+                <div class="col-md-7 col-sm-7 col-xs-12">
+                  <p>Manufacturing industry is the driving force of global economy. 
+                    From automobiles to food and beverages and sneakers to 
+                    smartphones, every manufacturing business contributes 
+                    exceedingly in up scaling of the economy. The dynamic trading 
+                    system has intimidated the manufacturers across globe to 
+                    produce qualitative goods, on schedule, in a profit-rendering 
+                    manner. </p>
+                </div>
+                <div class="col-md-5 col-sm-5 col-xs-12">
+                  <figure><img src="common/images/fainnince_page_chain.jpg" alt="Why A Software Development Partner" title="Why A Software Development Partner" /></figure>
+                </div>
+              </div>
+              
+              <!--<ul>
+                <li>35% of the activities are being outsourced in Finance industry</li>
+                <li> Worldwide spending for IT Outsourcing services is 288 Billion </li>
+                <li> 10% growth in ITO industry is expected every upcoming years </li>
+                <li> 60% of total IT outsourcing is done from Indian companies </li>
+              </ul>-->
+              
+              <h6 class="pd">As a tech expert, ValueCoders meets all the technology related needs of such businesses and help them to serve their customers better. Are you looking for a Software Development Partner?</h6>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 text-center"> <a class="btn btn-discuss-reqr wow fadeInDown  animated" data-wow-delay=".1s" href="contact" style="visibility: visible; animation-delay: 0.1s;"> contact us now </a> </div>
+          </div>
+        </div>
+      </section>
+      <section class="key_challenges">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="inner_sec">
+                <h4 class="secssion_heading">Key Challenges For Manufacturing Companies </h4>
+                <p>Being one of the most diverse and established industry, there are many challenges to be addressed repeatedly</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="box_sec_main">
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <div class="img_box">
+                    <figure><img src="common/images/mini_ficon1.png" alt="Rapid Changes" title="Rapid Changes" /></figure>
+                  </div>
+                  <h4>Rapid Changes</h4>
+                  <p>The online space is ever changing. Companies need to update themselves very quickly in order to sustain in the market and achieve competitive advantage. For that, technical advancements are very crucial for a strong backbone.</p>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <div class="img_box">
+                    <figure><img src="common/images/mini_ficon2.png" alt="Consolidated Processes" title="Consolidated Processes" /></figure>
+                  </div>
+                  <h4>Consolidated Processes</h4>
+                  <p>  Increased efficacy of your business means exceeding annuity & sound ROI. Businesses that are seeking technological assistance to streamline their processes are powered to render better customer service </p>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <div class="img_box">
+                    <figure><img src="common/images/mini_ficon3.png" alt="Data Management" title="Data Management" /></figure>
+                  </div>
+                  <h4>Data Management</h4>
+                  <p>With tons of data produced everyday it's hard to manage such valuables without proper technical expertise. It also brings security threats and other casualties. Hence, strong technical expertise is required to manage data on a daily basis.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="can_help_manufacturing_sec">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+              <div class="ourecommerce_innr">
+                <h3 class="secssion_heading">How ValueCoders Can Help</h3>
+                <p>ValueCoders helps Manufacturing Companies with it’s innovative solutions for cost reductions, margin improvement 
+                  and transforming their existing operations to cope up with the rapidly changing market trends.</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow rotateInDownLeft animated animated animated animated animated animated animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+              <div class="development_services_inner"> <small class="Dservices_icon1"></small>
+                <h4>Real-Time Results</h4>
+                <p>Software solutions enables the management to 
+                  make right decisions at right instances by providing real-time visibility into release readiness, ensuring 
+                  high quality of deliverables </p>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow rotateInDownLeft animated animated animated animated animated animated animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+              <div class="development_services_inner"> <small class="Dservices_icon2"></small>
+                <h4>Process-Controlled Development</h4>
+                <p>Promotes full traceability and process-controlled development, thus simplifying compliance and improvising the quality of product and process. It acts as a single source of truth across engineering disciplines and process domains </p>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 wow rotateInDownLeft animated animated animated animated animated animated animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+              <div class="development_services_inner"> <small class="Dservices_icon3"></small>
+                <h4>Simplifying Collaboration</h4>
+                <p>Solutions rendered by ValueCoders simplifies the collaboration process among designers and developers and suppliers and OEMs across engineering disciplines, removing the barriers and propagating innovation across the development ecosystem</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 text-center"> <a class="btn btn-discuss-reqr wow fadeInDown    animated" data-wow-delay=".1s" href="contact" style="visibility: visible; animation-delay: 0.1s;">contact us now</a> </div>
+          </div>
+        </div>
+      </section>
+      <section class="manufacturing_services">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="inner_sec">
+                <h4 class="secssion_heading">Our Solutions For Manufacturing Companies</h4>
+                <p>At ValueCoders, we have dedicated development teams who are experts in building business solutions 
+                  according to the specific client requirements of Manufacturing industries.</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="img_box_main">
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <p>Manufacturing Process <br>
+                    Management (MPM)</p>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <p>Enterprise Asset Management <br>
+                    (EAM)</p>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <p>Legacy Migration Solutions</p>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <p>Supply Chain Management <br>
+                    (SCM)</p>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <p>Application Design and <br>
+                    Maintenance</p>
+                </div>
+              </div>
+              <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="box">
+                  <p> Product Lifecycle <br>
+                    Management </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 text-center"> <a class="btn btn-discuss-reqr wow fadeInDown      animated" data-wow-delay=".1s" href="contact" style="visibility: visible; animation-delay: 0.1s;">contact us now</a> </div>
+          </div>
+        </div>
+      </section>
+      <section class="what_service_sec">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+              <div class="ourecommerce_innr">
+                <h3 class="secssion_heading">What Services Can You Opt From ValueCoders?</h3>
+                <p>ValueCoders offers a range of services that can help you to meet your industry specific technological needs in a better way. </p>
+              </div>
+            </div>
+          </div>
+          <div class="row" style="margin-top:25px;">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 wow rotateInDownLeft animated animated animated animated animated animated animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+              <div class="development_services_inner"> <a href="application-development"><small class="Dservices_icon1"></small></a>
+                <div class="content_box">
+                  <h4><a href="application-development">WEB/MOBILE APPLICATION DEVELOPMENT</a></h4>
+                  <p>We build high performance 
+                    software apps for both web & 
+                    mobile leveraging the best of 
+                    platform capabilities and offering 
+                    a premium user-experience. </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 wow rotateInDownLeft animated animated animated animated animated animated animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+              <div class="development_services_inner"> <a href="application-maintenance"><small class="Dservices_icon2"></small></a>
+                <div class="content_box">
+                  <h4><a href="application-maintenance">APPLICATION SUPPORT                           & MAINTENANCE</a></h4>
+                  <p>Sustain your existing software 
+                    applications to reduce costs. 
+                    We help you focus on your 
+                    business and leave the 
+                    headache of ongoing application
+                    maintenance to us. </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 wow rotateInDownLeft animated animated animated animated animated animated animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+              <div class="development_services_inner"> <a href="application-modernization"><small class="Dservices_icon3"></small></a>
+                <div class="content_box">
+                  <h4><a href="application-modernization">APPLICATION                           MODERNIZATION</a></h4>
+                  <p>Transform legacy applications 
+                    to state of art technologies and 
+                    modern architecture to stay 
+                    relevant and deliver greater 
+                    business value. </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 wow rotateInDownLeft animated animated animated animated animated animated animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
+              <div class="development_services_inner"> <a href="testing-qa"><small class="Dservices_icon4"></small></a>
+                <div class="content_box border">
+                  <h4><a href="testing-qa">TESTING <br>
+                    & QA</a></h4>
+                  <p>ValueCoders provides hassle free 
+                    and precise testing and quality 
+                    analysis(QA) services catering to 
+                    diverse business requirements. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+      
+      
+       <section class="application_development_sec">
+    <div class="top_sec">
+      <h3 class="secssion_heading"> Manufacturing Case Studies  </h3>
+      <p> Here are some project case studies that are completed by our software developers.
+ </p>
+    </div>
+    <section class="samples-dev">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-6">
+            <div class="col-12">
+              <div class="box box1">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4> Creating e-Commerce Portal For Indoor Furnishing Products </h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <div class="cross-icon"> <a href="javascript:void(0);">x</a> </div>
+                    <h3> Creating e-Commerce Portal For Indoor Furnishing Products </h3>
+                    <p>Creating e-Commerce Portal For Indoor Furnishing Products: The client is an online portal selling designer goods for offices, living, kitchen etc. They also sell attractive products for kids or special ones designed for festive like Christmas.</p>
+                    <div class="button-full"> <a href="case-studies/ecommerce-portal-indoor-furnishing" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="col-3">
+              <div class="box box2">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4>Building An Online Store For Scarves </h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3> Building An Online Store For Scarves </h3>
+                    <p>Building An Online Store For Scarves
+: Our client is an online platform to purchase or customise variety of scarves. It serves the unique idea of buying designer scarves online or simply customise your own scarf and buy in desired taste or cloth texture.</p>
+                    <div class="button-full"> <a href="case-studies/story-book-app-ipad" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+              <div class="box box3">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4> Apparel Shopping Portal From The Scratch </h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3> Apparel Shopping Portal From The Scratch  </h3>
+                    <p>Apparel Shopping Portal From The Scratch: Our client is an online wholesale shopping website for clothes customer. A large variety of cloth ranging from T- Shirts, Polos, Trousers etc for both men and women are available.</p>
+                    <div class="button-full"> <a href="case-studies/apparel-shopping-portal" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-3">
+              <div class="box box4">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4> Video Conferecning Platform </h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3> Video Conferecning Platform </h3>
+                    <p> Video Conferecning Platform: A video conferencing platform is designed for businesses to have one-on-one business conversations among themselves. </p>
+                    <div class="button-full"> <a href="case-studies/video-conferencing-platform" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+              <div class="box box5">
+                <div class="click_icons_sample"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+                <div class="box-inner">
+                  <h4> Order Management System Based on SYSPRO </h4>
+                  <div class="hover-cont">
+                    <div class="close_icons_sample"><i class="fa fa-times" aria-hidden="true"></i> </div>
+                    <h3> Order Management System Based on SYSPRO </h3>
+                    <p> Order Management System Based on SYSPRO: ValueCoders developed a middleware solution which would interact with SYSPRO at the backend and the ecommerce site at the front end and with seamless integration for  the orders into the production schedule.  </p>
+                    <div class="button-full"> <a href="case-studies/order-management-system" target="_blank">full case study</a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    </section>
+    
+    <section class="client_testimonila_sec">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+            <div class="testmonilas_innr">
+              <h3 class="secssion_heading">CLIENT TESTIMONIALS </h3>
+              <p>Still not convinced? See what our customers are saying..</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="testimonial_slide1 owl-carousel owl-theme col-lg-5 col-md-12 col-sm-12 col-xs-12">
+            <div class="item">
+              <div class="development_services_inner"> <span> “
+                
+               In my opinion ValueCoders is a stress buster. I have had the most peaceful time with ValueCoders by my side taking care of all my complicated website development. All I did was to wait for their prompt email updates in my inbox.
+                
+                ” </span>
+                <h4>-  Cathy Wise </h4>
+              </div>
+            </div>
+            <div class="item">
+              <div class="development_services_inner"> <span>“
+                
+               Understanding the needs of customers is the key to any successful business. They perfectly understand these needs and know how to make them applicable. They are world-class experts in this field and they are more eager than us to get the project done! They are exceptionally reliable and highly efficient.
+                
+                ” </span>
+                <h4> - Krystal Norris </h4>
+              </div>
+            </div>
+            
+            
+          </div>
+          <div style="visibility: visible; animation-delay: 0.1s;" data-wow-delay=".1s" class="col-lg-2 col-md-12 col-sm-12 col-xs-12 wow rotateInDownLeft   animated animated animated animated animated">
+            <div class="development_services_inner">
+              <div class="img_box"><img src="common/images/ios_testomonila131217.png"/></div>
+            </div>
+          </div>
+          <div class="testimonial_slide2 col-lg-5 col-md-12 col-sm-12 col-xs-12">
+            <div class="item">
+              <div class="development_services_inner "> <span>“
+                
+               With ValueCoders I have experienced a lot of 'firsts'. I noticed that they never shied away from innovating especially with technologies that were a bit old. Their belief in the power of combination and permutation is astounding as they took the best of all.
+                
+                ” </span>
+                <h4>-  - Daisy Banks  </h4>
+              </div>
+            </div>
+            <div class="item">
+              <div class="development_services_inner "> <span>“
+                
+             I am looking forward to work with ValueCoders in the near future. ValueCoders, through their exceptional service culture, has found a place in our provider list despite them being new to us. They took the least time to impress.
+                
+                ” </span>
+                <h4>-  Eddie May </h4>
+              </div>
+            </div>
+            
+            
+          </div>
+        </div>
+      </div>
+    </section>
+      
+      
+      
+      <footer class="footeFormr">
+    
+
+<script type="text/javascript" src="common/js/scriptcontact.js"></script>
+    <link rel="stylesheet" type="text/css" href="common/css/style_ios.css"/>
+    <script>
+        function showShareURL() {
+            $("#share_url").show();
+            $("#label_share_url").hide();
+        }
+    </script>
+    <style>
+        .input-group .err {
+            position: absolute;
+            right: 10px;
+            top: 0;
+            color: #ff1d1d;
+            font: 12px/48px aller_lightregular;
+            z-index: 10;
+        }
+ .footerInner .chain {
+	display: inline-block;
+	float: left;
+	margin-right: 195px;
+	margin-top:10px;
+	width: 30%;
+}
+
+
+chain::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: pink;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: pink;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: pink;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: pink;
+}
+
+
+.chain > span {
+  display: inline-block;
+  padding-top: 14px; color:#625959 !important;
+}
+
+
+
+.drop{
+border: 1.5px dashed  hsl(0, 0%, 24%);
+    color: hsl(0, 0%, 38%);
+    display: inline-block;
+    font: 400 16px/26px Lato;
+    margin: 0 75px;
+    padding: 3px 12px;
+    position: relative;
+    text-decoration: none;
+}
+
+@media only screen and (max-width:1199px) {
+	.drop {
+  border: 1px solid hsl(0, 0%, 24%);
+  color: hsl(0, 0%, 38%);
+  display: inline-block;
+  font: 400 16px/26px Lato;
+  margin: 0 15px;
+  padding: 3px 12px;
+  position: relative;
+  text-decoration: none;
+}
+
+.footerInner .chain {
+  display: inline-block;
+  float: right;
+  margin-right: 145px;
+  margin-top: 12px;
+  width: 30%;
+}
+	
+	
+	
+	}
+
+
+
+
+@media only screen and (max-width:991px) {
+	
+	.drop {
+  border: 1px solid hsl(0, 0%, 24%);
+  color: hsl(0, 0%, 38%);
+  display: inline-block;
+  font: 400 16px/26px Lato;
+  margin: 0;
+  padding: 3px 12px;
+  position: relative;
+  text-decoration: none;
+}
+
+
+
+.footerInner .chain {
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 28px;
+  width: 40%;
+}
+
+	.rating_outer .social-btn {
+	margin-top: 20px !important;
+}	
+	
+	}
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+	.footerInner .chain {
+  display: inline-block;
+  float: right;
+  margin-right: 0;
+  margin-top:0px;
+  padding: 0 20px; margin-bottom:5px;
+  width: 100%;
+}
+
+
+.footerInner .btn {
+  margin-top: 6px;
+  padding: 12px 20px;
+  text-transform: uppercase;
+}
+	
+	
+	}
+
+@media only screen and (max-width:479px) {
+	
+	.footerInner .btn {
+  background-color: hsl(91, 100%, 35%);
+  font: 400 17px/30px Lato;
+  margin-bottom: 20px;
+  margin-top: 11px;
+  padding: 12px 20px;
+  text-transform: uppercase;
+}
+	
+	
+	
+	}
+
+
+
+
+
+    </style>
+
+
+
+<div class="container">
+        <div class="footerInner">
+          <div class="footerHeadder text-center">
+            <h2 class="secssion_heading">Get in touch</h2>
+            <p>Request a free consultation and get a no obligation quote for your project within 8 hours</p>
+          </div>
+          <div class="footerFormBody">
+            <form name="contact-frm" id="contact-frm" action="sendmail1.php" class="form-outer" method="post" enctype="multipart/form-data">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-user"></i> </span>
+                    <input type="text" class="form-control" placeholder="Your Name *" name="user-name" id="user-name" />
+                    <span id="user-name-err1" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-envelope"></i> </span>
+                    <input type="text" class="form-control" placeholder="Email ID *" name="user-email" id="user-email" />
+                    <span id="user-email-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-phone"></i> </span>
+                    <input type="text" class="form-control" placeholder="Phone" name="user-phone" id="user-phone" />
+                    <span id="user-phone-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group budujt" style="width:100%;"> <span class="input-group-addon"> <i class="fa fa-usd"></i> </span>
+                    <select class="citySelectze form-control" style="width:100%;" name="user-budget">
+                      <option>What is your alloted budget?</option>
+                      <option value="$1000"><$1000</option>
+                      <option value="$1000-$5000">$1000-$5000</option>
+                      <option value="$5000-$10000">$5000-$10000</option>
+                      <option value="$10000 or more">>$10000 </option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="input-group"> <span class="input-group-addon" style="vertical-align:top;"> <i class="fa fa-server"></i> </span>
+                    <textarea type="text" class="form-control" placeholder="Your Requirements" name="user-req" id="user-req"></textarea>
+                    <span id="user-message-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ">
+                    <div id="uploadcontact">
+                    <div id="dropcontact">
+                        <label for="file-3">
+                            <span class="fileUload" style="color: #616161;display: inline-block;position: relative;font: 400 16px/26px Lato;text-decoration: none;padding: 12px 20px 0 0;margin-bottom: 20px;"><i class="fa fa-file-text-o"></i> &nbsp;Upload your file.</span>
+                            <span class="drop"><i class="fa fa-dropbox"></i> &nbsp;Drop files here</span>
+                            
+                            
+                                
+                        </label>	
+                        <input type="file" name="upl" id="file-3" class="inputfile inputfile-3" />
+                    </div>
+                    <ul></ul>
+                    </div>
+                    <div class="file-format">
+                        <span id="filetext" style="display:none;"></span> 
+                        <label> </label>
+                    </div>
+                </div>
+                <div class="chain">
+                    <span onclick="showShareURL();" id="label_share_url"><i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url</span>
+                    <div class="input-group" id="share_url" style="display:none;"> <span class="input-group-addon"> <i class="fa fa-link"></i> </span>
+                        <input type="text" class="form-control" placeholder="Share Dropbox or Other Url" name="customUrllink" id="user-url" maxlength="100" />
+                    </div>
+                </div>
+                <!--<div class="col-sm-12"> <a href="javascript:void(0);" class="fileUload" onclick="document.getElementById('footerFormFile').click();"> <i class="fa fa-file-text-o"></i> &nbsp;Upload your file.</a> 
+                 <a href="#" class="drop"> <i class="fa fa-dropbox"></i> &nbsp;Drop files here </a>
+                <a href="#" class="chain"> <i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url </a>
+                
+                  <input type="file" id="footerFormFile" />
+                  <span id="filetext" style="display:none;"></span> <br>
+                  <label> Accepted file Formats: <span> .PSD, .JPG, .JPEG, .GIF, .PNG, .AI, .ZIP, 
+                    .RAR, .PDF, .DOC, .DOCX, .XLS, .XLSX, .PPT. </span> If file size is greater than
+                    20MB, 
+                    Please share using Dropbox or similar. </label>
+                </div>-->
+                           <div class="btn_main">
+                <div class="formfooter text-center">
+                  <button class="btn btn-success" id="submitFrm">Send your request</button>
+                  <p class="privacy"> <i class="fa fa-lock"></i> Your privacy is guaranteed. We hate spam as much as you do! </p>
+                </div>
+                </div>
+              </div>
+                <input type="hidden" name="frmOrderFileUploadedfilename" id="frmOrderFileUploadedfilename" value="" />
+                <input type="hidden" name="_frmOrder" value="frmOrder" />
+                <input type="hidden" name="type" value="contact-frm" />
+             <input type="hidden" name="frmqueryString" id="frmqueryString" value="" />
+            </form>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>  </footer>
+      <script type="text/javascript">
+
+    equalheight = function(container){
+		var currentTallest = 0,
+		     currentRowStart = 0,
+		     rowDivs = new Array(),
+		     $el,
+		     topPosition = 0;
+		 $(container).each(function() {
+		   $el = $(this);
+		   $($el).height('auto')
+		   topPostion = $el.position().top;
+
+		   if (currentRowStart != topPostion) {
+		     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+		       rowDivs[currentDiv].height(currentTallest);
+		     }
+		     rowDivs.length = 0; // empty the array
+		     currentRowStart = topPostion;
+		     currentTallest = $el.height();
+		     rowDivs.push($el);
+		   } else {
+		     rowDivs.push($el);
+		     currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+		  }
+		   for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+		     rowDivs[currentDiv].height(currentTallest);
+		   }
+		 });
+}
+$(window).load(function() {
+  equalheight('.eql_height');
+  equalheight('.eql_height2');
+  equalheight('.eql_height3');
+  equalheight('.eql_height4');
+  equalheight('.eql_height5');
+  equalheight('.eql_height6');
+  equalheight('.eql_height7');
+  equalheight('.eql_height1');
+  
+});
+$(window).resize(function(){
+  equalheight('.eql_height');  
+  equalheight('.eql_height2');
+  equalheight('.eql_height3');
+  equalheight('.eql_height4');
+  equalheight('.eql_height5');
+  equalheight('.eql_height6');
+  equalheight('.eql_height7');
+  equalheight('.eql_height1');
+});
+
+
+   $(".hire_dev_sec .hire_dev_sec-right ul li").addClass("eql1_height");
+
+ if ($(window).width() < 768){
+   $(".hire_dev_sec .hire_dev_sec-right .hire_dev_right-inner").removeClass("eql_height");
+}
+
+else {
+   
+}
+
+
+</script>
+
+      <script type="text/javascript">
+$(document).ready(function() {
+    $("#contact_pdf_request").submit(function() {  
+	    var proceed = true;
+        //simple validation at client's end
+        //loop through each field and we simply change border color to red for invalid fields		
+		$("#contact_form input[required=true]").each(function(){
+			$(this).css('border-color',''); 
+			if(!$.trim($(this).val())){ //if this field is empty 
+				$(this).css({'border':'1px solid #FF0000', 'box-shadow':'0 0 5px red'}); //change border color to red   
+				proceed = false; //set do not proceed flag
+			}
+			//check invalid email
+			var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/; 
+			if($(this).attr("type")=="email" && !email_reg.test($.trim($(this).val()))){
+				$(this).css({'border':'1px solid #FF0000', 'box-shadow':'0 0 5px red'}); //change border color to red   
+				proceed = false; //set do not proceed flag				
+			}	
+		});
+       
+        if(proceed) //everything looks good! proceed...
+        {
+
+           //data to be sent to server         
+            var m_data = new FormData();    
+            m_data.append( 'user_name', $('#contact_form input[name=name]').val());
+            m_data.append( 'user_email', $('#contact_form input[name=email]').val());
+            m_data.append( 'company_name', $('#contact_form input[name=company_name]').val());
+            
+            if($('#subscribe').is(':checked')) m_data.append( 'subscribe', 'Yes');
+            else m_data.append( 'subscribe', 'No');
+			 
+            //instead of $.post() we are using $.ajax()
+            //that's because $.ajax() has more options and flexibly.
+  			$.ajax({
+              url: 'common/inc/contact_me.php',
+              data: m_data,
+              processData: false,
+              contentType: false,
+              type: 'POST',
+              dataType:'json',
+              success: function(response){
+				$('#contact_form input[name=name]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#contact_form input[name=email]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#contact_form input[name=company_name]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#subscribe').prop('checked', false);
+				 
+                //load json data from server and output message     
+ 				if(response.type == 'error'){ //load json data from server and output message     
+					output = '<div class="error">'+response.text+'</div>';
+				}else{
+				    $('.contact-description').addClass('hide-me').hide();
+				    $('#contact_body').addClass('hide-me').hide();
+				    output = '<div class="success">'+response.text+'</div>';
+				}
+				$("#contact_form #contact_results").hide().html(output).slideDown();
+              }
+            });
+			
+
+        }
+    });
+    
+    //reset previously set border colors and hide all message on .keyup()
+    $("#contact_form  input[required=true]").keyup(function() { 
+        $(this).removeAttr("style");
+        //$(".success, .error").slideUp();
+    });
+});
+</script>
+
+<div class="pop-up-box">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<p>ValueCoders goes much beyond the regular hiring of offshore teams. The clients are insured that their projects will never slow down. The stability of teams provided by ValueCoders is unmatched as we provide free immediate replacement of teams in case of any dissatisfaction whatsoever.</p>
+				<ul>
+					<li>Minimum optimum productivity guaranteed </li>
+					<li>Get billed only if the performance is up to the mark </li>
+					<li>Hire and review first and then move forward </li>
+				</ul>
+			</div>
+			<div class="pop-up-right">
+				<img src="common/images/popup_img1.png" alt="Billing Gaurantee- Logo - 1" />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box1">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<p>At ValueCoders we provide people who are passionate about their work. ValueCoders ensures you 100% satisfaction guarantee every single time. The professional are chosen on the basis of their ability to outperform their tasks.  We make sure, each of the personnel go through rigorous tests before coming on-board.</p>
+				<ul>
+					<li>Highly productive and qualified teams</li>
+					<li>On-time project deliveries</li>
+					<li>A collaborative and happy work culture </li>
+				</ul>
+			</div>
+			<div class="pop-up-right">
+				<img src="common/images/popup_img2.png" alt="Satisfaction Gaurantee- Logo - 2" />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box2">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<ul>
+					<li>
+						<span class="popup_icon popup_icon1">
+						
+						</span>
+						Take a free trial of your development work, for a period of 2 weeks
+					</li>
+					<li>
+						<span class="popup_icon popup_icon2">
+						
+						</span>
+						Billing will be done after you are satisfied and decide to continue
+					</li>
+					<li>
+						<span class="popup_icon popup_icon3">
+						
+						</span>
+						No bill will be raised if you do-not wish to continue
+					</li>
+				</ul>
+			</div>
+			<div class="get-touch">
+				<a href="request-free-trial" title="Get In Touch" >Request a free Trial</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box3">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-right">
+				<img src="common/images/popup3_img.jpg" alt="Outsource - Logo - 2" />
+			</div>
+			<div class="pop-up-left">
+				<p class="contact-description">The cost advantages of outsourcing can be huge if it is executed with a long term plan in mind. Short term tactical hiring of remote teams may not bring fruitful results for the outsourcing customer. This E-book details out the challenges, solutions and strategies to better outsourcing.</p>
+				<div class="form-style" id="contact_form">
+					<div id="contact_results"></div>
+					<div id="contact_body">
+						<form name="contact_pdf_request" id="contact_pdf_request" method="post" onSubmit="return false;">
+							<input type="text" placeholder="Contact Name" name="name" id="name" required="required" class="input-field"/>
+							<input type="email" placeholder="Email" name="email" required="required" class="input-field"/>
+							<input type="text" placeholder="Company Name" name="company_name" class="input-field"/>
+							<label class="contct_checkbox" for="subscribe">
+								<input type="checkbox" id="subscribe" name="subscribe" class="input-field input-checkbox" value='1' />
+								<span class="label-text">&nbsp;&nbsp;Subscribe to our Newsletters, Updates &amp; Offers</span>
+							</label>
+							<input type="submit" id="submit_btn" value="Get Download Link" data-style="slide-left" />
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+      <footer class="footer" role="contentinfo">
+    
+   <div class="awd_outer">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <ul class="awd_sec">
+                  <li><img src="common/images/awd_sprite_2209.jpg" alt="Deloitte"/></li>
+                  <!--<li><img src="common/images/awrd2.png" alt="Deloitte"/></li>
+                     <li><img src="common/images/awrd3.png" alt="Emerge"/></li>
+                     <li><img src="common/images/awrd4.png" alt="Asia Red"/></li>
+                     <li><img src="common/images/awrd5.png" alt="Eretail"/></li>
+                     <li><img src="common/images/awrd6.png" alt="Iso"/></li>
+                     <li><img src="common/images/awrd7.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd8.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd9.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd10.png" alt="Magento"/></li>-->
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+      <div class="rating_outer">
+      <div class="container">
+         <div class="row rating_bx">
+            <div class="snippet col-md-8 col-sm-12 col-xs-12">
+               <div class="rating-section">
+                  <div class="rating-view">
+                     <div class="rateit-wrap">
+                        <div id="rateYo1" class="jq-ry-container" readonly="readonly" style="width: 73px;"></div>
+                        <div class="initail-rate">
+                                                      <span class="rate-btn enable"> Rate us</span>
+                                                      <!-- <span class="rate-btn rateYo2 edited already_rated">Already Rated</span> -->
+                        </div>
+                     </div>
+                     <div class="overall"><span itemscope="" itemtype="http://data-vocabulary.org/Review-aggregate">
+                        <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+                        <input type="hidden" name="post_id" id="rating_post_id">
+                        <input type="hidden" name="currentrate" id="currentrate" value="1204">
+                        <strong itemprop="average" id="ratingValue">4.9 </strong>
+                        out of <strong itemprop="best">5.0 </strong>
+                        </span>&nbsp; for &nbsp;
+                                                <span itemprop="itemreviewed">Software Development Services </span>   
+                                
+                        &nbsp; by &nbsp;<span class="client-project" style="display:block !important;"><span itemprop="votes" id="totalClient">1204 </span>clients on over 3800+ projects</span></span>
+                        <input type="hidden" name="rating_page_url" value="manufacturing.php" id="rating_page_url">
+                     </div>
+                  </div>
+                  <script type="text/javascript">
+                     var allreadyRated = '1';
+                     var ratingValue = '4.7';   
+                  </script>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+               <div class="social-btn pull-right">
+                  <div id="fb-root"></div>
+                  <div class="fb-like" data-href="https://www.facebook.com/ValueCoders" data-send="false" data-layout="button_count" data-width="350" data-show-faces="true"></div>
+                  <!-- Place this render call where appropriate -->
+                  <a href="https://twitter.com/share" class="twitter-share-button" data-url="">Tweet</a>
+                  <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+                  <script type="IN/Share" data-url="https://www.valuecoders.com" data-counter="right"></script>
+                  <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/103716832322080901612"></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="footer_bottom">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+               <ul class="footer_menu">
+                  <!--                        <li><a href="application-maintenance" title="Application Maintenance">Application Maintenance</a><span>|</span></li>
+                     <li><a href="application-modernization" title="Application Modernization">Application Modernization</a><span>|</span></li>
+                     <li><a href="application-development" title="Application Development">Application Development</a><span>|</span></li>-->
+                  <!--<li><a href="communication-channels" title="Communication Channels">Communication Channels</a><span>|</span></li>-->
+                  <!--<li><a href="testing-qa" title="Testing & QA">Testing & QA</a><span>|</span></li>-->
+                  <li><a href="faq" title="FAQ">FAQ</a><span>|</span></li>
+                  <li><a href="disclaimer" title="Disclaimer">Disclaimer</a><span>|</span></li>
+                  <li><a href="privacy-policy" title="Privacy Policy">Privacy Policy</a><span>|</span></li>
+                  <li><a href="terms-of-service" title="Terms of Service">Terms of Service</a><span>|</span></li>
+                  <li><a title="Why India?" href="why-india">Why India?</a><span>|</span> </li>
+                  <li><a title="In Media" href="in-media">In Media & Partners</a><span>|</span></li>
+                  <li><a title="How It Works" href="process">How It Works</a></li>
+               </ul>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+               <ul class="social_sec">
+                  <li>
+                     <a href="https://twitter.com/ValueCoders" title="Twitter" target="_blank">
+                     <i class="fa fa-twitter-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.facebook.com/ValueCoders" title="Facebook" target="_blank">
+                     <i class="fa fa-facebook-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://plus.google.com/103716832322080901612/posts" title="Google +" target="_blank">
+                     <i class="fa fa-google-plus-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.linkedin.com/company/valuecoders" title="Linkedin" target="_blank">
+                     <i class="fa fa-linkedin-square"></i>
+                     </a>
+                  </li>
+                  <li> <a href="https://www.youtube.com/valuecoders/" title="youtube" target="_blank"> <i class="fa fa-youtube-square" aria-hidden="true"></i>
+                     </i> </a> 
+                  </li>
+                  <li> <a href="https://www.instagram.com/valuecoder/" title="instagram" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i>
+                     </i>
+                     </i> </a> 
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <p>Copyright &copy; 2004 - 2019. All Rights Reserved. ValueCoders.com</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+</section>
+</div>
+</div>
+<script type="text/javascript" src="common/js/cmnJs.min.js"></script>
+<!--<script type="text/javascript" src="common/js/jquery.rateyo.min.js"></script>-->
+<script>
+   var $ratevalue = $("#rateYo1").rateYo({ 
+           onSet: function (rating, rateYoInstance) {
+               rate_url = $("#rating_page_url").val();
+               currentrate = $("#currentrate").val();
+               $.ajax({
+                   type: "POST",
+                   url: "./ajax_act.php?t=" + Math.floor((Math.random() * 1000000) + 1),
+                   dataType: "html",
+                   data: {
+                       rating: rating,
+                       rate_url:rate_url,
+                       ratingPoints:currentrate,
+                       action: "userRating"
+                   },
+                   success: function (response) {
+                       var obj = JSON.parse(response)
+                       var totalClient = obj.totalClient;
+                       var totalRating = obj.totalRating;
+                       $("#ratingValue").html(totalRating);
+                       $("#totalClient").html(totalClient);
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').addClass('edited');
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').text('Rated');
+                       $("#rateYo1").rateYo("option", "readOnly", true);
+                   }
+               });
+           },
+           rating: ratingValue,
+           halfStar: true,
+           starWidth: "13px",
+           ratedFill: "#fdc532",
+           normalFill: "#ffffff",
+           spacing: "2px",
+           readOnly: true
+       });
+   
+       $("#rateYo1 svg").click(function (e) {
+   
+          
+           if ($('#rateYo1').hasClass('rateYo2') && !$('#totalClient').hasClass('mark')) {
+              
+               /* get rating */            
+               $("#totalClient").addClass("mark");
+               $(this).addClass('sucess');
+               
+               setTimeout(function () {
+                   $('.rate-submit').fadeOut(500);
+               }, 1000);
+           } else if ($('#rateYo1').hasClass('rateYo2') && $('#totalClient').hasClass('mark')) {
+               $('.rate-btn.rateYo2').text('Already Rated');
+               $('.rate-btn.rateYo2').addClass('already_rated');
+   
+           } else {
+               e.preventDefault();
+               return false;
+           }
+   
+       });
+       $('.rate-btn').on('click', function (e) {
+           if ($('.edited').length > 0) {
+               e.preventDefault();
+               return false;                         
+           }
+           else {
+               $("#rateYo1").rateYo("option", "readOnly", false);
+               $(".rate-submit").addClass("full-show");
+               $("#rateYo1").addClass("rateYo2");
+               $(this).addClass("rateYo2");
+               $(this).removeClass("enable");
+               $(this).text("Click to rate");
+           }
+       });
+</script>
+<!--linkedin conversion tracking code-->
+<script type="text/javascript">
+   _linkedin_data_partner_id = "36540";
+</script><script type="text/javascript">
+   (function(){var s = document.getElementsByTagName("script")[0];
+   var b = document.createElement("script");
+   b.type = "text/javascript";b.async = true;
+   b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+   s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=36540&fmt=gif" /> </noscript>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27094506-1"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments)};
+   gtag('js', new Date());
+   
+   gtag('config', 'UA-27094506-1');
+</script> 
+<script>
+   setTimeout(function() {  
+   !function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0], c = /^http:/.test(e.location) ? "http" : "https";
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = c + "://platform.twitter.com/widgets.js", s.parentNode.insertBefore(a, s))
+   }(document, "script", "twitter-wjs"), function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0];
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = "//connect.facebook.net/en_US/all.js#xfbml=1", s.parentNode.insertBefore(a, s))
+   }(document, "script", "facebook-jssdk"), function() {
+      var e = document.createElement("script");
+      e.type = "text/javascript", e.async = !0, e.src = "https://apis.google.com/js/plusone.js";
+      var t = document.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(e, t)
+   }();
+   }, 6000);
+</script>
+<!-- Addroll Code Ends -->
+</body>
+</html>

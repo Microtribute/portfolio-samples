@@ -1,0 +1,106 @@
+
+.rateit-wrap {
+                display: inline-block;
+                vertical-align: top;
+                margin-top: 2px;
+                margin-right: 1px;
+                position: relative;
+                min-width: 97px;
+                min-height: 26px;
+            }
+            .rating-view  .rate-btn ,.rating-view  .rate-btn.enable {
+                color: #ff5722;
+                font-size: 12px;
+                display: inline-block;
+                padding-top: 3px;
+                font-weight: 700;
+            }
+            .rating-view  .rate-btn.enable
+            {
+                cursor:pointer;
+            }
+            .rate-btn.rateYo2{
+                color:#939393; 
+            }
+            .rating-view  .rate-btn:hover { 
+                text-decoration: none;
+            }
+            .rate-btn.rateYo2{
+                font-size:12px;
+            }
+            #rateYo1 {
+                min-height: 15px;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                border-radius: 3px;
+                background: #ff5722; 
+                padding: 5px 5px;
+                display: inline-block;  
+                min-width:73px; 
+            }
+            #rateYo1.rateYo2{
+                background-color:#212121;
+                box-shadow:0px 3px 3px 0px #a9a9a9;
+                margin-top:-4px;
+                transition:0.4s;
+            }
+            #rateYo1.rateYo2::after{
+                content:'';
+                position:absolute;
+                left:45%;
+                bottom:-5px;
+                height:0;
+                width:0;
+                border-left:5px solid transparent;
+                border-right:5px solid transparent;
+                border-top:5px solid #212121;
+            }
+            .rate-btn.rateYo2.edited{
+                background:url("../images/like.png") no-repeat 0 center;
+                background-size:18px auto;
+                font-size:12px;
+                padding-left:26px; 
+                padding-top:3px;
+               color:#939393; 
+            }
+            .rate-btn.rateYo2.edited.already_rated{
+                background:none;
+                padding:3px 0 0 0;
+                color:#939393;              
+            }
+            .initail-rate {
+                position: absolute;
+                top: 26px;
+                left: 0px;
+                text-align:center;
+                width:98%;
+            }
+            .rate-send {
+                width: 24px;
+                display: inline-block;
+                cursor: pointer;
+                padding-top: 3px;
+                padding-left: 6px;
+            }
+            .rate-submit {
+                display: none;
+            }
+            .rate-submit.full-show {
+                display: block;
+            }
+            .rate-send.sucess svg path
+            {
+                fill:green;
+            }
+            #totalClient.mark{
+                background-color:#ff5722;
+                color:#ffffff;
+            }
+
+            .rating-view .overall {
+    display: inline-block;
+    margin-top: 2px;
+}
+
+/* End rating css */
+

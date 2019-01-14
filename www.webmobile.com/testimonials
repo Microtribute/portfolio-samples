@@ -1,0 +1,2034 @@
+<!DOCTYPE html>
+<html lang="en" class="demo-loading no-js">
+<head>
+<meta charset="utf-8">
+<meta name="language" content="English" />
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.
+
+apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '23fbb2e0572145bebfc07d4261b8990b');
+qp('track', 'ViewContent');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/23fbb2e0572145bebfc07d4261b8990b/pixel?tag=ViewContent&noscript=1"/>
+</noscript>
+<!-- End of Quora Pixel Code -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5067063"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script> 
+<!--create url for ie9,10 redirection on 404 not found-->
+<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+<base href="/www.valuecoders.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>ValueCoders CLIENT TESTIMONIALSs | Client Reviews | Client Feedback</title>
+<meta name="description" content="Valuecoders Reviews & Rating : client reviews, complaints, feedback & testimonials from 1500+ happy customers since 2004, we have 96%+ client retention rate."/>
+<meta name="keywords" content="" />
+<!-- Open Graph -->
+<meta property="og:title" content="ValueCoders CLIENT TESTIMONIALSs | Client Reviews | Client Feedback"/>
+<meta property="og:image" content="common/images/dsd.jpg"/>
+<meta property="og:site_name" content="Valuecoders"/>
+<meta property="og:url" content="testimonials"/>
+<meta property="og:type" content="Home Page"/>
+<meta property="og:description" content="Valuecoders Reviews & Rating : client reviews, complaints, feedback & testimonials from 1500+ happy customers since 2004, we have 96%+ client retention rate."/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="Expert Remote Teams For Your Software development Needs">
+<meta name="twitter:site" content="@valuecoders">
+<meta name="twitter:creator" content="@valuecoders">
+<meta name="twitter:url" content="testimonials">
+<meta name="twitter:title" content="ValueCoders CLIENT TESTIMONIALSs | Client Reviews | Client Feedback">
+<meta name="twitter:description" content="Valuecoders Reviews & Rating : client reviews, complaints, feedback & testimonials from 1500+ happy customers since 2004, we have 96%+ client retention rate.">
+<meta name="twitter:image" content="common/images/dsd.jpg">
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.valuecoders.com\/","name":"ValueCoders.com : IT Outsourcing Company - Outsource Software Development Services India","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.valuecoders.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.valuecoders.com\/","sameAs":["https:\/\/www.facebook.com\/ValueCoders","https:\/\/in.linkedin.com\/company\/valuecoders","https:\/\/twitter.com\/valuecoders"],"@id":"#organization","name":"ValueCoders.com","logo":"https:\/\/www.valuecoders.com\/blog\/wp-content\/themes\/valuecoders\/images\/logo.png"}</script>
+<link rel="stylesheet" type="text/css" href="common/css/cmnCss.css"/>
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">-->
+<link rel="stylesheet" type="text/css" href="common/fonts/font.css" />
+<!--<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>-->
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic,300italic,100italic,100' rel='stylesheet' type='text/css'>
+<!--<link rel="stylesheet" type="text/css" href="common/css/jquery.rateyo.min.css" />
+<link rel="stylesheet" type="text/css" href="common/css/rating.css" />
+<link rel="stylesheet" type="text/css" href="common/css/mytab.css" />-->
+<script type="text/javascript" src="common/js/jsLib.min.js"></script>
+<script>
+
+
+
+
+$(function () { 
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 500) { 
+            $('.logo img').attr('src','common/images/VC-Log-1.png');
+        }
+        if ($(this).scrollTop() < 500) { 
+            $('.logo img').attr('src','common/images/logo.svg');
+        }
+	});});
+
+</script>
+<style>
+/* This only works with JavaScript, 
+               if it's not present, don't show loader */
+            /*#loader { display: none;  }*/
+.js #loader {
+	display: block;
+	position: absolute;
+	left: 100px;
+	top: 0;
+}
+
+
+.fixed a.logo img {
+	width: 240px;
+	height: auto; 
+}
+</style>
+
+
+
+
+
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>-->
+<!--<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>-->
+<script>
+            // Wait for window load
+//		$(window).load(function() {
+//			// Animate loader off screen
+////			$("#loader").animate({
+////				top: -200
+////			}, 1500);
+//
+//                        $("#loader").hide();
+//		});
+        </script>
+
+<!--<link rel="stylesheet" type="text/css" href="common/css/datepicker.css"/> -->
+
+<link rel="shortcut icon" href="/common/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/common/images/favicon.ico" type="image/x-icon">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2095923350635817');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2095923350635817&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 798743845 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-798743845"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-798743845');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 1013624786 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1013624786"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1013624786');
+</script>
+
+
+
+
+<link rel="canonical" href="testimonials" />
+</head><body>
+<script>fbq('track', 'Lead');</script>
+<div class="outer_layout">
+<div class="outer_wrapper_new">
+
+<!-- <div class="christmas_banner"><img src="common/images/Christmas-Banner-VC.gif" alt="Hire Dedicated Developers - Logo" /></div>-->
+
+<header class="header_new" role="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-3 col-lg-2 col-md-2"> <a href="" class="logo" title="ValueCoders"><img src="common/images/logo.svg" alt="Hire Dedicated Developers - Logo" /></a> <span class="mob_icon2"></span> </div>
+      <div class="col-xs-12 col-sm-9 col-lg-10 col-md-10">
+        <ul class="menu_new">
+          <li class="menu_arrow"><a href="javascript:void(0)" id="mob_main_service_manu" title="Services">Services</a>
+            <div class=" sub_menu_new srv-list">
+              <ul class="sub-menu-list services">
+                <li class="first"><a href="application-development" title="Application Development" class="app-dvl">Application Development</a></li>
+                <li class="first"><a href="outsource-software-product-development-services" title="Software Product Development" class="software-product-dvl"> Software Product Development </a></li>
+                <li class="first"><a href="it-strategy-consulting-firms" title="It Strategy & Consulting" class="it-strategy"> IT Strategy & Consulting </a></li>
+                <li><a href="application-maintenance" title="Application Maintenance" class="app-mnt">Application Maintenance</a></li>
+                <li><a href="application-modernization" title="Application Modernization" class="app-modz">Application Modernization</a></li>
+                <li><a href="testing-qa" title="Testing & QA" class="testing-qa">Testing &amp; QA</a></li>
+                <li><a href="co-development" title="Co-Development" class="co-devlpmt">Co-Development</a></li>
+                <li class="last"><a href="dedicated-development-teams" title="Dedicated Development" class="ded-devlpmt">Dedicated Development Teams</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire"> <a href="hire-developers" id="mob_main_hire_manu" title="Hire Developers">Hire Developers</a>
+            <div class="sub_menu_new hire_dvl_list">
+              <ul class="sub-menu-list hire_devl">
+                <li><a class="php" title="php" href="hire-developers/hire-php-developers">Hire PHP Developers</a></li>
+                <li><a class="xamarin" href="hire-developers/hire-xamarin-developers">Hire Xamarin Developers</a></li>
+                <li><a class="java" title="java" href="hire-developers/hire-java-developers">Hire Java Developers</a></li>
+                <li><a class="dotnet" title=".Net" href="hire-developers/hire-dotnet-developers">Hire .NET Developers</a></li>
+                <li><a class="rectnative" title="SharePoint" href="hire-developers/hire-react-native-developers">Hire React Native Developers</a></li>
+                <li><a class="android" title="Android" href="hire-developers/hire-android-developers">Hire Android Developers</a></li>
+                <li><a class="nodejs" href="hire-developers/hire-nodejs-developers" title="Node JS">Hire Node.JS Developers</a></li>
+                <li><a class="ios" href="hire-developers/hire-ios-developers" title="IOS">Hire iOS Developers</a></li>
+                <li><a class="angularjs" href="hire-developers/hire-angularjs-developers" title="Angular JS">Hire AngularJS Developers</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="laravel" href="hire-developers/hire-laravel-developers">Hire Laravel Developers</a></li>
+                <li><a class="block_chain" href="hire-developers/hire-blockchain-developers"> Hire Blockchain Developers </a></li>
+                <li><a class="augmented_ar" href="hire-developers/hire-augmented-reality-developers">Hire Augmented Reality Developers</a></li>
+                  <li><a class="rorr" href="hire-developers/hire-ror-developers">Hire RoR Developers </a></li>
+                <li><a class="vue" href="hire-developers/hire-vuejs-developers">Hire VueJS Developers</a></li>
+                <li><a class="phython" href="hire-developers/hire-python-developers"> Hire Python Developers </a></li>
+                <li><a class="reactjs" href="hire-developers/hire-reactjs-developers">Hire ReactJS Developers</a></li>
+                
+                
+              </ul>
+              <div class="mgt-top text-center"> <a class="btn btn-box" href="hire-developers">View All</a> </div>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire sub_menu_inds"> <a href="javascript:void(0)" id="mob_main_hire_manu" title="Industries">Industries</a>
+            <div class="sub_menu_new indri_list">
+              <ul class="sub-menu-list indri">
+                <li><a class="isvs" title="isvs & Product Companies" href="industries/isv-software-development-services">ISVs & Product Companies</a></li>
+                <li><a class="digital" title="Digital & Marketing Agencies"href="industries/agencies-software-development-services">Digital & Marketing Agencies</a></li>
+                <li><a class="banking" title="Banking & Finance" href="industries/banking-financial-services">Banking & Finance</a></li>
+                <li><a class="retail" title="Retail & eCommerce" href="industries/retail-ecommerce-software-development">Retail & eCommerce</a></li>
+                <li><a class="health" title="Healthcare" href="industries/healthcare-software-development-services">Healthcare</a></li>
+                <li><a class="edu" title="Education & E-Learning" href="industries/education-elearning-software-development">Education & E-Learning</a></li>
+                <li><a class="manufacturing" href="industries/manufacturing" title="manufacturing">Manufacturing</a></li>
+                <li><a class="logistics" href="industries/logistics-transportation-software-development" title="logistics-transportation-software-development">Logistics & Transportation</a></li>
+                <li><a class="publishing" href="industries/publishing" title="Publishing">Publishing</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="media_1" title="Media & Entertainment" href="industries/media-software-development-services"> Media & Entertainment</a></li>
+                <li><a class="atomative" title="Automotive" href="industries/automotive-companies-software-development-services">Automotive</a></li>
+                <li><a class="travel" title="Travel & Tourism" href="industries/travel-tourism-software-development-services">Travel & Tourism</a></li>
+              </ul>
+              <!--<div class="mgt-top text-center">
+                                            <a class="btn btn-box" href="hire-developers">View All</a>
+                                        </div>--> 
+            </div>
+          </li>
+          <li class="no-arrow"><a title="Case Studies" href="case-studies/"> Portfolio</a></li>
+          <li class="menu_arrow"><a href="#" id="mob_main_about_manu" title="Company">Company</a>
+            <div class="sub_menu_new company-outer">
+              <ul class="sub-menu-list company">
+                <li class="first"><a title="About US" href="about"> <img class="cmpny_iconh" alt="About Us" src="common/images/about_us.png" /> <img class="cmpny_icon" src="common/images/about_us_hover.png" alt="Outsourcing"  /> About US</a></li>
+                <!--<li><a title="How It Works" href="process">
+                                            <img class="cmpny_iconh" alt="How It Works" src="common/images/how_it_worksM.svg" />
+                                            <img class="cmpny_icon" src="common/images/how_it_works.svg" alt="24" >
+                                            How It Works</a></li>-->
+                
+                <li><a title="Blog" href="blog/" target="_blank"> <img class="cmpny_iconh" alt="Blog" src="common/images/blog.png" /> <img class="cmpny_icon" src="common/images/blog_hover.png" alt="BLOG" /> Blog</a></li>
+                <li><a class="faq-menu" title="FAQ's" href="faq"> <img class="cmpny_iconh" alt="FAQ" src="common/images/FAQ.png" /> <img class="cmpny_icon" src="common/images/FAQ_hover.png" alt="FAQ" /> FAQ</a></li>
+                <li><a class="testml-menu" title="CLIENT TESTIMONIALSs" href="testimonials"> <img class="cmpny_iconh" alt="CLIENT TESTIMONIALSs" src="common/images/testimonial-icon.png" /> <img class="cmpny_icon" src="common/images/testimonial_hover.png" alt="CLIENT TESTIMONIALSs" /> CLIENT TESTIMONIALS</a></li>
+                <!--<li><a class="cases-menu" title="Case Studies" href="case-studies/"> <img class="cmpny_iconh" alt="Case Studies" src="common/images/case_study.png" /> <img class="cmpny_icon" src="common/images/case_study_hover.png" alt="Case Studies" /> Case Studies</a></li>-->
+                <li class="last"><a class="approach-menu" title="approach" href="our-approach"> <img class="cmpny_iconh" alt="approach" src="common/images/approach.png" /> <img class="cmpny_icon" src="common/images/approach_hover.png" alt="approach" /> Approach</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="contact_us"><a href="contact" title="Contact" class="contact_last">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+<section>
+<section class="web_appl_dvl_newPG testimonial_page">
+   <div class="web_appl_dvl_bnner_sec_outr">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+               <div class="web_appl_dvl_bnner_sec">
+                  <h1 class="wow fadeIn animated" data-wow-delay=".2s">Testimonials</h1>
+                  <p class="wow fadeIn animated" data-wow-delay=".3s">We have had an amazing journey since our inception in 2004 and have received lots of client testimonials, feedback and suggestions. Here’s a few of them-</p>
+                  <!--<ul class="wow fadeIn animated" data-wow-delay=".6s">
+                     <li class="web-icon1">Quality Deliverables</li>
+                     <li class="web-icon2">100% Transparency</li>
+                     <li class="web-icon3">Skilled Team</li>
+                     <li class="web-icon4">Flexible Engagement Models</li>
+                     </ul>-->
+                  <!--<div class="Web_dvl_button wow fadeInDown animated" data-wow-delay=".3s">
+                     <a href="contact.php" title="Request Free Consultation" >Request Free Consultation</a>
+                     </div>-->
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<div class="testimonial_outr_sec">
+   <ul class="tesimonial_slider">
+      <li>
+         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="row">
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+            <div class="test-dp"><img src="common/images/Grit.png" alt="Testimonials" title="Testimonials"></div>
+            <div class="test-name"><h5>Grit  </h5><p>Belgium | Go it </p></div>
+            <div class="testimonial_innr_sec mt-5">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+  <div class="videoWrapper"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FValueCoders%2Fvideos%2F1651306901632370%2F&show_text=0&width=560" width="100%" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>
+                      
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Everybodyatwork</h5>
+                        </div>
+                     </div>-->
+                  </div>
+              
+               
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="test-dp"><img src="common/images/rg-logo.png" alt="Testimonials" title="Testimonials"></div>
+                <div class="test-name"><h5>Joshua Shields </h5><p>Executive Director and Founding Partner Risklogic</p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p class="mrg-5">ValueCoders is the strong development partner that we were looking so far. The mobile team at Valuecoders served the job excellently and knows very well how to build amazing apps within time. They know how to maintain good relations via effective communication. Their quick response to each query is highly appreciable. The final app delivered to us is of high-quality and developed strictly for our project's requirements. We are thankful for developing such an app and would be glad to work with them again. </p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Risk Logic</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+            
+               <div class="clearfix"></div>
+                
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="test-dp"><img src="common/images/marcel-damen.png" alt="Testimonials" title="Testimonials"></div>
+                <div class="test-name"><h5>Marcel Damen </h5><p>Founder Horizon Internet Technologies</p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>It has been an excellent experience working with Valuecoders. The chaincode implementation done by the team was good.
+The team is active in communication, ask the right questions and incorporates the answers in the next iteration of the code. They are always polite and
+to the point. Overall we are happy and satisfied with the work done by valuecoders. </p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Risk Logic</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+              
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/cmp-logo.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Benoît D'heygere </h5><p>Founder at Refuge</p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>A great team of problem solvers. At ValueCoders, they have a great culture. We worked as a team, not as a client and developers. They stay connected and report on a regular basis. In the end all culminated in an awesome product.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Everybodyatwork</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="clearfix"></div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/candor-logo.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Antonio Santos </h5><p>Head of Web Technolgy at  Candor Renting SA
+</p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders is a remarkable offshore IT company with highly skilled developers. They have provided me expected outcomes for every project they undertook. I highly recommend ValueCoders to others.  </p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Candore</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Chris Watts </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>The skillful SharePoint development team of ValueCoders provided a level of direction that was both disciplined and creative with some quick fixes and long term solutions. I am happy to see their strategy of working. Thanks a lot .</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Chris Watts</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Mayer </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Performance of ValueCoders in our project was exceptional. The deliverables were of high quality and strictly according to the schedule. The project was completed within our budget. The work was done efficiently and in a professional manner. It was a right decision to hire web & mobile developers from them.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Mayer</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Gary Wolff</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Working with the ValueCoders web & mobile development team has been an outstanding experience. They were great communicators at every stage of development. The delivery made was above and beyond what was promised. We are glad to have worked with everyone there and hope to work together on future projects.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Gary Wolff</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5> Daisy Banks</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>With ValueCoders, I have experienced a lot of 'firsts'. I noticed that they never shied away from innovating especially with technologies that were a bit old. Their belief in the power of combination and permutation is astounding as they took the best of all.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Daisy Banks</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Eddie May </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>I am looking forward to work with ValueCoders in the near future. ValueCoders, through their exceptional service culture, has found a place in our provider list despite them being new to us. They took the least time to impress.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Eddie May</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Sergio </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders is a remarkable offshore IT company with highly skilled developers. They have provided me with expected outcomes for every project they undertook. I highly recommend ValueCoders to others.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Sergio</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+
+               
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Kevin Patterson </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Discovering a remote development company like ValueCoders is like fresh air for me. I am quite happy with the tweaks made by their smart developers on my SharePoint CMS website.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Kevin Patterson</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Cathy Wise </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>In my opinion ValueCoders is a stress buster. I have had the most peaceful time with ValueCoders by my side taking care of all my complicated website development. All I did was to wait for their prompt email updates in my inbox.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Cathy Wise</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Jennie Moran </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>We are very happy and satisfied to have ValueCoders as our offshore developing partner. They have developed a very good understanding of our vision and work flow. They successfully complement our operations without any issues.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Jennie Moran</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Fred Edwards </h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Thank you ValueCoders. I have to say that your assigned developer was awesome with the services. We are satisfied and are very happy to work offshore with you.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Fred Edwards</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Casey Gordon</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>The dedicated Android developers from ValueCoders have done a marvelous job in designing of our mobile app. This resulted in development of a great app.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Casey Gordon</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Percy Rhodes</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Utilizing the service of an offshore company is a financial benefit but at the same time is a decision to make. There are many questions running through the mind like- Can we trust them? Will they be able to communicate efficiently? I decided to overcome my fear and decided of giving ValueCoders a chance.They thoroughly met my expectations and I am very pleased with the results.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Percy Rhodes</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Herbert Rogers</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>In spite of the fact that we never spoke with this team, we have had effective communication via instant messenger. The project has exceeded all my expectations.The ValueCoders team has lived up to their standards and I expect a long lasting and professional relationship to continue firther. I strongly recommend them.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Herbert Rogers</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Sue Baldwin</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>The professional CakePHP developers of ValueCoders provided services above and beyond our expectations. We are impressed with their follow-up and professionalism.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Sue Baldwin</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Danny Stone</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Great job and customer focused services. We are simply amazed by the performance of the web application developed by the dedicated CakePHP team of ValueCoders.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Danny Stone</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Herbert Allen</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders has provided a scalable enterprise level portal solution to meet our business objectives. Looking forward to work with them on our future projects as well.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Herbert Allen</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Marguerite Lyons</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>They did their best to make the website look great and function perfectly. I am overwhelmed with their service ethics. I would highly recommend their services to those I know.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Marguerite Lyons</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Dave Hanson</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>A great team of problem solvers. ValueCoders has solutions to every query of mine. We worked as a team, not as a client and vendor. Communication channel did not break even once. In the end all culminated in an awesome Magento site.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Dave Hanson</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Lynne Newman</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders is an efficient offshore staffing company with excellent work and prompt services. They provide with world class results for every project they undertake.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Lynne Newman</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Heidi Wagner</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>A great team of problem solvers. ValueCoders had solutions to every query of mine. We worked as a team, not as a client and vendor. Communication channel did not break even once. In the end all culminated in an awesome WordPress site.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Heidi Wagner</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Wesley Mendoza</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>My WordPress site was given a holistic makeover. The site featured the best in class features as well as scalability in view of future requirements. Initial responses pointed to my site being light and quick. ValueCoders scored high on all fronts.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Wesley Mendoza</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Brenda Reynolds</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>I am very much impressed with the quality of the Drupal team working on our project. The team displayed a real understanding of the issues and came up with great suggestions and ideas which were really impressive.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Brenda Reynolds</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Alfredo Allen</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>4 in a row - is what I would call our association with ValueCoders. I had my 4th development project with ValueCoders and the experience has been steady throughout. 2 Drupal sites, a WordPress and a PSD to HTML, stands as a testimony of their excellence.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Alfredo Allen</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Aaron Obrien</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders is a unique team who understands the functional side of our needs pretty well. They really have an ear for their clients core requirements as they base their solution on it. I think they realize that technology is just one side of the coin.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Aaron Obrien</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Brandy Flores</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders e-commerce solution has helped us to increase revenue, improve customer service to our online customers and reduce the amount of time our staff spends in processing online orders. We are pleased with features and the user friendly interface.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Brandy Flores</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Myra Mcdonald</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders is very professional and result oriented. Their developers are much better than any other service provider.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Myra Mcdonald</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Bob Chandler</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>We are amazed with the AngularJS testing environment developed by the experts of ValueCoders. Very helpful indeed.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Bob Chandler</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Bradford Griffin</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>The expert developers at ValueCoders did some great work on my Node.JS project. I want to thank the team of ValueCoders who took care of my suggestions minutely. Excellent company. I will definitely work with them again.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Bradford Griffin</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Thomas Blake</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>I want to thank the full Node.JS development team of ValueCoders for the excellent job they have done on our website. ValueCoders is really good.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Thomas Blake</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Johnathan Howard</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders has provided the highest degree of scalability, flexibility and service orientation for our largest business needs. Fully satisfied with their Mule solution.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Johnathan Howard</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Blanche Delgado</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders is truly the best option for me and also for those who are thinking about creating a niche on the web. I am satisfied with ValueCoders.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Blanche Delgado</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Alex Gregory</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>It is great to work with the Hadoop development team of ValueCoders that responds to the customer's needs on time. It has been great, throughout the project.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Alex Gregory</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Ivan Vasquez</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Truly gifted Apache Hadoop developers and skilled technologists. The services are great and so are the results.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Ivan Vasquez</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Arturo Nelson</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>I believe that ValueCoders has the advantage of deep domain expertise. They proved their excellence by developing our enterprise database application.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Arturo Nelson</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Hannah Caldwell</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>The Servoy team of ValueCoders are extremely creative with a great visual and technical sensibility. They showed patience for allowing the development process to unfold organically.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Hannah Caldwell</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Krystal Norris</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>Understanding the needs of customers is the key to any successful business. ValueCoders perfectly understand these needs and know how to make them applicable. They are world-class experts in this field and they are more eager than us to get the project done! They are exceptionally reliable and highly efficient.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Krystal Norris</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Laverne Boone</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>This team of ValueCoders has been outstanding throughout the development! They worked for hours and days tirelessly even on weekends, to complete the project in time. Their work was excellent and to my surprise, the overall project management was easier and simpler than I expected.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Laverne Boone</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Joan Wood</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>ValueCoders is an outstanding offshore staffing company which has a depth of technical expertise in delivering innovation. We are extremely happy with our working relationship and are looking forward to get engaged for future projects.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Joan Wood</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+               <div class="test-dp"><img src="common/images/dummy-icon.png" alt="Testimonials" title="Testimonials"></div>
+               <div class="test-name"><h5>Janis Gardner</h5><p></p></div>
+                  <div class="testimonial_innr_sec">
+                     <div class="testimonial_video_outr">
+                        <div class="tesimonial_video">
+                           <div class="tesimonial_content">
+                              <p>I contacted ValueCoders with no clue as to what technology should be adopted to develop the website. I was clearly briefed on the various options and the relevance to my needs. This approach added great value to the service by making the client understand things. I was advised to employ HTML5 and I am happy with my decision.</p>
+                           </div>
+                           <span class="testimonial_arrow_btm">
+                           <img src="https://://www.pixelcrayons.com/common/images/testimonial_arrow_btm.png" alt="Testimonials" title="Testimonials">
+                           </span>
+                        </div>
+                     </div>
+                     <!--
+                     <div class="testimonial_commnt_outr">
+                        <div class="testimonial_commnt_text">
+                           <h5>Janis Gardner</h5>
+                        </div>
+                     </div>-->
+                  </div>
+               </div>
+            </div>
+         </div>
+      </li>
+   </ul>
+</div>
+<section class="get_outer appl_dvl_frm">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+            
+
+<script type="text/javascript" src="common/js/scriptcontact.js"></script>
+    <link rel="stylesheet" type="text/css" href="common/css/style_ios.css"/>
+    <script>
+        function showShareURL() {
+            $("#share_url").show();
+            $("#label_share_url").hide();
+        }
+    </script>
+    <style>
+        .input-group .err {
+            position: absolute;
+            right: 10px;
+            top: 0;
+            color: #ff1d1d;
+            font: 12px/48px aller_lightregular;
+            z-index: 10;
+        }
+ .footerInner .chain {
+	display: inline-block;
+	float: left;
+	margin-right: 195px;
+	margin-top:10px;
+	width: 30%;
+}
+
+
+chain::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: pink;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: pink;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: pink;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: pink;
+}
+
+
+.chain > span {
+  display: inline-block;
+  padding-top: 14px; color:#625959 !important;
+}
+
+
+
+.drop{
+border: 1.5px dashed  hsl(0, 0%, 24%);
+    color: hsl(0, 0%, 38%);
+    display: inline-block;
+    font: 400 16px/26px Lato;
+    margin: 0 75px;
+    padding: 3px 12px;
+    position: relative;
+    text-decoration: none;
+}
+
+@media only screen and (max-width:1199px) {
+	.drop {
+  border: 1px solid hsl(0, 0%, 24%);
+  color: hsl(0, 0%, 38%);
+  display: inline-block;
+  font: 400 16px/26px Lato;
+  margin: 0 15px;
+  padding: 3px 12px;
+  position: relative;
+  text-decoration: none;
+}
+
+.footerInner .chain {
+  display: inline-block;
+  float: right;
+  margin-right: 145px;
+  margin-top: 12px;
+  width: 30%;
+}
+	
+	
+	
+	}
+
+
+
+
+@media only screen and (max-width:991px) {
+	
+	.drop {
+  border: 1px solid hsl(0, 0%, 24%);
+  color: hsl(0, 0%, 38%);
+  display: inline-block;
+  font: 400 16px/26px Lato;
+  margin: 0;
+  padding: 3px 12px;
+  position: relative;
+  text-decoration: none;
+}
+
+
+
+.footerInner .chain {
+  display: inline-block;
+  margin-right: 25px;
+  margin-top: 28px;
+  width: 40%;
+}
+
+	.rating_outer .social-btn {
+	margin-top: 20px !important;
+}	
+	
+	}
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+	.footerInner .chain {
+  display: inline-block;
+  float: right;
+  margin-right: 0;
+  margin-top:0px;
+  padding: 0 20px; margin-bottom:5px;
+  width: 100%;
+}
+
+
+.footerInner .btn {
+  margin-top: 6px;
+  padding: 12px 20px;
+  text-transform: uppercase;
+}
+	
+	
+	}
+
+@media only screen and (max-width:479px) {
+	
+	.footerInner .btn {
+  background-color: hsl(91, 100%, 35%);
+  font: 400 17px/30px Lato;
+  margin-bottom: 20px;
+  margin-top: 11px;
+  padding: 12px 20px;
+  text-transform: uppercase;
+}
+	
+	
+	
+	}
+
+
+
+
+
+    </style>
+
+
+
+<div class="container">
+        <div class="footerInner">
+          <div class="footerHeadder text-center">
+            <h2 class="secssion_heading">Get in touch</h2>
+            <p>Request a free consultation and get a no obligation quote for your project within 8 hours</p>
+          </div>
+          <div class="footerFormBody">
+            <form name="contact-frm" id="contact-frm" action="sendmail1.php" class="form-outer" method="post" enctype="multipart/form-data">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-user"></i> </span>
+                    <input type="text" class="form-control" placeholder="Your Name *" name="user-name" id="user-name" />
+                    <span id="user-name-err1" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-envelope"></i> </span>
+                    <input type="text" class="form-control" placeholder="Email ID *" name="user-email" id="user-email" />
+                    <span id="user-email-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group"> <span class="input-group-addon"> <i class="fa fa-phone"></i> </span>
+                    <input type="text" class="form-control" placeholder="Phone" name="user-phone" id="user-phone" />
+                    <span id="user-phone-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="input-group budujt" style="width:100%;"> <span class="input-group-addon"> <i class="fa fa-usd"></i> </span>
+                    <select class="citySelectze form-control" style="width:100%;" name="user-budget">
+                      <option>What is your alloted budget?</option>
+                      <option value="$1000"><$1000</option>
+                      <option value="$1000-$5000">$1000-$5000</option>
+                      <option value="$5000-$10000">$5000-$10000</option>
+                      <option value="$10000 or more">>$10000 </option>
+                    </select>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="input-group"> <span class="input-group-addon" style="vertical-align:top;"> <i class="fa fa-server"></i> </span>
+                    <textarea type="text" class="form-control" placeholder="Your Requirements" name="user-req" id="user-req"></textarea>
+                    <span id="user-message-err" class="err"></span>
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 ">
+                    <div id="uploadcontact">
+                    <div id="dropcontact">
+                        <label for="file-3">
+                            <span class="fileUload" style="color: #616161;display: inline-block;position: relative;font: 400 16px/26px Lato;text-decoration: none;padding: 12px 20px 0 0;margin-bottom: 20px;"><i class="fa fa-file-text-o"></i> &nbsp;Upload your file.</span>
+                            <span class="drop"><i class="fa fa-dropbox"></i> &nbsp;Drop files here</span>
+                            
+                            
+                                
+                        </label>	
+                        <input type="file" name="upl" id="file-3" class="inputfile inputfile-3" />
+                    </div>
+                    <ul></ul>
+                    </div>
+                    <div class="file-format">
+                        <span id="filetext" style="display:none;"></span> 
+                        <label> </label>
+                    </div>
+                </div>
+                <div class="chain">
+                    <span onclick="showShareURL();" id="label_share_url"><i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url</span>
+                    <div class="input-group" id="share_url" style="display:none;"> <span class="input-group-addon"> <i class="fa fa-link"></i> </span>
+                        <input type="text" class="form-control" placeholder="Share Dropbox or Other Url" name="customUrllink" id="user-url" maxlength="100" />
+                    </div>
+                </div>
+                <!--<div class="col-sm-12"> <a href="javascript:void(0);" class="fileUload" onclick="document.getElementById('footerFormFile').click();"> <i class="fa fa-file-text-o"></i> &nbsp;Upload your file.</a> 
+                 <a href="#" class="drop"> <i class="fa fa-dropbox"></i> &nbsp;Drop files here </a>
+                <a href="#" class="chain"> <i class="fa fa-link"></i> &nbsp;Share Dropbox or Other Url </a>
+                
+                  <input type="file" id="footerFormFile" />
+                  <span id="filetext" style="display:none;"></span> <br>
+                  <label> Accepted file Formats: <span> .PSD, .JPG, .JPEG, .GIF, .PNG, .AI, .ZIP, 
+                    .RAR, .PDF, .DOC, .DOCX, .XLS, .XLSX, .PPT. </span> If file size is greater than
+                    20MB, 
+                    Please share using Dropbox or similar. </label>
+                </div>-->
+                           <div class="btn_main">
+                <div class="formfooter text-center">
+                  <button class="btn btn-success" id="submitFrm">Send your request</button>
+                  <p class="privacy"> <i class="fa fa-lock"></i> Your privacy is guaranteed. We hate spam as much as you do! </p>
+                </div>
+                </div>
+              </div>
+                <input type="hidden" name="frmOrderFileUploadedfilename" id="frmOrderFileUploadedfilename" value="" />
+                <input type="hidden" name="_frmOrder" value="frmOrder" />
+                <input type="hidden" name="type" value="contact-frm" />
+             <input type="hidden" name="frmqueryString" id="frmqueryString" value="" />
+            </form>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>         </div>
+      </div>
+   </div>
+</section>
+<script src="common/js/bxsliderjs.js"></script>
+<script>		
+   $(document).ready(function() {			  
+   	$('.tesimonial_slider').bxSlider({
+   		pagerCustom: true,
+   		auto: true,
+   		minSlides: 1,
+   		maxSlides: 100,
+   		slideWidth: 1100,
+   		slideMargin: 0,
+   		moveSlides:1
+   	});
+   });
+</script>
+<script type="text/javascript">
+
+    equalheight = function(container){
+		var currentTallest = 0,
+		     currentRowStart = 0,
+		     rowDivs = new Array(),
+		     $el,
+		     topPosition = 0;
+		 $(container).each(function() {
+		   $el = $(this);
+		   $($el).height('auto')
+		   topPostion = $el.position().top;
+
+		   if (currentRowStart != topPostion) {
+		     for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+		       rowDivs[currentDiv].height(currentTallest);
+		     }
+		     rowDivs.length = 0; // empty the array
+		     currentRowStart = topPostion;
+		     currentTallest = $el.height();
+		     rowDivs.push($el);
+		   } else {
+		     rowDivs.push($el);
+		     currentTallest = (currentTallest < $el.height()) ? ($el.height()) : (currentTallest);
+		  }
+		   for (currentDiv = 0 ; currentDiv < rowDivs.length ; currentDiv++) {
+		     rowDivs[currentDiv].height(currentTallest);
+		   }
+		 });
+}
+$(window).load(function() {
+  equalheight('.eql_height');
+  equalheight('.eql_height2');
+  equalheight('.eql_height3');
+  equalheight('.eql_height4');
+  equalheight('.eql_height5');
+  equalheight('.eql_height6');
+  equalheight('.eql_height7');
+  equalheight('.eql_height1');
+  
+});
+$(window).resize(function(){
+  equalheight('.eql_height');  
+  equalheight('.eql_height2');
+  equalheight('.eql_height3');
+  equalheight('.eql_height4');
+  equalheight('.eql_height5');
+  equalheight('.eql_height6');
+  equalheight('.eql_height7');
+  equalheight('.eql_height1');
+});
+
+
+   $(".hire_dev_sec .hire_dev_sec-right ul li").addClass("eql1_height");
+
+ if ($(window).width() < 768){
+   $(".hire_dev_sec .hire_dev_sec-right .hire_dev_right-inner").removeClass("eql_height");
+}
+
+else {
+   
+}
+
+
+</script>
+
+  
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#contact_pdf_request").submit(function() {  
+	    var proceed = true;
+        //simple validation at client's end
+        //loop through each field and we simply change border color to red for invalid fields		
+		$("#contact_form input[required=true]").each(function(){
+			$(this).css('border-color',''); 
+			if(!$.trim($(this).val())){ //if this field is empty 
+				$(this).css({'border':'1px solid #FF0000', 'box-shadow':'0 0 5px red'}); //change border color to red   
+				proceed = false; //set do not proceed flag
+			}
+			//check invalid email
+			var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/; 
+			if($(this).attr("type")=="email" && !email_reg.test($.trim($(this).val()))){
+				$(this).css({'border':'1px solid #FF0000', 'box-shadow':'0 0 5px red'}); //change border color to red   
+				proceed = false; //set do not proceed flag				
+			}	
+		});
+       
+        if(proceed) //everything looks good! proceed...
+        {
+
+           //data to be sent to server         
+            var m_data = new FormData();    
+            m_data.append( 'user_name', $('#contact_form input[name=name]').val());
+            m_data.append( 'user_email', $('#contact_form input[name=email]').val());
+            m_data.append( 'company_name', $('#contact_form input[name=company_name]').val());
+            
+            if($('#subscribe').is(':checked')) m_data.append( 'subscribe', 'Yes');
+            else m_data.append( 'subscribe', 'No');
+			 
+            //instead of $.post() we are using $.ajax()
+            //that's because $.ajax() has more options and flexibly.
+  			$.ajax({
+              url: 'common/inc/contact_me.php',
+              data: m_data,
+              processData: false,
+              contentType: false,
+              type: 'POST',
+              dataType:'json',
+              success: function(response){
+				$('#contact_form input[name=name]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#contact_form input[name=email]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#contact_form input[name=company_name]').val('').css({'border':'1px solid #cfcfcf', 'box-shadow':'none'});
+				$('#subscribe').prop('checked', false);
+				 
+                //load json data from server and output message     
+ 				if(response.type == 'error'){ //load json data from server and output message     
+					output = '<div class="error">'+response.text+'</div>';
+				}else{
+				    $('.contact-description').addClass('hide-me').hide();
+				    $('#contact_body').addClass('hide-me').hide();
+				    output = '<div class="success">'+response.text+'</div>';
+				}
+				$("#contact_form #contact_results").hide().html(output).slideDown();
+              }
+            });
+			
+
+        }
+    });
+    
+    //reset previously set border colors and hide all message on .keyup()
+    $("#contact_form  input[required=true]").keyup(function() { 
+        $(this).removeAttr("style");
+        //$(".success, .error").slideUp();
+    });
+});
+</script>
+
+<div class="pop-up-box">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<p>ValueCoders goes much beyond the regular hiring of offshore teams. The clients are insured that their projects will never slow down. The stability of teams provided by ValueCoders is unmatched as we provide free immediate replacement of teams in case of any dissatisfaction whatsoever.</p>
+				<ul>
+					<li>Minimum optimum productivity guaranteed </li>
+					<li>Get billed only if the performance is up to the mark </li>
+					<li>Hire and review first and then move forward </li>
+				</ul>
+			</div>
+			<div class="pop-up-right">
+				<img src="common/images/popup_img1.png" alt="Billing Gaurantee- Logo - 1" />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box1">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<p>At ValueCoders we provide people who are passionate about their work. ValueCoders ensures you 100% satisfaction guarantee every single time. The professional are chosen on the basis of their ability to outperform their tasks.  We make sure, each of the personnel go through rigorous tests before coming on-board.</p>
+				<ul>
+					<li>Highly productive and qualified teams</li>
+					<li>On-time project deliveries</li>
+					<li>A collaborative and happy work culture </li>
+				</ul>
+			</div>
+			<div class="pop-up-right">
+				<img src="common/images/popup_img2.png" alt="Satisfaction Gaurantee- Logo - 2" />
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box2">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-left">
+				<ul>
+					<li>
+						<span class="popup_icon popup_icon1">
+						
+						</span>
+						Take a free trial of your development work, for a period of 2 weeks
+					</li>
+					<li>
+						<span class="popup_icon popup_icon2">
+						
+						</span>
+						Billing will be done after you are satisfied and decide to continue
+					</li>
+					<li>
+						<span class="popup_icon popup_icon3">
+						
+						</span>
+						No bill will be raised if you do-not wish to continue
+					</li>
+				</ul>
+			</div>
+			<div class="get-touch">
+				<a href="request-free-trial" title="Get In Touch" >Request a free Trial</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pop-up-box3">
+	<div class="pop-up">	
+		<span class="popup_cross"></span>
+		<div class="pop-up-sec">
+			<div class="pop-up-right">
+				<img src="common/images/popup3_img.jpg" alt="Outsource - Logo - 2" />
+			</div>
+			<div class="pop-up-left">
+				<p class="contact-description">The cost advantages of outsourcing can be huge if it is executed with a long term plan in mind. Short term tactical hiring of remote teams may not bring fruitful results for the outsourcing customer. This E-book details out the challenges, solutions and strategies to better outsourcing.</p>
+				<div class="form-style" id="contact_form">
+					<div id="contact_results"></div>
+					<div id="contact_body">
+						<form name="contact_pdf_request" id="contact_pdf_request" method="post" onSubmit="return false;">
+							<input type="text" placeholder="Contact Name" name="name" id="name" required="required" class="input-field"/>
+							<input type="email" placeholder="Email" name="email" required="required" class="input-field"/>
+							<input type="text" placeholder="Company Name" name="company_name" class="input-field"/>
+							<label class="contct_checkbox" for="subscribe">
+								<input type="checkbox" id="subscribe" name="subscribe" class="input-field input-checkbox" value='1' />
+								<span class="label-text">&nbsp;&nbsp;Subscribe to our Newsletters, Updates &amp; Offers</span>
+							</label>
+							<input type="submit" id="submit_btn" value="Get Download Link" data-style="slide-left" />
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+  
+<footer class="footer" role="contentinfo">
+    
+   <div class="awd_outer">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <ul class="awd_sec">
+                  <li><img src="common/images/awd_sprite_2209.jpg" alt="Deloitte"/></li>
+                  <!--<li><img src="common/images/awrd2.png" alt="Deloitte"/></li>
+                     <li><img src="common/images/awrd3.png" alt="Emerge"/></li>
+                     <li><img src="common/images/awrd4.png" alt="Asia Red"/></li>
+                     <li><img src="common/images/awrd5.png" alt="Eretail"/></li>
+                     <li><img src="common/images/awrd6.png" alt="Iso"/></li>
+                     <li><img src="common/images/awrd7.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd8.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd9.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd10.png" alt="Magento"/></li>-->
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+      <div class="rating_outer">
+      <div class="container">
+         <div class="row rating_bx">
+            <div class="snippet col-md-8 col-sm-12 col-xs-12">
+               <div class="rating-section">
+                  <div class="rating-view">
+                     <div class="rateit-wrap">
+                        <div id="rateYo1" class="jq-ry-container" readonly="readonly" style="width: 73px;"></div>
+                        <div class="initail-rate">
+                                                      <span class="rate-btn enable"> Rate us</span>
+                                                      <!-- <span class="rate-btn rateYo2 edited already_rated">Already Rated</span> -->
+                        </div>
+                     </div>
+                     <div class="overall"><span itemscope="" itemtype="http://data-vocabulary.org/Review-aggregate">
+                        <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+                        <input type="hidden" name="post_id" id="rating_post_id">
+                        <input type="hidden" name="currentrate" id="currentrate" value="1204">
+                        <strong itemprop="average" id="ratingValue">4.9 </strong>
+                        out of <strong itemprop="best">5.0 </strong>
+                        </span>&nbsp; for &nbsp;
+                                                <span itemprop="itemreviewed">Software Development Services </span>   
+                                
+                        &nbsp; by &nbsp;<span class="client-project" style="display:block !important;"><span itemprop="votes" id="totalClient">1204 </span>clients on over 3800+ projects</span></span>
+                        <input type="hidden" name="rating_page_url" value="testimonials.php" id="rating_page_url">
+                     </div>
+                  </div>
+                  <script type="text/javascript">
+                     var allreadyRated = '1';
+                     var ratingValue = '4.7';   
+                  </script>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+               <div class="social-btn pull-right">
+                  <div id="fb-root"></div>
+                  <div class="fb-like" data-href="https://www.facebook.com/ValueCoders" data-send="false" data-layout="button_count" data-width="350" data-show-faces="true"></div>
+                  <!-- Place this render call where appropriate -->
+                  <a href="https://twitter.com/share" class="twitter-share-button" data-url="">Tweet</a>
+                  <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+                  <script type="IN/Share" data-url="https://www.valuecoders.com" data-counter="right"></script>
+                  <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/103716832322080901612"></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="footer_bottom">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+               <ul class="footer_menu">
+                  <!--                        <li><a href="application-maintenance" title="Application Maintenance">Application Maintenance</a><span>|</span></li>
+                     <li><a href="application-modernization" title="Application Modernization">Application Modernization</a><span>|</span></li>
+                     <li><a href="application-development" title="Application Development">Application Development</a><span>|</span></li>-->
+                  <!--<li><a href="communication-channels" title="Communication Channels">Communication Channels</a><span>|</span></li>-->
+                  <!--<li><a href="testing-qa" title="Testing & QA">Testing & QA</a><span>|</span></li>-->
+                  <li><a href="faq" title="FAQ">FAQ</a><span>|</span></li>
+                  <li><a href="disclaimer" title="Disclaimer">Disclaimer</a><span>|</span></li>
+                  <li><a href="privacy-policy" title="Privacy Policy">Privacy Policy</a><span>|</span></li>
+                  <li><a href="terms-of-service" title="Terms of Service">Terms of Service</a><span>|</span></li>
+                  <li><a title="Why India?" href="why-india">Why India?</a><span>|</span> </li>
+                  <li><a title="In Media" href="in-media">In Media & Partners</a><span>|</span></li>
+                  <li><a title="How It Works" href="process">How It Works</a></li>
+               </ul>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+               <ul class="social_sec">
+                  <li>
+                     <a href="https://twitter.com/ValueCoders" title="Twitter" target="_blank">
+                     <i class="fa fa-twitter-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.facebook.com/ValueCoders" title="Facebook" target="_blank">
+                     <i class="fa fa-facebook-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://plus.google.com/103716832322080901612/posts" title="Google +" target="_blank">
+                     <i class="fa fa-google-plus-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.linkedin.com/company/valuecoders" title="Linkedin" target="_blank">
+                     <i class="fa fa-linkedin-square"></i>
+                     </a>
+                  </li>
+                  <li> <a href="https://www.youtube.com/valuecoders/" title="youtube" target="_blank"> <i class="fa fa-youtube-square" aria-hidden="true"></i>
+                     </i> </a> 
+                  </li>
+                  <li> <a href="https://www.instagram.com/valuecoder/" title="instagram" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i>
+                     </i>
+                     </i> </a> 
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <p>Copyright &copy; 2004 - 2019. All Rights Reserved. ValueCoders.com</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+</section>
+</div>
+</div>
+<script type="text/javascript" src="common/js/cmnJs.min.js"></script>
+<!--<script type="text/javascript" src="common/js/jquery.rateyo.min.js"></script>-->
+<script>
+   var $ratevalue = $("#rateYo1").rateYo({ 
+           onSet: function (rating, rateYoInstance) {
+               rate_url = $("#rating_page_url").val();
+               currentrate = $("#currentrate").val();
+               $.ajax({
+                   type: "POST",
+                   url: "./ajax_act.php?t=" + Math.floor((Math.random() * 1000000) + 1),
+                   dataType: "html",
+                   data: {
+                       rating: rating,
+                       rate_url:rate_url,
+                       ratingPoints:currentrate,
+                       action: "userRating"
+                   },
+                   success: function (response) {
+                       var obj = JSON.parse(response)
+                       var totalClient = obj.totalClient;
+                       var totalRating = obj.totalRating;
+                       $("#ratingValue").html(totalRating);
+                       $("#totalClient").html(totalClient);
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').addClass('edited');
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').text('Rated');
+                       $("#rateYo1").rateYo("option", "readOnly", true);
+                   }
+               });
+           },
+           rating: ratingValue,
+           halfStar: true,
+           starWidth: "13px",
+           ratedFill: "#fdc532",
+           normalFill: "#ffffff",
+           spacing: "2px",
+           readOnly: true
+       });
+   
+       $("#rateYo1 svg").click(function (e) {
+   
+          
+           if ($('#rateYo1').hasClass('rateYo2') && !$('#totalClient').hasClass('mark')) {
+              
+               /* get rating */            
+               $("#totalClient").addClass("mark");
+               $(this).addClass('sucess');
+               
+               setTimeout(function () {
+                   $('.rate-submit').fadeOut(500);
+               }, 1000);
+           } else if ($('#rateYo1').hasClass('rateYo2') && $('#totalClient').hasClass('mark')) {
+               $('.rate-btn.rateYo2').text('Already Rated');
+               $('.rate-btn.rateYo2').addClass('already_rated');
+   
+           } else {
+               e.preventDefault();
+               return false;
+           }
+   
+       });
+       $('.rate-btn').on('click', function (e) {
+           if ($('.edited').length > 0) {
+               e.preventDefault();
+               return false;                         
+           }
+           else {
+               $("#rateYo1").rateYo("option", "readOnly", false);
+               $(".rate-submit").addClass("full-show");
+               $("#rateYo1").addClass("rateYo2");
+               $(this).addClass("rateYo2");
+               $(this).removeClass("enable");
+               $(this).text("Click to rate");
+           }
+       });
+</script>
+<!--linkedin conversion tracking code-->
+<script type="text/javascript">
+   _linkedin_data_partner_id = "36540";
+</script><script type="text/javascript">
+   (function(){var s = document.getElementsByTagName("script")[0];
+   var b = document.createElement("script");
+   b.type = "text/javascript";b.async = true;
+   b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+   s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=36540&fmt=gif" /> </noscript>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27094506-1"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments)};
+   gtag('js', new Date());
+   
+   gtag('config', 'UA-27094506-1');
+</script> 
+<script>
+   setTimeout(function() {  
+   !function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0], c = /^http:/.test(e.location) ? "http" : "https";
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = c + "://platform.twitter.com/widgets.js", s.parentNode.insertBefore(a, s))
+   }(document, "script", "twitter-wjs"), function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0];
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = "//connect.facebook.net/en_US/all.js#xfbml=1", s.parentNode.insertBefore(a, s))
+   }(document, "script", "facebook-jssdk"), function() {
+      var e = document.createElement("script");
+      e.type = "text/javascript", e.async = !0, e.src = "https://apis.google.com/js/plusone.js";
+      var t = document.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(e, t)
+   }();
+   }, 6000);
+</script>
+<!-- Addroll Code Ends -->
+</body>
+</html><style>
+  .videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+</style>

@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en" class="demo-loading no-js">
+<head>
+<meta charset="utf-8">
+<meta name="language" content="English" />
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.
+
+apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '23fbb2e0572145bebfc07d4261b8990b');
+qp('track', 'ViewContent');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/23fbb2e0572145bebfc07d4261b8990b/pixel?tag=ViewContent&noscript=1"/>
+</noscript>
+<!-- End of Quora Pixel Code -->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5067063"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script> 
+<!--create url for ie9,10 redirection on 404 not found-->
+<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+<base href="/www.valuecoders.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Page Not Found</title>
+<meta name="description" content="Page Not Found"/>
+<meta name="keywords" content="" />
+<!-- Open Graph -->
+<meta property="og:title" content="Page Not Found"/>
+<meta property="og:image" content="common/images/dsd.jpg"/>
+<meta property="og:site_name" content="Valuecoders"/>
+<meta property="og:url" content="404.php"/>
+<meta property="og:type" content="Home Page"/>
+<meta property="og:description" content="Page Not Found"/>
+<!-- Twitter Card -->
+<meta name="twitter:card" content="Expert Remote Teams For Your Software development Needs">
+<meta name="twitter:site" content="@valuecoders">
+<meta name="twitter:creator" content="@valuecoders">
+<meta name="twitter:url" content="404.php">
+<meta name="twitter:title" content="Page Not Found">
+<meta name="twitter:description" content="Page Not Found">
+<meta name="twitter:image" content="common/images/dsd.jpg">
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.valuecoders.com\/","name":"ValueCoders.com : IT Outsourcing Company - Outsource Software Development Services India","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.valuecoders.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.valuecoders.com\/","sameAs":["https:\/\/www.facebook.com\/ValueCoders","https:\/\/in.linkedin.com\/company\/valuecoders","https:\/\/twitter.com\/valuecoders"],"@id":"#organization","name":"ValueCoders.com","logo":"https:\/\/www.valuecoders.com\/blog\/wp-content\/themes\/valuecoders\/images\/logo.png"}</script>
+<link rel="stylesheet" type="text/css" href="common/css/cmnCss.css"/>
+<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">-->
+<link rel="stylesheet" type="text/css" href="common/fonts/font.css" />
+<!--<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'/>-->
+<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,400italic,700italic,300italic,100italic,100' rel='stylesheet' type='text/css'>
+<!--<link rel="stylesheet" type="text/css" href="common/css/jquery.rateyo.min.css" />
+<link rel="stylesheet" type="text/css" href="common/css/rating.css" />
+<link rel="stylesheet" type="text/css" href="common/css/mytab.css" />-->
+<script type="text/javascript" src="common/js/jsLib.min.js"></script>
+<script>
+
+
+
+
+$(function () { 
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 500) { 
+            $('.logo img').attr('src','common/images/VC-Log-1.png');
+        }
+        if ($(this).scrollTop() < 500) { 
+            $('.logo img').attr('src','common/images/logo.svg');
+        }
+	});});
+
+</script>
+<style>
+/* This only works with JavaScript, 
+               if it's not present, don't show loader */
+            /*#loader { display: none;  }*/
+.js #loader {
+	display: block;
+	position: absolute;
+	left: 100px;
+	top: 0;
+}
+
+
+.fixed a.logo img {
+	width: 240px;
+	height: auto; 
+}
+</style>
+
+
+
+
+
+<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>-->
+<!--<script src="https://github.com/Modernizr/Modernizr/raw/master/modernizr.js"></script>-->
+<script>
+            // Wait for window load
+//		$(window).load(function() {
+//			// Animate loader off screen
+////			$("#loader").animate({
+////				top: -200
+////			}, 1500);
+//
+//                        $("#loader").hide();
+//		});
+        </script>
+
+<!--<link rel="stylesheet" type="text/css" href="common/css/datepicker.css"/> -->
+
+<link rel="shortcut icon" href="/common/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/common/images/favicon.ico" type="image/x-icon">
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2095923350635817');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2095923350635817&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Global site tag (gtag.js) - Google Ads: 798743845 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-798743845"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-798743845');
+</script>
+<!-- Global site tag (gtag.js) - Google Ads: 1013624786 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1013624786"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1013624786');
+</script>
+
+
+
+
+<link rel="canonical" href="404.php" />
+</head><body>
+<script>fbq('track', 'Lead');</script>
+<div class="outer_layout">
+<div class="outer_wrapper_new">
+
+<!-- <div class="christmas_banner"><img src="common/images/Christmas-Banner-VC.gif" alt="Hire Dedicated Developers - Logo" /></div>-->
+
+<header class="header_new" role="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-3 col-lg-2 col-md-2"> <a href="" class="logo" title="ValueCoders"><img src="common/images/logo.svg" alt="Hire Dedicated Developers - Logo" /></a> <span class="mob_icon2"></span> </div>
+      <div class="col-xs-12 col-sm-9 col-lg-10 col-md-10">
+        <ul class="menu_new">
+          <li class="menu_arrow"><a href="javascript:void(0)" id="mob_main_service_manu" title="Services">Services</a>
+            <div class=" sub_menu_new srv-list">
+              <ul class="sub-menu-list services">
+                <li class="first"><a href="application-development" title="Application Development" class="app-dvl">Application Development</a></li>
+                <li class="first"><a href="outsource-software-product-development-services" title="Software Product Development" class="software-product-dvl"> Software Product Development </a></li>
+                <li class="first"><a href="it-strategy-consulting-firms" title="It Strategy & Consulting" class="it-strategy"> IT Strategy & Consulting </a></li>
+                <li><a href="application-maintenance" title="Application Maintenance" class="app-mnt">Application Maintenance</a></li>
+                <li><a href="application-modernization" title="Application Modernization" class="app-modz">Application Modernization</a></li>
+                <li><a href="testing-qa" title="Testing & QA" class="testing-qa">Testing &amp; QA</a></li>
+                <li><a href="co-development" title="Co-Development" class="co-devlpmt">Co-Development</a></li>
+                <li class="last"><a href="dedicated-development-teams" title="Dedicated Development" class="ded-devlpmt">Dedicated Development Teams</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire"> <a href="hire-developers" id="mob_main_hire_manu" title="Hire Developers">Hire Developers</a>
+            <div class="sub_menu_new hire_dvl_list">
+              <ul class="sub-menu-list hire_devl">
+                <li><a class="php" title="php" href="hire-developers/hire-php-developers">Hire PHP Developers</a></li>
+                <li><a class="xamarin" href="hire-developers/hire-xamarin-developers">Hire Xamarin Developers</a></li>
+                <li><a class="java" title="java" href="hire-developers/hire-java-developers">Hire Java Developers</a></li>
+                <li><a class="dotnet" title=".Net" href="hire-developers/hire-dotnet-developers">Hire .NET Developers</a></li>
+                <li><a class="rectnative" title="SharePoint" href="hire-developers/hire-react-native-developers">Hire React Native Developers</a></li>
+                <li><a class="android" title="Android" href="hire-developers/hire-android-developers">Hire Android Developers</a></li>
+                <li><a class="nodejs" href="hire-developers/hire-nodejs-developers" title="Node JS">Hire Node.JS Developers</a></li>
+                <li><a class="ios" href="hire-developers/hire-ios-developers" title="IOS">Hire iOS Developers</a></li>
+                <li><a class="angularjs" href="hire-developers/hire-angularjs-developers" title="Angular JS">Hire AngularJS Developers</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="laravel" href="hire-developers/hire-laravel-developers">Hire Laravel Developers</a></li>
+                <li><a class="block_chain" href="hire-developers/hire-blockchain-developers"> Hire Blockchain Developers </a></li>
+                <li><a class="augmented_ar" href="hire-developers/hire-augmented-reality-developers">Hire Augmented Reality Developers</a></li>
+                  <li><a class="rorr" href="hire-developers/hire-ror-developers">Hire RoR Developers </a></li>
+                <li><a class="vue" href="hire-developers/hire-vuejs-developers">Hire VueJS Developers</a></li>
+                <li><a class="phython" href="hire-developers/hire-python-developers"> Hire Python Developers </a></li>
+                <li><a class="reactjs" href="hire-developers/hire-reactjs-developers">Hire ReactJS Developers</a></li>
+                
+                
+              </ul>
+              <div class="mgt-top text-center"> <a class="btn btn-box" href="hire-developers">View All</a> </div>
+            </div>
+          </li>
+          <li class="menu_arrow menu_arrowhire sub_menu_inds"> <a href="javascript:void(0)" id="mob_main_hire_manu" title="Industries">Industries</a>
+            <div class="sub_menu_new indri_list">
+              <ul class="sub-menu-list indri">
+                <li><a class="isvs" title="isvs & Product Companies" href="industries/isv-software-development-services">ISVs & Product Companies</a></li>
+                <li><a class="digital" title="Digital & Marketing Agencies"href="industries/agencies-software-development-services">Digital & Marketing Agencies</a></li>
+                <li><a class="banking" title="Banking & Finance" href="industries/banking-financial-services">Banking & Finance</a></li>
+                <li><a class="retail" title="Retail & eCommerce" href="industries/retail-ecommerce-software-development">Retail & eCommerce</a></li>
+                <li><a class="health" title="Healthcare" href="industries/healthcare-software-development-services">Healthcare</a></li>
+                <li><a class="edu" title="Education & E-Learning" href="industries/education-elearning-software-development">Education & E-Learning</a></li>
+                <li><a class="manufacturing" href="industries/manufacturing" title="manufacturing">Manufacturing</a></li>
+                <li><a class="logistics" href="industries/logistics-transportation-software-development" title="logistics-transportation-software-development">Logistics & Transportation</a></li>
+                <li><a class="publishing" href="industries/publishing" title="Publishing">Publishing</a></li>
+                <!--<li><a class="ror" href="hire-developers/hire-ror-developers">Hire ROR Developers</a></li>-->
+                <li><a class="media_1" title="Media & Entertainment" href="industries/media-software-development-services"> Media & Entertainment</a></li>
+                <li><a class="atomative" title="Automotive" href="industries/automotive-companies-software-development-services">Automotive</a></li>
+                <li><a class="travel" title="Travel & Tourism" href="industries/travel-tourism-software-development-services">Travel & Tourism</a></li>
+              </ul>
+              <!--<div class="mgt-top text-center">
+                                            <a class="btn btn-box" href="hire-developers">View All</a>
+                                        </div>--> 
+            </div>
+          </li>
+          <li class="no-arrow"><a title="Case Studies" href="case-studies/"> Portfolio</a></li>
+          <li class="menu_arrow"><a href="#" id="mob_main_about_manu" title="Company">Company</a>
+            <div class="sub_menu_new company-outer">
+              <ul class="sub-menu-list company">
+                <li class="first"><a title="About US" href="about"> <img class="cmpny_iconh" alt="About Us" src="common/images/about_us.png" /> <img class="cmpny_icon" src="common/images/about_us_hover.png" alt="Outsourcing"  /> About US</a></li>
+                <!--<li><a title="How It Works" href="process">
+                                            <img class="cmpny_iconh" alt="How It Works" src="common/images/how_it_worksM.svg" />
+                                            <img class="cmpny_icon" src="common/images/how_it_works.svg" alt="24" >
+                                            How It Works</a></li>-->
+                
+                <li><a title="Blog" href="blog/" target="_blank"> <img class="cmpny_iconh" alt="Blog" src="common/images/blog.png" /> <img class="cmpny_icon" src="common/images/blog_hover.png" alt="BLOG" /> Blog</a></li>
+                <li><a class="faq-menu" title="FAQ's" href="faq"> <img class="cmpny_iconh" alt="FAQ" src="common/images/FAQ.png" /> <img class="cmpny_icon" src="common/images/FAQ_hover.png" alt="FAQ" /> FAQ</a></li>
+                <li><a class="testml-menu" title="CLIENT TESTIMONIALSs" href="testimonials"> <img class="cmpny_iconh" alt="CLIENT TESTIMONIALSs" src="common/images/testimonial-icon.png" /> <img class="cmpny_icon" src="common/images/testimonial_hover.png" alt="CLIENT TESTIMONIALSs" /> CLIENT TESTIMONIALS</a></li>
+                <!--<li><a class="cases-menu" title="Case Studies" href="case-studies/"> <img class="cmpny_iconh" alt="Case Studies" src="common/images/case_study.png" /> <img class="cmpny_icon" src="common/images/case_study_hover.png" alt="Case Studies" /> Case Studies</a></li>-->
+                <li class="last"><a class="approach-menu" title="approach" href="our-approach"> <img class="cmpny_iconh" alt="approach" src="common/images/approach.png" /> <img class="cmpny_icon" src="common/images/approach_hover.png" alt="approach" /> Approach</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="contact_us"><a href="contact" title="Contact" class="contact_last">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+<section class="error_page">
+   <div class="banner_sec">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<h1>404!</h1>
+				</div>
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+					<h2>Sorry, This page does not exist.</h2>
+					<h4>Lost? We suggest...</h4>
+					<ul>
+						<li>Please check the web address for typos</li>
+						<li>Visit the <a href="" title="Sitemap here">home page</a></li>
+						<li>Connect with us at : <a href="mailto:sales@valuecoders.com" title="sales@valuecoders.com">sales@valuecoders.com</a></li>
+					</ul>
+				</div>
+			</div> 
+		</div>
+	</div>
+<footer class="footer" role="contentinfo">
+    
+   <div class="awd_outer">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <ul class="awd_sec">
+                  <li><img src="common/images/awd_sprite_2209.jpg" alt="Deloitte"/></li>
+                  <!--<li><img src="common/images/awrd2.png" alt="Deloitte"/></li>
+                     <li><img src="common/images/awrd3.png" alt="Emerge"/></li>
+                     <li><img src="common/images/awrd4.png" alt="Asia Red"/></li>
+                     <li><img src="common/images/awrd5.png" alt="Eretail"/></li>
+                     <li><img src="common/images/awrd6.png" alt="Iso"/></li>
+                     <li><img src="common/images/awrd7.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd8.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd9.png" alt="Drupal"/></li>
+                     <li><img src="common/images/awrd10.png" alt="Magento"/></li>-->
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+      <div class="rating_outer">
+      <div class="container">
+         <div class="row rating_bx">
+            <div class="snippet col-md-8 col-sm-12 col-xs-12">
+               <div class="rating-section">
+                  <div class="rating-view">
+                     <div class="rateit-wrap">
+                        <div id="rateYo1" class="jq-ry-container" readonly="readonly" style="width: 73px;"></div>
+                        <div class="initail-rate">
+                                                      <span class="rate-btn enable"> Rate us</span>
+                                                      <!-- <span class="rate-btn rateYo2 edited already_rated">Already Rated</span> -->
+                        </div>
+                     </div>
+                     <div class="overall"><span itemscope="" itemtype="http://data-vocabulary.org/Review-aggregate">
+                        <span itemprop="rating" itemscope itemtype="http://data-vocabulary.org/Rating">
+                        <input type="hidden" name="post_id" id="rating_post_id">
+                        <input type="hidden" name="currentrate" id="currentrate" value="1203">
+                        <strong itemprop="average" id="ratingValue">4.9 </strong>
+                        out of <strong itemprop="best">5.0 </strong>
+                        </span>&nbsp; for &nbsp;
+                                                <span itemprop="itemreviewed">Software Development Services </span>   
+                                
+                        &nbsp; by &nbsp;<span class="client-project" style="display:block !important;"><span itemprop="votes" id="totalClient">1203 </span>clients on over 3800+ projects</span></span>
+                        <input type="hidden" name="rating_page_url" value="404.php" id="rating_page_url">
+                     </div>
+                  </div>
+                  <script type="text/javascript">
+                     var allreadyRated = '1';
+                     var ratingValue = '4.7';   
+                  </script>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+               <div class="social-btn pull-right">
+                  <div id="fb-root"></div>
+                  <div class="fb-like" data-href="https://www.facebook.com/ValueCoders" data-send="false" data-layout="button_count" data-width="350" data-show-faces="true"></div>
+                  <!-- Place this render call where appropriate -->
+                  <a href="https://twitter.com/share" class="twitter-share-button" data-url="">Tweet</a>
+                  <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+                  <script type="IN/Share" data-url="https://www.valuecoders.com" data-counter="right"></script>
+                  <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/103716832322080901612"></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="footer_bottom">
+      <div class="container">
+         <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+               <ul class="footer_menu">
+                  <!--                        <li><a href="application-maintenance" title="Application Maintenance">Application Maintenance</a><span>|</span></li>
+                     <li><a href="application-modernization" title="Application Modernization">Application Modernization</a><span>|</span></li>
+                     <li><a href="application-development" title="Application Development">Application Development</a><span>|</span></li>-->
+                  <!--<li><a href="communication-channels" title="Communication Channels">Communication Channels</a><span>|</span></li>-->
+                  <!--<li><a href="testing-qa" title="Testing & QA">Testing & QA</a><span>|</span></li>-->
+                  <li><a href="faq" title="FAQ">FAQ</a><span>|</span></li>
+                  <li><a href="disclaimer" title="Disclaimer">Disclaimer</a><span>|</span></li>
+                  <li><a href="privacy-policy" title="Privacy Policy">Privacy Policy</a><span>|</span></li>
+                  <li><a href="terms-of-service" title="Terms of Service">Terms of Service</a><span>|</span></li>
+                  <li><a title="Why India?" href="why-india">Why India?</a><span>|</span> </li>
+                  <li><a title="In Media" href="in-media">In Media & Partners</a><span>|</span></li>
+                  <li><a title="How It Works" href="process">How It Works</a></li>
+               </ul>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+               <ul class="social_sec">
+                  <li>
+                     <a href="https://twitter.com/ValueCoders" title="Twitter" target="_blank">
+                     <i class="fa fa-twitter-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.facebook.com/ValueCoders" title="Facebook" target="_blank">
+                     <i class="fa fa-facebook-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://plus.google.com/103716832322080901612/posts" title="Google +" target="_blank">
+                     <i class="fa fa-google-plus-square"></i>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://www.linkedin.com/company/valuecoders" title="Linkedin" target="_blank">
+                     <i class="fa fa-linkedin-square"></i>
+                     </a>
+                  </li>
+                  <li> <a href="https://www.youtube.com/valuecoders/" title="youtube" target="_blank"> <i class="fa fa-youtube-square" aria-hidden="true"></i>
+                     </i> </a> 
+                  </li>
+                  <li> <a href="https://www.instagram.com/valuecoder/" title="instagram" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i>
+                     </i>
+                     </i> </a> 
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+               <p>Copyright &copy; 2004 - 2019. All Rights Reserved. ValueCoders.com</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+</section>
+</div>
+</div>
+<script type="text/javascript" src="common/js/cmnJs.min.js"></script>
+<!--<script type="text/javascript" src="common/js/jquery.rateyo.min.js"></script>-->
+<script>
+   var $ratevalue = $("#rateYo1").rateYo({ 
+           onSet: function (rating, rateYoInstance) {
+               rate_url = $("#rating_page_url").val();
+               currentrate = $("#currentrate").val();
+               $.ajax({
+                   type: "POST",
+                   url: "./ajax_act.php?t=" + Math.floor((Math.random() * 1000000) + 1),
+                   dataType: "html",
+                   data: {
+                       rating: rating,
+                       rate_url:rate_url,
+                       ratingPoints:currentrate,
+                       action: "userRating"
+                   },
+                   success: function (response) {
+                       var obj = JSON.parse(response)
+                       var totalClient = obj.totalClient;
+                       var totalRating = obj.totalRating;
+                       $("#ratingValue").html(totalRating);
+                       $("#totalClient").html(totalClient);
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').addClass('edited');
+                       $('.rateit-wrap').find('.rate-btn.rateYo2').text('Rated');
+                       $("#rateYo1").rateYo("option", "readOnly", true);
+                   }
+               });
+           },
+           rating: ratingValue,
+           halfStar: true,
+           starWidth: "13px",
+           ratedFill: "#fdc532",
+           normalFill: "#ffffff",
+           spacing: "2px",
+           readOnly: true
+       });
+   
+       $("#rateYo1 svg").click(function (e) {
+   
+          
+           if ($('#rateYo1').hasClass('rateYo2') && !$('#totalClient').hasClass('mark')) {
+              
+               /* get rating */            
+               $("#totalClient").addClass("mark");
+               $(this).addClass('sucess');
+               
+               setTimeout(function () {
+                   $('.rate-submit').fadeOut(500);
+               }, 1000);
+           } else if ($('#rateYo1').hasClass('rateYo2') && $('#totalClient').hasClass('mark')) {
+               $('.rate-btn.rateYo2').text('Already Rated');
+               $('.rate-btn.rateYo2').addClass('already_rated');
+   
+           } else {
+               e.preventDefault();
+               return false;
+           }
+   
+       });
+       $('.rate-btn').on('click', function (e) {
+           if ($('.edited').length > 0) {
+               e.preventDefault();
+               return false;                         
+           }
+           else {
+               $("#rateYo1").rateYo("option", "readOnly", false);
+               $(".rate-submit").addClass("full-show");
+               $("#rateYo1").addClass("rateYo2");
+               $(this).addClass("rateYo2");
+               $(this).removeClass("enable");
+               $(this).text("Click to rate");
+           }
+       });
+</script>
+<!--linkedin conversion tracking code-->
+<script type="text/javascript">
+   _linkedin_data_partner_id = "36540";
+</script><script type="text/javascript">
+   (function(){var s = document.getElementsByTagName("script")[0];
+   var b = document.createElement("script");
+   b.type = "text/javascript";b.async = true;
+   b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+   s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript> <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=36540&fmt=gif" /> </noscript>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27094506-1"></script>
+<script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments)};
+   gtag('js', new Date());
+   
+   gtag('config', 'UA-27094506-1');
+</script> 
+<script>
+   setTimeout(function() {  
+   !function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0], c = /^http:/.test(e.location) ? "http" : "https";
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = c + "://platform.twitter.com/widgets.js", s.parentNode.insertBefore(a, s))
+   }(document, "script", "twitter-wjs"), function(e, t, n) {
+      var a, s = e.getElementsByTagName(t)[0];
+      e.getElementById(n) || (a = e.createElement(t), a.id = n, a.src = "//connect.facebook.net/en_US/all.js#xfbml=1", s.parentNode.insertBefore(a, s))
+   }(document, "script", "facebook-jssdk"), function() {
+      var e = document.createElement("script");
+      e.type = "text/javascript", e.async = !0, e.src = "https://apis.google.com/js/plusone.js";
+      var t = document.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(e, t)
+   }();
+   }, 6000);
+</script>
+<!-- Addroll Code Ends -->
+</body>
+</html>
